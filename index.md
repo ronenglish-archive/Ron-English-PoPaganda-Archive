@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Banner.jpg" width="80%">
+  <img src="images/Banner2.jpg" width="80%">
 </p>
 
 - [Solo exhibitions by decade](solo-exhibitions.md)  
