@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/Delusionville%20Manifesto%20PAINTING%20XIMENA.jpg" width="80%">
+</p>
+
 - [Solo exhibitions by decade](solo-exhibitions.md)  
 - [Group exhibitions by decade](group-exhibitions.md)  
 - [Murals and street works](murals-and-street-works.md)  
