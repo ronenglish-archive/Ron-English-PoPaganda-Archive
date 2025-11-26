@@ -1,6 +1,3 @@
-.nojekyll
-
-
 [Home](index.md) · 
 [Solo exhibitions](solo-exhibitions.md) · 
 [Group exhibitions](group-exhibitions.md) · 
