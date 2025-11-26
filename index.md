@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Delusionville%20Manifesto%20PAINTING%20XIMENA.jpg" width="80%">
+  <img src="images/Banner.jpg" width="80%">
 </p>
 
 - [Solo exhibitions by decade](solo-exhibitions.md)  
