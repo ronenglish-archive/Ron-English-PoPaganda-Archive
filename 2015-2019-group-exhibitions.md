@@ -1,13 +1,13 @@
-[Home](index.md) · 
-[Solo exhibitions](solo-exhibitions.md) · 
-[Group exhibitions](group-exhibitions.md) · 
-[Murals & street works](murals-and-street-works.md) · 
-[Pop-ups, shops & brand activations](pop-ups-shops-brand-activations.md) · 
-[Benefit auctions & charity projects](benefit-auctions-charity-projects.md) · 
-[Film screenings, festivals & film events](film-screenings-festivals-film-events.md) · 
-[Digital projects, NFT & crypto-art](digital-projects-nft-crypto-art.md) · 
-[Public talks, lectures & book signings](public-talks-lectures-book-signings.md) · 
-[Special events, parties & tours](special-events-parties-tours.md)
+[Home](index.html) · 
+[Solo exhibitions](solo-exhibitions.html) · 
+[Group exhibitions](group-exhibitions.html) · 
+[Murals & street works](murals-and-street-works.html) · 
+[Pop-ups, shops & brand activations](pop-ups-shops-brand-activations.html) · 
+[Benefit auctions & charity projects](benefit-auctions-charity-projects.html) · 
+[Film screenings, festivals & film events](film-screenings-festivals-film-events.html) · 
+[Digital projects, NFT & crypto-art](digital-projects-nft-crypto-art.html) · 
+[Public talks, lectures & book signings](public-talks-lectures-book-signings.html) · 
+[Special events, parties & tours](special-events-parties-tours.html)
 
 
 # 2015–2019 Group Exhibitions
