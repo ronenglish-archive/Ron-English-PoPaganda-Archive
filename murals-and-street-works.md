@@ -33,23 +33,42 @@
 
 ### <a id="berlin-wall-1989"></a>1989 – Berlin Wall, Checkpoint Charlie
 
-[![Ron English – Berlin Wall mural, wide view](images/Murals/Berlin-Wall-1.jpg)](images/Berlin-Wall-1.jpg)  
-[![Ron English – Berlin Wall mural, alternate view](images/Murals/Berlin-Wall-2.jpg)](images/Berlin-Wall-2.jpg)  
-[![Ron English – Berlin Wall mural, process or detail](images/Murals/Berlin-Wall-3.jpg)](images/Berlin-Wall-3.jpg)  
-[![Ron English – Berlin Wall mural, additional angle](images/Murals/Berlin-Wall-4.jpg)](images/Berlin-Wall-4.jpg)  
-[![Ron English – related Berlin Wall ephemera](images/Murals/Berlin-Wall-5.png)](images/Berlin-Wall-5.png)
-[![Ron English – Berlin Wall mural, additional angle](images/Murals/Berlin-Wall-6.jpg)](images/Berlin-Wall-6.jpg)
+<a href="images/Murals/Berlin-Wall-1.jpg">
+  <img src="images/Murals/Berlin-Wall-1.jpg" width="350">
+</a>
+
+<a href="images/Murals/Berlin-Wall-2.jpg">
+  <img src="images/Murals/Berlin-Wall-2.jpg" width="350">
+</a>
+
+<a href="images/Murals/Berlin-Wall-3.jpg">
+  <img src="images/Murals/Berlin-Wall-3.jpg" width="350">
+</a>
+
+<a href="images/Murals/Berlin-Wall-5.png">
+  <img src="images/Murals/Berlin-Wall-5.png" width="350">
+</a>
+
+<a href="images/Murals/Berlin-Wall-6.jpg">
+  <img src="images/Murals/Berlin-Wall-6.jpg" width="350">
+</a>
 
 [Back to table ↑](#murals-table)
 
 ### <a id="wynwood-2018"></a>2018 – Wynwood Walls (Basel Week)
 
-[![Ron English – Wynwood Walls mural, Basel Week 2018](images/Murals/Wynwood-Walls-2018.jpg)](images/Murals/Wynwood-Walls-2018.jpg)
+<a href="images/Murals/Wynwood-Walls-2018.jpg">
+  <img src="images/Murals/Wynwood-Walls-2018.jpg" width="350">
+</a>
 
 [Back to table ↑](#murals-table)
+
 
 ### <a id="jersey-city-2021"></a>2021 – Jersey City Mural Festival (Inaugural Edition)
 
-[![Ron English – Jersey City Mural Arts Program, 2021](images/Murals/Jersey-City-Mural-Arts-Program-1.jpg)](images/Murals/Jersey-City-Mural-Arts-Program-1.jpg)
+<a href="images/Murals/Jersey-City-Mural-Arts-Program-1.jpg">
+  <img src="images/Murals/Jersey-City-Mural-Arts-Program-1.jpg" width="350">
+</a>
 
 [Back to table ↑](#murals-table)
+
