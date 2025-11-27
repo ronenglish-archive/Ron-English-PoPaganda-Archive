@@ -35,6 +35,6 @@
 [![Ron English – Berlin Wall mural, process or detail](images/Murals/Berlin-Wall-3.jpg)](images/Berlin-Wall-3.jpg)  
 [![Ron English – Berlin Wall mural, additional angle](images/Murals/Berlin-Wall-4.jpg)](images/Berlin-Wall-4.jpg)  
 [![Ron English – related Berlin Wall ephemera](images/Murals/Berlin-Wall-5.png)](images/Berlin-Wall-5.png)
-
+[![Ron English – Berlin Wall mural, additional angle](images/Murals/Berlin-Wall-6.jpg)](images/Berlin-Wall-6.jpg)
 
 
