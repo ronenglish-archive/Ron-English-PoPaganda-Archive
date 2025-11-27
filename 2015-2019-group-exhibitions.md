@@ -1,13 +1,17 @@
-[Home](index.html) · 
-[Solo exhibitions](solo-exhibitions.html) · 
-[Group exhibitions](group-exhibitions.html) · 
-[Murals & street works](murals-and-street-works.html) · 
-[Pop-ups, shops & brand activations](pop-ups-shops-brand-activations.html) · 
-[Benefit auctions & charity projects](benefit-auctions-charity-projects.html) · 
-[Film screenings, festivals & film events](film-screenings-festivals-film-events.html) · 
-[Digital projects, NFT & crypto-art](digital-projects-nft-crypto-art.html) · 
-[Public talks, lectures & book signings](public-talks-lectures-book-signings.html) · 
-[Special events, parties & tours](special-events-parties-tours.html)
+<p align="center">
+  <sub>
+    <a href="index.html">Home</a> ·
+    <a href="solo-exhibitions.html">Solo&nbsp;exhibitions</a> ·
+    <a href="group-exhibitions.html">Group&nbsp;exhibitions</a> ·
+    <a href="murals-and-street-works.html">Murals&nbsp;&amp;&nbsp;street&nbsp;works</a> ·
+    <a href="pop-ups-shops-brand-activations.html">Pop-ups,&nbsp;shops&nbsp;&amp;&nbsp;brand&nbsp;activations</a> ·
+    <a href="benefit-auctions-charity-projects.html">Benefit&nbsp;auctions&nbsp;&amp;&nbsp;charity&nbsp;projects</a> ·
+    <a href="film-screenings-festivals-film-events.html">Film&nbsp;screenings,&nbsp;festivals&nbsp;&amp;&nbsp;film&nbsp;events</a> ·
+    <a href="digital-projects-nft-crypto-art.html">Digital&nbsp;projects,&nbsp;NFT&nbsp;&amp;&nbsp;crypto-art</a> ·
+    <a href="public-talks-lectures-book-signings.html">Public&nbsp;talks,&nbsp;lectures&nbsp;&amp;&nbsp;book&nbsp;signings</a> ·
+    <a href="special-events-parties-tours.html">Special&nbsp;events,&nbsp;parties&nbsp;&amp;&nbsp;tours</a>
+  </sub>
+</p>
 
 
 # 2015–2019 Group Exhibitions
