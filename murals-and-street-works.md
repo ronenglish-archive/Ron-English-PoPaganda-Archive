@@ -30,11 +30,11 @@
 
 ### <a id="berlin-wall-1989"></a>1989 – Berlin Wall, Checkpoint Charlie
 
-[![Ron English – Berlin Wall mural, wide view](images/Berlin-Wall-1.jpg)](images/Berlin-Wall-1.jpg)  
-[![Ron English – Berlin Wall mural, alternate view](images/Berlin-Wall-2.jpg)](images/Berlin-Wall-2.jpg)  
-[![Ron English – Berlin Wall mural, process or detail](images/Berlin-Wall-3.jpg)](images/Berlin-Wall-3.jpg)  
-[![Ron English – Berlin Wall mural, additional angle](images/Berlin-Wall-4.jpg)](images/Berlin-Wall-4.jpg)  
-[![Ron English – related Berlin Wall ephemera](images/Berlin-Wall-5.png)](images/Berlin-Wall-5.png)
+[![Ron English – Berlin Wall mural, wide view](images/Murals/Berlin-Wall-1.jpg)](images/Berlin-Wall-1.jpg)  
+[![Ron English – Berlin Wall mural, alternate view](images/Murals/Berlin-Wall-2.jpg)](images/Berlin-Wall-2.jpg)  
+[![Ron English – Berlin Wall mural, process or detail](images/Murals/Berlin-Wall-3.jpg)](images/Berlin-Wall-3.jpg)  
+[![Ron English – Berlin Wall mural, additional angle](images/Murals/Berlin-Wall-4.jpg)](images/Berlin-Wall-4.jpg)  
+[![Ron English – related Berlin Wall ephemera](images/Murals/Berlin-Wall-5.png)](images/Berlin-Wall-5.png)
 
 
 
