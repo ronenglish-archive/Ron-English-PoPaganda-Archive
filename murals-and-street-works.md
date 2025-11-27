@@ -71,8 +71,8 @@
 
 ### <a id="contra-projects-primary-flight-2010"></a>2010 – Contra Projects × Primary Flight (Wynwood)
 
-<a href="images/Murals/Primary-Flight-2010-1.jpg">
-  <img src="images/Murals/Primary-Flight-2010-1.jpg" width="350">
+<a href="images/Murals/Primary-Flight-2010-1.jpeg">
+  <img src="images/Murals/Primary-Flight-2010-1.jpeg" width="350">
 </a>
 
 <a href="images/Murals/Primary-Flight-2010-2.jpg">
