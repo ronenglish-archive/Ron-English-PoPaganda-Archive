@@ -197,15 +197,20 @@
 
 [Back to table ↑](#murals-table)
 
-<div align="center">
-
 ### Miami Marine Stadium — Ron English (2014)
 
-<img src="images/Marine-Stadium-1.jpg" width="800"/>
+<a href="images/Murals/Marine-Stadium-1.jpg">
+  <img src="images/Murals/Marine-Stadium-1.jpg" alt="Ron English – Grin Baby mural for Richmond Mural Project 2014" width="450">
+</a>
 
-<img src="images/Marine-Stadium-2.jpg" width="800"/>
+<a href="images/Murals/Marine-Stadium-2.jpg">
+  <img src="images/Murals/Marine-Stadium-2.jpg" alt="Ron English – Grin Baby mural for Richmond Mural Project 2014" width="450">
+</a>
 
-<img src="images/Marine-Stadium-3.jpg" width="800"/>
+<a href="images/Murals/Marine-Stadium-3.jpg">
+  <img src="images/Murals/Marine-Stadium-3.jpg" alt="Ron English – Grin Baby mural for Richmond Mural Project 2014" width="450">
+</a>
+
 
 </div>
 
