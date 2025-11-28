@@ -222,12 +222,8 @@
 
 ### <a id="elefanka-mousezilla-2019"></a>2019 – Elefanka and Mousezilla (Erie & 16th St., Jersey City)
 
-<a href="images/Murals/Elefanka-Mousezilla-1.jpg">
-  <img src="images/Murals/Elefanka-Mousezilla-1.jpg" width="350">
-</a>
-
-<a href="images/Murals/Elefanka-Mousezilla-2.jpg">
-  <img src="images/Murals/Elefanka-Mousezilla-2.jpg" width="350">
+<a href="images/Murals/Jersey-City-Mural-Arts-Program-1.jpg">
+  <img src="images/Murals/Jersey-City-Mural-Arts-Program-1.jpg" width="350">
 </a>
 
 [Back to table ↑](#murals-table)
