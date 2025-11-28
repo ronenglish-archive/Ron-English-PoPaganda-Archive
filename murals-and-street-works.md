@@ -96,10 +96,6 @@
   <img src="images/Murals/Medicine-Agency-1.jpg" width="350">
 </a>
 
-<a href="images/Murals/Medicine-Agency-2.jpg">
-  <img src="images/Murals/Medicine-Agency-2.jpg" width="350">
-</a>
-
 <a href="images/Murals/Medicine-Agency-3.jpg">
   <img src="images/Murals/Medicine-Agency-3.jpg" width="350">
 </a>
