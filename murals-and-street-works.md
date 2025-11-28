@@ -114,6 +114,13 @@
   <img src="images/Murals/Medicine-Agency-6.jpg" width="350">
 </a>
 
+<a href="images/Murals/Medicine-Agency-7.jpg">
+  <img src="images/Murals/Medicine-Agency-7.jpg" width="350">
+</a>
+
+<a href="images/Murals/Medicine-Agency-8.jpg">
+  <img src="images/Murals/Medicine-Agency-8.jpg" width="350">
+</a>
 [Back to table ↑](#murals-table)
 
 ### <a id="wynwood-babyhulk-2010"></a>2010 – Baby Hulk / Temper Tot (Wynwood Walls, Miami)
