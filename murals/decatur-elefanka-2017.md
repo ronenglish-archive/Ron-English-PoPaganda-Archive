@@ -53,7 +53,7 @@
 **Artist:** Ron English  
 
 ![Ron English – Elefanka mural, Decatur IL 2017](../images/Murals/Elefanka-Decatur.webp)
-
+![Ron English – Elefanka mural, Decatur IL 2017](../images/Murals/Decatur2.jpg)
 ## Description
 
 In 2017 Ron English returned to his hometown of Decatur to produce “Elefanka,” a mural painted on the exterior wall of Ken’s Aquarium & Pet Supply. The character — emblematic of English’s POPaganda universe — joins other community murals commissioned under the Decatur Area Arts Council’s Mural Project. :contentReference[oaicite:3]{index=3}  
