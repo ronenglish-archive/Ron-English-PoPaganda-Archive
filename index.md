@@ -1,35 +1,28 @@
-<!-- Swirly animated background -->
+<!-- CURSOR-FOLLOW COLOR SWIRL BACKGROUND -->
 <style>
-  .swirl-bg {
+  #cursor-swirl {
     position: fixed;
     inset: 0;
     z-index: -1;
-    background:
-      radial-gradient(circle at 0% 0%, #ffd6ff 0, transparent 55%),
-      radial-gradient(circle at 100% 0%, #c3e7ff 0, transparent 55%),
-      radial-gradient(circle at 0% 100%, #fff1b8 0, transparent 55%),
-      radial-gradient(circle at 100% 100%, #d5b8ff 0, transparent 55%);
-    background-size: 200% 200%;
-    animation: swirl-bg-move 30s ease-in-out infinite;
-    opacity: 0.35; /* strength of the color burst */
     pointer-events: none;
+
+    /* neon swirl that follows the mouse */
+    background: radial-gradient(
+      circle at center,
+      #ffd6ff 0%,
+      #c3e7ff 25%,
+      #fff1b8 45%,
+      transparent 70%
+    );
+
+    opacity: 0.40; /* strength of color */
+    transition: background-position 0.12s ease-out;
   }
 
-  @keyframes swirl-bg-move {
-    0% {
-      background-position: 0% 0%;
-    }
-    50% {
-      background-position: 100% 100%;
-    }
-    100% {
-      background-position: 0% 0%;
-    }
-  }
-
+  /* grid cards */
   .pop-card {
     padding: 16px 12px;
-    background: #e5e0ff; /* soft purple base */
+    background: #e5e0ff;
     border-radius: 8px;
     border: 1px solid #c7b4ff;
     text-decoration: none;
@@ -38,6 +31,7 @@
     transition: all 0.3s ease;
   }
 
+  /* hover burst */
   .pop-card:hover {
     background: linear-gradient(
       135deg,
@@ -52,20 +46,30 @@
   }
 </style>
 
-<div class="swirl-bg"></div>
+<div id="cursor-swirl"></div>
 
-<!-- Main page content on top of the swirl -->
+<script>
+  const swirl = document.getElementById("cursor-swirl");
+
+  document.addEventListener("mousemove", (e) => {
+    const x = (e.clientX / window.innerWidth) * 100;
+    const y = (e.clientY / window.innerHeight) * 100;
+    swirl.style.backgroundPosition = `${x}% ${y}%`;
+  });
+</script>
+
+
+<!-- MAIN CONTENT WRAPPER -->
 <div style="background-color: #ffffff; min-height: 100vh; padding: 20px 0;">
 
-  <!-- Centered content wrapper -->
   <div style="max-width: 1100px; margin: 0 auto; text-align: center; display: block;">
 
-    <!-- Banner -->
+    <!-- BANNER -->
     <img src="images/Banner2.jpg"
          alt="POPaganda Archive banner"
          style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 32px;" />
 
-    <!-- Responsive Grid -->
+    <!-- GRID OF LINKS -->
     <div style="
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
@@ -112,5 +116,6 @@
 
     </div> <!-- end grid -->
 
-  </div> <!-- end centered content wrapper -->
+  </div> <!-- end content wrapper -->
 </div> <!-- end white background wrapper -->
+
