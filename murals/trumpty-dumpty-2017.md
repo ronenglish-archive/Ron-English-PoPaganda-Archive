@@ -18,7 +18,7 @@
 # 2017 – *Trumpty Dumpty*  
 **Bushwick, Brooklyn — Troutman Street**
 
-**Year:** 2017  
+**Year:** 2016  
 **Location:** Troutman Street, Bushwick, Brooklyn, New York, US  
 
 Painted during the opening months of the Trump presidency, Ron English’s **\*Trumpty Dumpty\*** rapidly became one of his most widely circulated political murals. English reimagined the Humpty Dumpty nursery rhyme as a satire of American politics: a Trump-like figure perched precariously on a cracked wall.  
