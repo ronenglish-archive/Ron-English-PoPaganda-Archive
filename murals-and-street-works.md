@@ -21,7 +21,7 @@
 **Click on each image to see more information.**
 <style>
   .mural-thumb {
-    max-width: 80px;   /* adjust size here */
+    max-width: 50px;   /* adjust size here */
     height: auto;
     display: block;
   }
