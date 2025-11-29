@@ -36,8 +36,12 @@ Festival coverage described the weekend as a “Woodstock for artists,” noting
 
 ## Sources
 
-*(Add actual URLs here — I can gather them for you.)*
+- https://patch.com/new-jersey/jersey-city/jersey-city-welcomes-woodstock-artists-new-mural-fest  
+- https://www.brooklynstreetart.com/2021/06/05/jersey-city-mural-festival-popping-this-weekend/  
+- https://www.brooklynstreetart.com/2021/06/10/community-and-street-aesthetics-popping-at-jersey-city-mural-festival-2021/  
+- https://jerseycitymuralfestival.com/artist/ron-english/  
+- https://jerseycitymuralfestival.com/  
+- https://everythingjerseycity.com/jersey-city-mural-arts-festival-recap/  
+- https://www.jerseysbest.com/community/takin-it-to-the-streets-how-murals-are-transforming-n-j-communities/  
+- https://www.youtube.com/watch?v=v933G0Z3bt0  
 
-- Jersey City Mural Festival photo coverage  
-- Local press documenting festival murals  
-- Artist & festival social-media postings  
