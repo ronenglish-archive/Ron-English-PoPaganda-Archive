@@ -24,10 +24,12 @@ One of the most recognizable works from the early **LA Freewalls** initiative, �
 
 ---
 
-## Main Image
+## Images
 
 ![Urban Bigfoot mural – Ron English, Los Angeles Freewalls, 2010](../images/Murals/Bigfoot-Mural.jpg)
-
+![Urban Bigfoot mural – Ron English, Los Angeles Freewalls, 2010](../images/Murals/Urban-Bigfoot-2013-3.jpg)
+![Urban Bigfoot mural – Ron English, Los Angeles Freewalls, 2010](../images/Murals/Urban-Bigfoot-2013-1.jpg)
+![Urban Bigfoot mural – Ron English, Los Angeles Freewalls, 2010](../images/Murals/Urban-Bigfoot-2013-2.jpg)
 ---
 
 ## Sources
