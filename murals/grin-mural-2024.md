@@ -59,10 +59,6 @@
 
 Ron English created this large-scale **“Grin” Smiley skull** mural in early 2024 as part of **Public Pool**, a community art initiative in Greenpoint. The piece blends his iconic grinning skull imagery with the classic yellow Smiley—an image English has reinterpreted for decades in both street and gallery contexts. Installed on a bright red exterior wall, the mural quickly became a focal point in the neighborhood and was widely photographed during its completion.
 
-## Gallery
-
-![Grin Mural – main view](../images/Murals/Grin-Mural.jpg)
-
 ## Sources
 
 - [Brooklyn Street Art – Images of the Week (April 28, 2024)](https://www.brooklynstreetart.com/2024/04/28/bsa-images-of-the-week-04-28-24/)  
