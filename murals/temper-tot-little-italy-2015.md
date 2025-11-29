@@ -25,16 +25,12 @@ Painted for the first **LoMan Arts Festival**, Ron English returned to Mulberry 
 
 ---
 
-## Main Images
-
-### **Little Italy 2**
+## Images
 
 ![Pink Temper Tot – Little Italy (LoMan) 2015](../images/Murals/Little-Italy-2.jpg)
-
-### **Little Italy 3**
-
 ![Pink Temper Tot detail – Little Italy (LoMan) 2015](../images/Murals/Little-Italy-3.jpg)
-
+![Pink Temper Tot detail – Little Italy (LoMan) 2015](../images/Murals/LittleItaly-1.jpg)
+![Pink Temper Tot detail – Little Italy (LoMan) 2015](../images/Murals/LittleItaly-2.jpg)
 ---
 
 ## Sources
