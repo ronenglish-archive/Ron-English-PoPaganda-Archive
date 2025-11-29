@@ -51,7 +51,28 @@
     height: auto;
     display: block;
   }
+
+  /* Table styling for better readability */
+  table {
+    font-size: 16px;
+    color: #111;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  table th,
+  table td {
+    text-align: center;
+    vertical-align: middle;
+    padding: 10px;
+    border: 1px solid #bbb;
+  }
+
+  table th {
+    font-weight: 600;
+  }
 </style>
+
 
 | Image | Year | Location | Mural title |
 |:-----:|:----:|:--------:|:-----------:|
