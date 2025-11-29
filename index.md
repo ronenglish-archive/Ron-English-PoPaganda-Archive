@@ -6,45 +6,26 @@
     padding: 0;
   }
 
-  /* Soft cursor-follow swirl in the deep background */
-  #cursor-swirl {
+  /* Comet streak particles */
+  .comet {
     position: fixed;
-    inset: 0;
-    z-index: -3;
     pointer-events: none;
-    background: radial-gradient(
-      circle at center,
-      #ffd6ff 0%,
-      #c3e7ff 12%,
-      #fff1b8 25%,
-      transparent 60%
-    );
-    opacity: 0.25;
-    transition: background-position 0.12s ease-out;
-  }
-
-  /* Spray-paint dots (trail + bursts) — ABOVE everything */
-  .glow-dot {
-    position: fixed;
-    width: 26px;      /* base spray size */
-    height: 26px;
-    border-radius: 50%;
-    pointer-events: none;
-    z-index: 999;     /* sits over banner + buttons */
-    opacity: 0.85;
+    z-index: 999;              /* above everything */
+    border-radius: 999px;
+    opacity: 0.9;
     transform: translate(-50%, -50%);
-    animation: fadeOut 1.1s linear forwards;
-    filter: blur(6px); /* softer, spray-like edge */
+    animation: cometFade 0.6s ease-out forwards;
+    filter: blur(2px);         /* softer neon edge */
   }
 
-  @keyframes fadeOut {
+  @keyframes cometFade {
     0% {
       opacity: 0.9;
       transform: translate(-50%, -50%) scale(1);
     }
     100% {
       opacity: 0;
-      transform: translate(-50%, -50%) scale(0.25);
+      transform: translate(-50%, -50%) scale(0.5);
     }
   }
 
@@ -74,81 +55,74 @@
   }
 </style>
 
-<div id="cursor-swirl"></div>
-
 <script>
-  const swirl = document.getElementById("cursor-swirl");
-
-  // Move swirl + spray trail with cursor
-  document.addEventListener("mousemove", (e) => {
-    const xPercent = (e.clientX / window.innerWidth) * 100;
-    const yPercent = (e.clientY / window.innerHeight) * 100;
-    swirl.style.backgroundPosition = `${xPercent}% ${yPercent}%`;
-
-    createSpray(e.clientX, e.clientY);
-  });
-
-  // Extra bright color burst on click
-  document.addEventListener("click", (e) => {
-    createBurst(e.clientX, e.clientY);
-  });
-
+  let lastX = null;
+  let lastY = null;
   let hue = 0;
 
-  // Core function: one spray dot
-  function createGlow(x, y, sizeMultiplier = 1, brightness = 75) {
-    const dot = document.createElement("div");
-    dot.className = "glow-dot";
+  document.addEventListener("mousemove", (e) => {
+    const x = e.clientX;
+    const y = e.clientY;
 
-    // randomize size a little for spray texture
-    const base = 26;
-    const jitter = Math.random() * 10 - 5; // -5 to +5
-    const size = (base + jitter) * sizeMultiplier;
-    dot.style.width = size + "px";
-    dot.style.height = size + "px";
-
-    dot.style.left = x + "px";
-    dot.style.top = y + "px";
-
-    dot.style.background = `radial-gradient(circle, hsl(${hue}, 100%, ${brightness}%), transparent 70%)`;
-
-    hue = (hue + 18) % 360; // faster color cycling for Ron energy
-
-    document.body.appendChild(dot);
-    setTimeout(() => dot.remove(), 1100);
-  }
-
-  // Spray-paint trail: small cluster around cursor
-  function createSpray(x, y) {
-    const particles = 4;            // dots per step
-    const maxDist = 28;             // radius of spray cloud
-
-    for (let i = 0; i < particles; i++) {
-      const angle = Math.random() * Math.PI * 2;
-      const dist = Math.random() * maxDist;
-      const offsetX = Math.cos(angle) * dist;
-      const offsetY = Math.sin(angle) * dist;
-
-      // slightly dimmer than bursts so bursts stand out
-      createGlow(x + offsetX, y + offsetY, 1, 70);
+    if (lastX === null || lastY === null) {
+      lastX = x;
+      lastY = y;
+      return;
     }
-  }
 
-  // Click burst: brighter, larger spray explosion
-  function createBurst(x, y) {
-    const particles = 12;      // more dots for bursts
-    const minDist = 10;
-    const maxDist = 90;
+    const dx = x - lastX;
+    const dy = y - lastY;
+    const dist = Math.sqrt(dx * dx + dy * dy);
 
-    for (let i = 0; i < particles; i++) {
-      const angle = Math.random() * Math.PI * 2;
-      const dist = minDist + Math.random() * (maxDist - minDist);
-      const offsetX = Math.cos(angle) * dist;
-      const offsetY = Math.sin(angle) * dist;
-
-      // larger & brighter for bursts
-      createGlow(x + offsetX, y + offsetY, 1.6, 85);
+    // Skip if barely moving (prevents too many tiny streaks)
+    if (dist < 2) {
+      lastX = x;
+      lastY = y;
+      return;
     }
+
+    const angle = Math.atan2(dy, dx) * (180 / Math.PI);
+
+    createComet(x, y, dist, angle);
+
+    lastX = x;
+    lastY = y;
+  });
+
+  function createComet(x, y, dist, angle) {
+    const comet = document.createElement("div");
+    comet.className = "comet";
+
+    // Length scales with speed, clamped to reasonable range
+    const baseLength = 40;
+    const maxExtra = 100;
+    const length = baseLength + Math.min(dist * 1.5, maxExtra);
+    const thickness = 6;
+
+    comet.style.width = length + "px";
+    comet.style.height = thickness + "px";
+
+    comet.style.left = x + "px";
+    comet.style.top = y + "px";
+
+    // Color cycles through RGB spectrum
+    const currentHue = hue;
+    hue = (hue + 12) % 360;
+
+    comet.style.background = `linear-gradient(90deg,
+      hsla(${currentHue}, 100%, 70%, 0) 0%,
+      hsla(${currentHue}, 100%, 70%, 0.1) 20%,
+      hsla(${currentHue}, 100%, 70%, 0.8) 60%,
+      hsla(${currentHue}, 100%, 80%, 1) 100%
+    )`;
+
+    comet.style.transform = `translate(-50%, -50%) rotate(${angle}deg)`;
+
+    document.body.appendChild(comet);
+
+    setTimeout(() => {
+      comet.remove();
+    }, 600);
   }
 </script>
 
