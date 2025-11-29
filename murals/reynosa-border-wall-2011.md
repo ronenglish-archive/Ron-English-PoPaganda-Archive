@@ -51,14 +51,13 @@
 **Year:** 2011  
 **Location:** Reynosa, Tamaulipas, Mexico — near the U.S.–Mexico border  
 
+## Images
 ![Ron English – Reynosa Border Wall 2011](../images/Murals/Welcome-Wall-April-2019-1.jpg)
-
-## Gallery
-
 ![Reynosa Border Wall – view 2](../images/Murals/Welcome-Wall-April-2019-2.jpg)  
 ![Reynosa Border Wall – view 3](../images/Murals/Welcome-Wall-April-2019-3.jpg)  
 ![Reynosa Border Wall – view 4](../images/Murals/Welcome-Wall-April-2019-4.jpg)  
 ![Reynosa Border Wall – view 5](../images/Murals/Welcome-Wall-April-2019-5.jpg)  
+![Reynosa Border Wall – view 5](../images/Murals/Welcome-Wall.jpg) 
 
 ## Sources
 
