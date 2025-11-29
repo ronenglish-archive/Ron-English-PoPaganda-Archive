@@ -65,6 +65,7 @@ Ron English developed a suite of POPaganda characters on the seventh floor of th
 ![ProAm Studio City seventh-floor – view 8](../images/Murals/PROAM8.jpg)  
 ![ProAm Studio City seventh-floor – view 9](../images/Murals/PROAM9.jpg)  
 ![ProAm Studio City seventh-floor – view 10](../images/Murals/PROAM10.jpg)
+![ProAm Studio City seventh-floor – view 10](../images/Murals/PROAM11.jpg)
 
 ## Sources
 
