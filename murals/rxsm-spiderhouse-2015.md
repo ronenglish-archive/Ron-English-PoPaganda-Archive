@@ -35,8 +35,8 @@ Popaganda, Montana-Cans, and local blogs frame the piece as a defining moment of
 
 ## Sources
 
-- https://urban-nation.com/2016/12/paint-protest-party-bsa-x-art-basel-miami-16-dispatch-5/  
-- https://www.montana-cans.blog/risk-ron-englishs-latest-mural-austin-texas/  
-- https://www.popaganda.com/news/archive-popaganda-x-sxsw-awesome  
-- https://www.popaganda.com/news/archive-rxsm-the-expression  
-- https://www.dailytexanonline.com/2015/04/23/spiderhouse-mural-concerns-reader/  
+- [Urban Nation – Paint, Protest, Party (BSA x Art Basel Miami)](https://urban-nation.com/2016/12/paint-protest-party-bsa-x-art-basel-miami-16-dispatch-5/)
+- [Montana Cans – Risk & Ron English’s latest mural in Austin](https://www.montana-cans.blog/risk-ron-englishs-latest-mural-austin-texas/)
+- [POPaganda – Archive: POPaganda x SXSW “Awesome”](https://www.popaganda.com/news/archive-popaganda-x-sxsw-awesome)
+- [POPaganda – Archive: RXSM “The Expression”](https://www.popaganda.com/news/archive-rxsm-the-expression)
+- [The Daily Texan – Spiderhouse mural concerns reader](https://www.dailytexanonline.com/2015/04/23/spiderhouse-mural-concerns-reader/)
