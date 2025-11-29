@@ -120,4 +120,3 @@
 | [![LCCC DC mural 2022 – thumbnail](images/Murals/LCCC.jpg)](murals/lccc-dc-2022.html) | <a id="lccc-dc-2022-row"></a>2022 (Mar 4) | Washington, D.C., US | LCCC Delusionville mural – Murals for Humanity |
 | [![Texas Tantrum Trots and Pals thumbnail](images/Murals/Texas-Tantrum-Deep-Ellum.jpg)](murals/texas-tantrum-trots-and-pals.html) | <a id="texas-tantrum-trots-and-pals-row"></a>2022 | Deep Ellum, Dallas, Texas, US | Texas Tantrum Trots and Pals |
 | [![Grin Mural 2024 thumbnail](images/Murals/Grin-Mural.jpg)](murals/grin-mural-2024.html) | <a id="grin-mural-2024-row"></a>2024 | Greenpoint, Brooklyn, New York, US | “Grin” mural (Public Pool project) |
-| [![St. Louis Loop Mural Festival 2024 – thumbnail](images/Murals/Loop-Festival.jpg)](murals/stlouis-loop-mural-2024.html) | <a id="stlouis-loop-mural-2024-row"></a>2024 (May 31) | Delmar Loop, St. Louis, Missouri, US | Ron English mural – Loop Mural Festival |
