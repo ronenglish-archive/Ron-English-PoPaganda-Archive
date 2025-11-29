@@ -24,7 +24,7 @@
 | --- | --- | --- | --- |
 | [![Berlin Wall 1989 thumbnail](images/Murals/Berlin-Wall-1.jpg)](murals/berlin-wall-1989.html) | <a id="berlin-wall-1989-row"></a>1989 | Berlin Wall, Checkpoint Charlie, West Berlin, West Germany | Checkpoint Charlie mural (“Peace on Earth”) |
 | [![Primary Flight 2008 thumbnail](images/Murals/Primary-Flight-Mural-1.jpg)](murals/primary-flight-2008.html) | <a id="primary-flight-2008-row"></a>2008 | Wynwood streets (Primary Flight), Miami, Florida, US | Primary Flight mural |
-| [![Medicine Agency 2009 thumbnail](images/Murals/Medicine-Agency-1.jpg)](murals/medicine-agency-2009.html) | <a id="medicine-agency-2009-row"></a>2009 | Medicine Agency, San Francisco, California, US | Medicine Agency “Guernica” mural |
+| [![Medicine Agency 2009 thumbnail](images/Murals/Medicine-Agency-8.jpg)](murals/medicine-agency-2009.html) | <a id="medicine-agency-2009-row"></a>2009 | Medicine Agency, San Francisco, California, US | Medicine Agency “Guernica” mural |
 | [![Urban Bigfoot 2010 thumbnail](images/Murals/Bigfoot-Mural.jpg)](murals/urban-bigfoot-2010.html) | <a id="urban-bigfoot-la-row"></a>2010 | Los Angeles Arts District, Los Angeles, California, US | Urban Bigfoot (LA Freewalls) |
 | [![Primary Flight 2010 thumbnail](images/Murals/Primary-Flight-2010-1.jpeg)](murals/primary-flight-2010.html) | <a id="primary-flight-2010-row"></a>2010 | Wynwood (Primary Flight × Contra Projects), Miami, Florida, US | Contra Projects collaborative mural |
 | [![Baby Hulk 2010 thumbnail](images/Murals/Primary-Flight-2010-2.jpg)](murals/wynwood-babyhulk-2010.html) | <a id="wynwood-babyhulk-2010-row"></a>2010 | Wynwood Walls, Miami, Florida, US | Baby Hulk / Temper Tot (Wynwood Walls) |
