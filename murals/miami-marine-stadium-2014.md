@@ -1,4 +1,3 @@
-<!-- CLEAN PILL NAVIGATION -->
 <style>
   .clean-nav {
     text-align: center;
@@ -17,15 +16,18 @@
     font-weight: 500;
     font-size: 15px;
     border: 1px solid #d6e1ff;
-    transition: 0.25s;
+    transition: background 0.25s ease, box-shadow 0.25s ease, transform 0.2s ease, color 0.25s ease, border-color 0.25s ease;
   }
 
   .clean-nav a:hover {
-    background: #dce7ff;
-    border-color: #aac4ff;
-    box-shadow: 0 0 6px rgba(120,150,255,0.35);
+    background: linear-gradient(135deg, #ffd6ff, #ffc0e6, #ffe6a8);
+    border-color: #ff96d5;
+    color: #5a0075;
+    box-shadow: 0 0 10px rgba(255, 150, 213, 0.7);
+    transform: translateY(-1px);
   }
 </style>
+
 
 <div class="clean-nav">
   <a href="../index.html">Home</a>
