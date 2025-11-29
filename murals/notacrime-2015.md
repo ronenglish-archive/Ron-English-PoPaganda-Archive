@@ -35,8 +35,8 @@ More than 40 international artists contributed to the initiative, and English’
 
 ## Sources
 
-- https://notacrime.me/  
-- https://www.huffpost.com/entry/education-is-not-a-crime-harlem-murals_n_8143876  
-- https://www.brooklynstreetart.com/2015/09/22/education-is-not-crime-harlem/  
-- https://streetartnews.net/2015/09/new-york-ron-english-for-notacrime.html  
-- https://www.bbc.com/news/world-us-canada-34330806  
+- [Not A Crime – Official site](https://notacrime.me/)
+- [HuffPost – “Education Is Not A Crime” Harlem murals](https://www.huffpost.com/entry/education-is-not-a-crime-harlem-murals_n_8143876)
+- [Brooklyn Street Art – Education Is Not A Crime, Harlem](https://www.brooklynstreetart.com/2015/09/22/education-is-not-crime-harlem/)
+- [StreetArtNews – Ron English for Not A Crime](https://streetartnews.net/2015/09/new-york-ron-english-for-notacrime.html)
+- [BBC News – Education Is Not A Crime campaign](https://www.bbc.com/news/world-us-canada-34330806)
