@@ -35,8 +35,8 @@ Documentation from March 2017 shows the mural’s placement along **Troutman Str
 
 ## Sources
 
-- https://streetartnews.net/2017/03/new-york-ron-english-new-mural-in-bushwick.html  
-- https://www.brooklynstreetart.com/2017/03/06/ron-english-satire-on-trump/  
-- https://www.huffpost.com/entry/ron-english-trump-humpty-dumpty-mural_n_58bd017ae4b0abcb02ce2dfb  
-- https://www.timeout.com/newyork/blog/this-new-trump-bushwick-mural-turns-him-into-humpty-dumpty-032117  
-- https://www.abc.net.au/news/2017-03-25/ron-english-trump-humpty-dumpty-mural/8380492  
+- [StreetArtNews – Ron English mural in Bushwick](https://streetartnews.net/2017/03/new-york-ron-english-new-mural-in-bushwick.html)
+- [Brooklyn Street Art – Ron English satire on Trump](https://www.brooklynstreetart.com/2017/03/06/ron-english-satire-on-trump/)
+- [HuffPost – Ron English’s Trump “Humpty Dumpty” mural](https://www.huffpost.com/entry/ron-english-trump-humpty-dumpty-mural_n_58bd017ae4b0abcb02ce2dfb)
+- [Time Out New York – Trump mural turns him into Humpty Dumpty](https://www.timeout.com/newyork/blog/this-new-trump-bushwick-mural-turns-him-into-humpty-dumpty-032117)
+- [ABC News Australia – Ron English Trump mural](https://www.abc.net.au/news/2017-03-25/ron-english-trump-humpty-dumpty-mural/8380492)
