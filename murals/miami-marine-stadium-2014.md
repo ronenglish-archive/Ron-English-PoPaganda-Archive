@@ -45,9 +45,10 @@ The initiative aimed to raise awareness for the historic stadium’s preservatio
 
 ## Sources
 
-- https://www.brooklynstreetart.com/2014/10/09/a-miami-waterfront-stadium-slaughtered-by-street-artists/  
-- https://www.marinestadium.org/the-art-history-mural-project  
-- https://www.miaminewtimes.com/arts/art-history-project-transforms-miami-marine-stadium-6490994  
-- https://www.timeout.com/miami/art/art-history-project  
-- https://themiamihurricane.com/2014/12/04/abandoned-miami-marine-stadium-art-history-project/
+- [Brooklyn Street Art – Miami Marine Stadium street art project](https://www.brooklynstreetart.com/2014/10/09/a-miami-waterfront-stadium-slaughtered-by-street-artists/)
+- [Miami Marine Stadium – The Art History Mural Project](https://www.marinestadium.org/the-art-history-mural-project)
+- [Miami New Times – Art History Project transforms Marine Stadium](https://www.miaminewtimes.com/arts/art-history-project-transforms-miami-marine-stadium-6490994)
+- [Time Out Miami – Art History Project](https://www.timeout.com/miami/art/art-history-project)
+- [The Miami Hurricane – Abandoned Miami Marine Stadium: Art History Project](https://themiamihurricane.com/2014/12/04/abandoned-miami-marine-stadium-art-history-project/)
+
 
