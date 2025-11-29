@@ -37,7 +37,7 @@
 | [![RXSM Spider House 2015 thumbnail](images/Murals/RSXM-Mural.jpg)](murals/rxsm-spiderhouse-2015.html) | <a id="rxsm-spiderhouse-2015-row"></a>2015 | Spider House Cafe & Ballroom, Austin, Texas, US | RXSM / Spider House Ballroom mural (with RISK) |
 | [![Bowery Wall 2015 thumbnail](images/Murals/Bowrey-Mural.jpg)](murals/bowery-wall-2015.html) | <a id="bowery-wall-2015-row"></a>2015 | Houston & Bowery Wall, New York, NY, US | American Depopulation (Bowery Wall) |
 | [![Grinnin’ McB Coney 2015 thumbnail](images/Murals/Coney-Island-Mural.jpg)](murals/coney-island-2015.html) | <a id="coney-island-2015-row"></a>2015 | Coney Art Walls, Coney Island, Brooklyn, New York, US | Grinnin’ McB (Coney Art Walls) |
-| <a id="temper-tot-little-italy-2015-row"></a>2015 | August 5–9, 2015 (LoMan Arts Festival) | Little Italy (Mulberry St.), Manhattan, New York, US | Temper Tot (pink LoMan version) | For the first LoMan Arts Festival, English returned to Mulberry Street and reimagined his signature character as a vivid pink Temper Tot towering over the block. The update transformed a well-known POPaganda landmark into a new festival centerpiece, and coverage from StreetArtNews, Viewing NYC, and Brooklyn Street Art emphasized how the refreshed mural helped establish LoMan as Lower Manhattan’s inaugural large-scale mural festival. | **[Images ↓](#temper-tot-little-italy-2015)** · **[Sources ↓](#temper-tot-little-italy-2015-sources)** |
+| [![Pink Temper Tot Little Italy 2015 thumbnail](images/Murals/Little-Italy-2.jpg)](murals/temper-tot-little-italy-2015.html) | <a id="temper-tot-little-italy-2015-row"></a>2015 | Little Italy (Mulberry St.), Manhattan, New York, US | Temper Tot (pink LoMan version) |
 | <a id="notacrime-2015-row"></a>2015 | September 2015 | New York, New York, US | #NotACrime — “Three Wise Monkeys” mural | English contributed to the global **#EducationIsNotACrime** human-rights campaign with a mural riffing on the “three wise monkeys” theme. Installed during the United Nations General Assembly, the work formed part of a coordinated citywide push highlighting education persecution in Iran. The project placed his POPaganda style within an activist framework, joining over 40 international artists who turned Harlem and Lower Manhattan into an open-air call for justice. | **[Images ↓](#notacrime-2015)** · **[Sources ↓](#notacrime-2015-sources)** |
 | <a id="trumpty-dumpty-2017-row"></a>2017 | March 2017 | Troutman Street, Bushwick, Brooklyn, New York, US | Trumpty Dumpty | Painted on a Bushwick wall during the early months of the Trump presidency, *Trumpty Dumpty* quickly became one of English’s most circulated political murals. The piece reimagines Humpty Dumpty as a caricatured Trump figure perched on a cracked wall—a satirical visual that drew global attention and appeared in street-art roundups from New York to Australia. Photo archives from March 2017 confirm its placement along Troutman Street, a corridor known for large-scale political murals. | **[Images ↓](#trumpty-dumpty-2017)** · **[Sources ↓](#trumpty-dumpty-2017-sources)** |
 | <a id="mural-festival-2017-montreal-row"></a>2017 | June 8–18, 2017 | Boulevard Saint-Laurent (MURAL Festival), Montreal, Quebec, Canada | Sourire Mona Lisa | English headlined Montréal’s 2017 MURAL Festival with an outdoor wall featuring his “Sourire Mona Lisa,” a POPaganda remix blending classical portraiture with his signature surreal twists. Installed along the festival’s main corridor on Boulevard Saint-Laurent, the piece became one of the edition’s most photographed works and appeared across Canadian arts coverage and international street-art roundups. | **[Images ↓](#mural-festival-2017-montreal)** · **[Sources ↓](#mural-festival-2017-montreal-sources)** |
@@ -58,31 +58,6 @@
 ---
 ## Image gallery
 
-
-
-
-
-
-
-### <a id="coney-island-2015"></a>2015 – Coney Art Walls (“Grinnin’ McB”)
-
-<a href="images/Murals/Coney-Island-Mural.jpg">
-  <img src="images/Murals/Coney-Island-Mural.jpg" alt="Ron English – Grinnin’ McB mural at Coney Art Walls, 2015" width="450">
-</a>
-
-[Back to entry ↑](#coney-island-2015-row)
-
-### <a id="temper-tot-little-italy-2015"></a>2015 – Temper Tot (Pink), Little Italy (LoMan Arts Festival)
-
-<a href="images/Murals/Little-Italy-2.jpg">
-  <img src="images/Murals/Little-Italy-2.jpg" width="350">
-</a>
-
-<a href="images/Murals/Little-Italy-3.jpg">
-  <img src="images/Murals/Little-Italy-3.jpg" width="350">
-</a>
-
-[Back to entry ↑](#temper-tot-little-italy-2015-row)
 
 ### <a id="notacrime-2015"></a>2015 – #NotACrime Mural (“Three Wise Monkeys”)
 
