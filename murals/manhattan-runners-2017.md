@@ -35,5 +35,6 @@ Press coverage highlighted how the project tied contemporary muralism to one of 
 
 ## Sources
 
-- https://www.womensrunning.com/culture/murals-5-boroughs-celebrate-nyc-marathon/  
+- [Women’s Running – Murals across NYC celebrating the marathon](https://www.womensrunning.com/culture/murals-5-boroughs-celebrate-nyc-marathon/)
+
 
