@@ -33,8 +33,9 @@ Created for the 2010 Primary Flight program in partnership with Contra Projects,
 
 ## Sources
 
-- https://www.soulofmiami.org/2010/11/08/primary-flight-street-art-murals-1129-12510/  
-- https://www.brooklynstreetart.com/tag/contraprojects/  
-- https://www.brooklynstreetart.com/category/primary-flight/  
-- https://hypebeast.com/2010/11/ron-english-status-factory-exhibition-mural-frank-doyle-arts-pavilion  
-- https://blog.vandalog.com/2010/11/12/fairey-ron-english-in-miami/
+- [Soul of Miami – Primary Flight street art murals](https://www.soulofmiami.org/2010/11/08/primary-flight-street-art-murals-1129-12510/)
+- [Brooklyn Street Art – ContraProjects tag archive](https://www.brooklynstreetart.com/tag/contraprojects/)
+- [Brooklyn Street Art – Primary Flight category archive](https://www.brooklynstreetart.com/category/primary-flight/)
+- [Hypebeast – Ron English mural for “Status Factory” at Frank Doyle Arts Pavilion](https://hypebeast.com/2010/11/ron-english-status-factory-exhibition-mural-frank-doyle-arts-pavilion)
+- [Vandalog – Fairey & Ron English in Miami](https://blog.vandalog.com/2010/11/12/fairey-ron-english-in-miami/)
+
