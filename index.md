@@ -6,19 +6,37 @@
     padding: 0;
   }
 
-  /* Single neon cursor dot (above everything) */
+  /* Main neon dot following cursor */
   #cursor-dot {
     position: fixed;
-    width: 32px;          /* medium size */
-    height: 32px;
+    width: 42px;          /* bigger main dot */
+    height: 42px;
     border-radius: 50%;
     pointer-events: none;
-    z-index: 999;         /* sits over banner + buttons */
-    opacity: 0.85;
+    z-index: 999;
+    opacity: 0.9;
     transform: translate(-50%, -50%);
-    filter: blur(6px);    /* soft neon edge */
+    filter: blur(8px);
     background: radial-gradient(circle, hsl(0, 100%, 75%), transparent 70%);
-    transition: transform 0.05s linear;
+  }
+
+  /* Trail dots */
+  .trail-dot {
+    position: fixed;
+    width: 26px;          /* smaller than main dot */
+    height: 26px;
+    border-radius: 50%;
+    pointer-events: none;
+    z-index: 999;
+    opacity: 0.6;
+    transform: translate(-50%, -50%);
+    filter: blur(6px);
+    animation: fadeTrail 0.6s ease-out forwards;
+  }
+
+  @keyframes fadeTrail {
+    0% { opacity: 0.7; transform: translate(-50%, -50%) scale(1); }
+    100% { opacity: 0; transform: translate(-50%, -50%) scale(0.4); }
   }
 
   /* Link card styles */
@@ -33,7 +51,7 @@
     transition: all 0.25s ease;
   }
 
-  /* Bright color flash on hover (keep this effect) */
+  /* Bright color flash on hover */
   .pop-card:hover {
     background: linear-gradient(
       135deg,
@@ -48,7 +66,7 @@
   }
 </style>
 
-<!-- Single cursor-follow dot -->
+<!-- Main cursor dot -->
 <div id="cursor-dot"></div>
 
 <script>
@@ -59,13 +77,32 @@
     const x = e.clientX;
     const y = e.clientY;
 
+    // Move main dot
     cursorDot.style.left = x + "px";
     cursorDot.style.top = y + "px";
 
-    // Cycle through colors for a subtle RGB effect
+    // Update color
     hue = (hue + 4) % 360;
-    cursorDot.style.background = `radial-gradient(circle, hsl(${hue}, 100%, 75%), transparent 70%)`;
+    const color = `radial-gradient(circle, hsl(${hue}, 100%, 75%), transparent 70%)`;
+    cursorDot.style.background = color;
+
+    // Create trailing dot
+    createTrailDot(x, y, hue);
   });
+
+  function createTrailDot(x, y, hueValue) {
+    const dot = document.createElement("div");
+    dot.className = "trail-dot";
+
+    dot.style.left = x + "px";
+    dot.style.top = y + "px";
+
+    dot.style.background = `radial-gradient(circle, hsl(${hueValue}, 100%, 75%), transparent 70%)`;
+
+    document.body.appendChild(dot);
+
+    setTimeout(() => dot.remove(), 600);
+  }
 </script>
 
 
