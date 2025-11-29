@@ -1,15 +1,45 @@
-<p align="center">
-  <a href="../index.html">Home</a> ·
-  <a href="../exhibitions/solo-exhibitions.html">Solo exhibitions</a> ·
-  <a href="../exhibitions/group-exhibitions.html">Group exhibitions</a> ·
-  <a href="../murals-and-street-works.html">Murals &amp; street works</a> ·
-  <a href="../pop-ups-shops-brand-activations.html">Pop-ups, shops &amp; brand activations</a> ·
-  <a href="../benefit-auctions-charity-projects.html">Benefit auctions &amp; charity projects</a> ·
-  <a href="../film-screenings-festivals-film-events.html">Film screenings, festivals &amp; film events</a> ·
-  <a href="../digital-projects-nft-crypto-art.html">Digital projects, NFT &amp; crypto-art</a> ·
-  <a href="../public-talks-lectures-book-signings.html">Public talks, lectures &amp; book signings</a> ·
-  <a href="../special-events-parties-tours.html">Special events, parties &amp; tours</a>
-</p>
+<!-- CLEAN PILL NAVIGATION -->
+<style>
+  .clean-nav {
+    text-align: center;
+    margin: 20px 0 30px 0;
+    line-height: 2.2;
+  }
+
+  .clean-nav a {
+    display: inline-block;
+    margin: 4px 6px;
+    padding: 6px 14px;
+    background: #eef3ff;
+    border-radius: 14px;
+    text-decoration: none;
+    color: #1a4fa3;
+    font-weight: 500;
+    font-size: 15px;
+    border: 1px solid #d6e1ff;
+    transition: 0.25s;
+  }
+
+  .clean-nav a:hover {
+    background: #dce7ff;
+    border-color: #aac4ff;
+    box-shadow: 0 0 6px rgba(120,150,255,0.35);
+  }
+</style>
+
+<div class="clean-nav">
+  <a href="../index.html">Home</a>
+  <a href="../exhibitions/solo-exhibitions.html">Solo exhibitions</a>
+  <a href="../exhibitions/group-exhibitions.html">Group exhibitions</a>
+  <a href="../murals-and-street-works.html">Murals & street works</a>
+  <a href="../pop-ups-shops-brand-activations.html">Pop-ups, shops & brand activations</a>
+  <a href="../benefit-auctions-charity-projects.html">Benefit auctions & charity</a>
+  <a href="../film-screenings-festivals-film-events.html">Film & festival events</a>
+  <a href="../digital-projects-nft-crypto-art.html">Digital projects & NFTs</a>
+  <a href="../public-talks-lectures-book-signings.html">Public talks & book signings</a>
+  <a href="../special-events-parties-tours.html">Special events & tours</a>
+</div>
+
 
 ---
 
