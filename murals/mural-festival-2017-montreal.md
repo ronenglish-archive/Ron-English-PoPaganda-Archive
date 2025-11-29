@@ -34,7 +34,8 @@ Canadian arts outlets and international street-art coverage highlighted its bold
 
 ## Sources
 
-- https://muralfestival.com/artwork/ron-english-2017-2/  
-- https://culturainquieta.com/arte/arte-urbano/el-mural-festival-de-montreal-ha-vuelto-a-dejarnos-impresionantes-obras-de-arte-urbano/  
-- https://journalmetro.com/actualites/montreal/1140830/le-festival-mural-devoile-sa-programmation/  
-- https://streetart360.net/2017/06/19/montreal-mural-festival-street-art/  
+- [MURAL Festival – Ron English (2017)](https://muralfestival.com/artwork/ron-english-2017-2/)
+- [Cultura Inquieta – Montreal MURAL Festival highlights](https://culturainquieta.com/arte/arte-urbano/el-mural-festival-de-montreal-ha-vuelto-a-dejarnos-impresionantes-obras-de-arte-urbano/)
+- [Journal Métro – MURAL Festival program announcement](https://journalmetro.com/actualites/montreal/1140830/le-festival-mural-devoile-sa-programmation/)
+- [StreetArt360 – Montreal MURAL Festival street art (2017)](https://streetart360.net/2017/06/19/montreal-mural-festival-street-art/)
+
