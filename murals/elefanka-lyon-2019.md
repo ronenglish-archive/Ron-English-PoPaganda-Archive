@@ -33,7 +33,8 @@ Guides and walking-tour circuits list it as an unexpected POPaganda appearance a
 ---
 ## Sources
 
-- https://ptitloley.canalblog.com/archives/2019/11/06/37767436.html  
-- https://www.street-art-safari.com/Picture@1120%E2%9C%AA  
-- https://bleusaturne.wordpress.com/2020/01/23/balade-street-art-lyon/  
-- https://www.luckysophie.com/2023/01/street-art-murs-xxl-a-lyon.html  
+- [Ptit Loley – Lyon street art blog post](https://ptitloley.canalblog.com/archives/2019/11/06/37767436.html)
+- [Street Art Safari – Lyon mural photo](https://www.street-art-safari.com/Picture@1120%E2%9C%AA)
+- [Bleu Saturne – Balade street art Lyon](https://bleusaturne.wordpress.com/2020/01/23/balade-street-art-lyon/)
+- [Lucky Sophie – Street art Murs XXL Lyon](https://www.luckysophie.com/2023/01/street-art-murs-xxl-a-lyon.html)
+
