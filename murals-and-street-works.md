@@ -27,15 +27,15 @@
   }
 
   .mural-thumb {
-    max-width: 50px;   /* adjust size here */
+    max-width: 50px;   /* adjust size here if you ever use the class */
     height: auto;
     display: block;
   }
 
-  /* Table styling for better readability */
+  /* TABLE STYLING */
   table {
-    font-size: 16px;
-    color: #111;
+    font-size: 18px;          /* bigger text */
+    color: #111;              /* darker text */
     border-collapse: collapse;
     width: 100%;
   }
@@ -49,7 +49,11 @@
   }
 
   table th {
-    font-weight: 600;
+    font-weight: 700;         /* bold headers */
+  }
+
+  table td {
+    font-weight: 500;         /* slightly bold body text */
   }
 </style>
 
@@ -73,7 +77,6 @@
 
 | Image | Year | Location | Mural title |
 |:-----:|:----:|:--------:|:-----------:|
-
 | [![Berlin Wall 1989 thumbnail](images/Murals/Berlin-Wall-1.jpg)](murals/berlin-wall-1989.html) | <a id="berlin-wall-1989-row"></a>1989 | Berlin Wall, Checkpoint Charlie, West Berlin, West Germany | Checkpoint Charlie mural (“Peace on Earth”) |
 | [![Primary Flight 2008 thumbnail](images/Murals/Primary-Flight-Mural-1.jpg)](murals/primary-flight-2008.html) | <a id="primary-flight-2008-row"></a>2008 | Wynwood streets (Primary Flight), Miami, Florida, US | Primary Flight mural |
 | [![Medicine Agency 2009 thumbnail](images/Murals/Medicine-Agency-8.jpg)](murals/medicine-agency-2009.html) | <a id="medicine-agency-2009-row"></a>2009 | Medicine Agency, San Francisco, California, US | Medicine Agency “Guernica” mural |
@@ -94,7 +97,7 @@
 | [![Trumpty Dumpty 2017 thumbnail](images/Murals/Trumpty-Dumpty.jpg)](murals/trumpty-dumpty-2017.html) | <a id="trumpty-dumpty-2017-row"></a>2017 | Troutman Street, Bushwick, Brooklyn, New York, US | Trumpty Dumpty |
 | [![Sourire Mona Lisa thumbnail](images/Murals/Montreal-Mona-Mural.jpg)](murals/mural-festival-2017-montreal.html) | <a id="mural-festival-2017-montreal-row"></a>2017 | Boulevard Saint-Laurent (MURAL Festival), Montreal, Quebec, Canada | Sourire Mona Lisa |
 | [![ONE WALL thumbnail](images/Murals/One-Wall.jpg)](murals/one-wall-2017.html) | <a id="one-wall-2017-row"></a>2017 | Schöneberg (Urban Nation / ONE WALL), Berlin, Germany | ONE WALL (Urban Nation Museum mural) |
-| [![Manhattan Runners thumbnail](images/Murals/Manhattan-Runners.jpg)](murals/manhattan-runners-2017.html) | <a id="manhattan-runners-2017-row"></a>2017 | 1st Avenue at St. Marks Place, Manhattan, New York, US | Manhattan Runners |
+| [![Manhattan Runners thumbnail](images/Murals/Manhattan-Runners.jpeg)](murals/manhattan-runners-2017.html) | <a id="manhattan-runners-2017-row"></a>2017 | 1st Avenue at St. Marks Place, Manhattan, New York, US | Manhattan Runners |
 | [![Wynwood 2018 thumbnail](images/Murals/Wynwood-Walls-2018.jpg)](murals/wynwood-2018.html) | <a id="wynwood-2018-row"></a>2018 | Wynwood Walls (citywide programming), Miami, Florida, US | Wynwood Walls – Basel Week murals |
 | [![K11 MUSEA thumbnail](images/Murals/K11-Mural.jpg)](murals/k11-musea-2019.html) | <a id="k11-musea-2019-row"></a>2019– (permanent) | K11 MUSEA (Opera Theatre), Hong Kong | Ronnie Rabbits Delusion |
 | [![Elefanka & Mousezilla thumbnail](images/Murals/Jersey-City-Mural-Arts-Program-1.jpg)](murals/elefanka-mousezilla-2019.html) | <a id="elefanka-mousezilla-2019-row"></a>2019 | Erie Street basketball court (266 Erie St), Jersey City, New Jersey, US | Elefanka and Mousezilla |
