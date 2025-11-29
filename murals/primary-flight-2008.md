@@ -33,7 +33,8 @@ Ron English’s wall became part of the early wave of large-scale murals that he
 
 ## Sources
 
-- https://primaryflight.com (archived)
-- https://www.brooklynstreetart.com/2008/12/08/primary-flight-miami-wynwood/
-- https://www.juxtapoz.com/news/street-art/primary-flight-miami-2008-wynwood/
-- https://butterflyartnews.com/tag/primary-flight/
+- [Primary Flight (archived)](https://primaryflight.com)
+- [Brooklyn Street Art – Primary Flight (Miami, Wynwood)](https://www.brooklynstreetart.com/2008/12/08/primary-flight-miami-wynwood/)
+- [Juxtapoz – Primary Flight Miami 2008](https://www.juxtapoz.com/news/street-art/primary-flight-miami-2008-wynwood/)
+- [Butterfly Art News – Primary Flight](https://butterflyartnews.com/tag/primary-flight/)
+
