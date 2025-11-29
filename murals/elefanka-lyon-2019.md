@@ -26,9 +26,10 @@ Guides and walking-tour circuits list it as an unexpected POPaganda appearance a
 
 ---
 
-## Main Image
+## Images
 
 ![Ron English – Elefanka mural, Lyon](../images/Murals/Elefanka-1.jpg)
+![Ron English – Elefanka mural, Lyon](../images/Murals/lyon.jpg)
 
 ---
 ## Sources
