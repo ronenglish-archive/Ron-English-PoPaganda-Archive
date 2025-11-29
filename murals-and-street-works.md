@@ -77,6 +77,7 @@
 
 | Image | Year | Location | Mural title |
 |:-----:|:----:|:--------:|:-----------:|
+| [![Fashion Moda 1988 thumbnail](images/Murals/Fashion-Moda.jpg)](murals/fashion-moda-1988.html) | <a id="fashion-moda-1988-row"></a>1988 | Fashion Moda, South Bronx, New York, US | Fashion Moda façade mural |
 | [![Berlin Wall 1989 thumbnail](images/Murals/Berlin-Wall-1.jpg)](murals/berlin-wall-1989.html) | <a id="berlin-wall-1989-row"></a>1989 | Berlin Wall, Checkpoint Charlie, West Berlin, West Germany | Checkpoint Charlie mural (“Peace on Earth”) |
 | [![Primary Flight 2008 thumbnail](images/Murals/Primary-Flight-Mural-1.jpg)](murals/primary-flight-2008.html) | <a id="primary-flight-2008-row"></a>2008 | Wynwood streets (Primary Flight), Miami, Florida, US | Primary Flight mural |
 | [![Medicine Agency 2009 thumbnail](images/Murals/Medicine-Agency-8.jpg)](murals/medicine-agency-2009.html) | <a id="medicine-agency-2009-row"></a>2009 | Medicine Agency, San Francisco, California, US | Medicine Agency “Guernica” mural |
