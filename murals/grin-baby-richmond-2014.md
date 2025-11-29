@@ -25,10 +25,10 @@ For the 2014 **Richmond Mural Project**, Ron English transformed a massive faça
 
 ---
 
-## Main Image
+## Images
 
 ![Grin Baby mural – Richmond Mural Project 2014](../images/Murals/Grin-Baby.jpg)
-
+![Grin Baby mural – Richmond Mural Project 2014](../images/Murals/Grin-Baby2.jpg)
 ---
 
 ## Sources
