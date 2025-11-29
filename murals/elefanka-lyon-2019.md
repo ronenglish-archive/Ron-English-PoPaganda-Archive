@@ -31,11 +31,9 @@ Guides and walking-tour circuits list it as an unexpected POPaganda appearance a
 ![Ron English – Elefanka mural, Lyon](../images/Murals/Elefanka-1.jpg)
 
 ---
-
 ## Sources
 
-*(Add URLs here — I can gather verified ones for you.)*
-
-- Lyon street-art maps (2019–2020 editions)  
-- Local mural-circuit photography  
-- French urban-art blogs referencing English’s Lyon piece  
+- https://ptitloley.canalblog.com/archives/2019/11/06/37767436.html  
+- https://www.street-art-safari.com/Picture@1120%E2%9C%AA  
+- https://bleusaturne.wordpress.com/2020/01/23/balade-street-art-lyon/  
+- https://www.luckysophie.com/2023/01/street-art-murs-xxl-a-lyon.html  
