@@ -59,13 +59,7 @@
 ## Image gallery
 
 
-### <a id="temper-tot-little-italy-2012"></a>2012 – Temper Tot (Green), Little Italy
 
-<a href="images/Murals/Little-Italy-1.jpg">
-  <img src="images/Murals/Little-Italy-1.jpg" width="350">
-</a>
-
-[Back to entry ↑](#temper-tot-little-italy-2012-row)
 
 ### <a id="mousemask-temper-rome-2013"></a>2013 – Temper Tot & Mousemask Murphy, Quadraro (Rome)
 
