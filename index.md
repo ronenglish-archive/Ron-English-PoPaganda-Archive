@@ -6,27 +6,19 @@
     padding: 0;
   }
 
-  /* Comet streak particles */
-  .comet {
+  /* Single neon cursor dot (above everything) */
+  #cursor-dot {
     position: fixed;
+    width: 32px;          /* medium size */
+    height: 32px;
+    border-radius: 50%;
     pointer-events: none;
-    z-index: 999;              /* above everything */
-    border-radius: 999px;
-    opacity: 0.9;
+    z-index: 999;         /* sits over banner + buttons */
+    opacity: 0.85;
     transform: translate(-50%, -50%);
-    animation: cometFade 0.6s ease-out forwards;
-    filter: blur(2px);         /* softer neon edge */
-  }
-
-  @keyframes cometFade {
-    0% {
-      opacity: 0.9;
-      transform: translate(-50%, -50%) scale(1);
-    }
-    100% {
-      opacity: 0;
-      transform: translate(-50%, -50%) scale(0.5);
-    }
+    filter: blur(6px);    /* soft neon edge */
+    background: radial-gradient(circle, hsl(0, 100%, 75%), transparent 70%);
+    transition: transform 0.05s linear;
   }
 
   /* Link card styles */
@@ -38,9 +30,10 @@
     text-decoration: none;
     display: block;
     color: #000;
-    transition: all 0.3s ease;
+    transition: all 0.25s ease;
   }
 
+  /* Bright color flash on hover (keep this effect) */
   .pop-card:hover {
     background: linear-gradient(
       135deg,
@@ -50,80 +43,29 @@
       #ffe1fa
     );
     transform: scale(1.07);
-    box-shadow: 0 0 20px rgba(176, 120, 255, 0.55);
+    box-shadow: 0 0 20px rgba(176, 120, 255, 0.6);
     border-color: #b48aff;
   }
 </style>
 
+<!-- Single cursor-follow dot -->
+<div id="cursor-dot"></div>
+
 <script>
-  let lastX = null;
-  let lastY = null;
+  const cursorDot = document.getElementById("cursor-dot");
   let hue = 0;
 
   document.addEventListener("mousemove", (e) => {
     const x = e.clientX;
     const y = e.clientY;
 
-    if (lastX === null || lastY === null) {
-      lastX = x;
-      lastY = y;
-      return;
-    }
+    cursorDot.style.left = x + "px";
+    cursorDot.style.top = y + "px";
 
-    const dx = x - lastX;
-    const dy = y - lastY;
-    const dist = Math.sqrt(dx * dx + dy * dy);
-
-    // Skip if barely moving (prevents too many tiny streaks)
-    if (dist < 2) {
-      lastX = x;
-      lastY = y;
-      return;
-    }
-
-    const angle = Math.atan2(dy, dx) * (180 / Math.PI);
-
-    createComet(x, y, dist, angle);
-
-    lastX = x;
-    lastY = y;
+    // Cycle through colors for a subtle RGB effect
+    hue = (hue + 4) % 360;
+    cursorDot.style.background = `radial-gradient(circle, hsl(${hue}, 100%, 75%), transparent 70%)`;
   });
-
-  function createComet(x, y, dist, angle) {
-    const comet = document.createElement("div");
-    comet.className = "comet";
-
-    // Length scales with speed, clamped to reasonable range
-    const baseLength = 40;
-    const maxExtra = 100;
-    const length = baseLength + Math.min(dist * 1.5, maxExtra);
-    const thickness = 6;
-
-    comet.style.width = length + "px";
-    comet.style.height = thickness + "px";
-
-    comet.style.left = x + "px";
-    comet.style.top = y + "px";
-
-    // Color cycles through RGB spectrum
-    const currentHue = hue;
-    hue = (hue + 12) % 360;
-
-    comet.style.background = `linear-gradient(90deg,
-      hsla(${currentHue}, 100%, 70%, 0) 0%,
-      hsla(${currentHue}, 100%, 70%, 0.1) 20%,
-      hsla(${currentHue}, 100%, 70%, 0.8) 60%,
-      hsla(${currentHue}, 100%, 80%, 1) 100%
-    )`;
-
-    comet.style.transform = `translate(-50%, -50%) rotate(${angle}deg)`;
-
-    document.body.appendChild(comet);
-
-    setTimeout(() => {
-      comet.remove();
-    }, 600);
-  }
 </script>
 
 
