@@ -27,10 +27,10 @@ Press coverage highlighted how the project tied contemporary muralism to one of 
 
 ---
 
-## Main Image
+## Images
 
 ![Ron English – Manhattan Runners mural, 2017](../images/Murals/Manhattan-Runners.jpg)
-
+![Ron English – Manhattan Runners mural, 2017](../images/Murals/Runners.jpg)
 ---
 
 ## Sources
