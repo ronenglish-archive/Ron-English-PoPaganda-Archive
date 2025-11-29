@@ -3,10 +3,9 @@
   #cursor-swirl {
     position: fixed;
     inset: 0;
-    z-index: -1;
+    z-index: -2;
     pointer-events: none;
 
-    /* neon swirl that follows the mouse */
     background: radial-gradient(
       circle at center,
       #ffd6ff 0%,
@@ -15,11 +14,35 @@
       transparent 70%
     );
 
-    opacity: 0.40; /* strength of color */
+    opacity: 0.40;
     transition: background-position 0.12s ease-out;
   }
 
-  /* grid cards */
+  /* Glow particles for RGB trail */
+  .glow-dot {
+    position: fixed;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    pointer-events: none;
+    z-index: -1;
+    opacity: 0.9;
+    transform: translate(-50%, -50%);
+    animation: fadeOut 0.8s linear forwards;
+  }
+
+  @keyframes fadeOut {
+    0% {
+      opacity: 0.9;
+      transform: translate(-50%, -50%) scale(1);
+    }
+    100% {
+      opacity: 0;
+      transform: translate(-50%, -50%) scale(0.3);
+    }
+  }
+
+  /* Link card styles */
   .pop-card {
     padding: 16px 12px;
     background: #e5e0ff;
@@ -31,7 +54,6 @@
     transition: all 0.3s ease;
   }
 
-  /* hover burst */
   .pop-card:hover {
     background: linear-gradient(
       135deg,
@@ -48,14 +70,38 @@
 
 <div id="cursor-swirl"></div>
 
+
+<!-- JAVASCRIPT FOR CURSOR SWIRL + RGB TRAIL -->
 <script>
   const swirl = document.getElementById("cursor-swirl");
 
+  // Move background swirl
   document.addEventListener("mousemove", (e) => {
     const x = (e.clientX / window.innerWidth) * 100;
     const y = (e.clientY / window.innerHeight) * 100;
     swirl.style.backgroundPosition = `${x}% ${y}%`;
+
+    createGlow(e.clientX, e.clientY);
   });
+
+  // Glow trail colors rotate through RGB
+  let hue = 0;
+
+  function createGlow(x, y) {
+    const dot = document.createElement("div");
+    dot.className = "glow-dot";
+
+    dot.style.left = x + "px";
+    dot.style.top = y + "px";
+
+    dot.style.background = `radial-gradient(circle, hsl(${hue}, 100%, 70%), transparent)`;
+
+    hue = (hue + 20) % 360; // cycle colors
+
+    document.body.appendChild(dot);
+
+    setTimeout(() => dot.remove(), 800); // cleanup
+  }
 </script>
 
 
@@ -114,8 +160,7 @@
         <strong>Special events, parties, and tours</strong>
       </a>
 
-    </div> <!-- end grid -->
+    </div>
 
-  </div> <!-- end content wrapper -->
-</div> <!-- end white background wrapper -->
-
+  </div>
+</div>
