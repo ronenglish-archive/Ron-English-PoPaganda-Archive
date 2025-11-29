@@ -25,7 +25,10 @@
     height: 18px;
     border-radius: 50%;
     pointer-events: none;
-    z-index: -1;
+
+    /* ⬆⬆⬆ IMPORTANT: glow trail goes on TOP of white panel ⬆⬆⬆ */
+    z-index: 999;
+
     opacity: 0.9;
     transform: translate(-50%, -50%);
     animation: fadeOut 0.8s linear forwards;
@@ -70,8 +73,6 @@
 
 <div id="cursor-swirl"></div>
 
-
-<!-- JAVASCRIPT FOR CURSOR SWIRL + RGB TRAIL -->
 <script>
   const swirl = document.getElementById("cursor-swirl");
 
@@ -84,7 +85,7 @@
     createGlow(e.clientX, e.clientY);
   });
 
-  // Glow trail colors rotate through RGB
+  // Glow trail hue cycling
   let hue = 0;
 
   function createGlow(x, y) {
@@ -96,17 +97,17 @@
 
     dot.style.background = `radial-gradient(circle, hsl(${hue}, 100%, 70%), transparent)`;
 
-    hue = (hue + 20) % 360; // cycle colors
+    hue = (hue + 20) % 360;
 
     document.body.appendChild(dot);
 
-    setTimeout(() => dot.remove(), 800); // cleanup
+    setTimeout(() => dot.remove(), 800);
   }
 </script>
 
 
 <!-- MAIN CONTENT WRAPPER -->
-<div style="background-color: #ffffff; min-height: 100vh; padding: 20px 0;">
+<div style="background-color: #ffffff; min-height: 100vh; padding: 20px 0; position: relative; z-index: 1;">
 
   <div style="max-width: 1100px; margin: 0 auto; text-align: center; display: block;">
 
