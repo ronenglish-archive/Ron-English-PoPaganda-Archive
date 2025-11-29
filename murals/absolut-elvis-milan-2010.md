@@ -52,7 +52,7 @@
 **Location:** Colonne di San Lorenzo / Basilica San Lorenzo Maggiore area, Milan, Italy  
 **Commission:** Absolut Vodka – *Absolut Wallpaper: A Vision by Ron English*  
 
-![Ron English – Absolut Wallpaper “Elvis–Elvis” mural, Milan 2010](../images/Murals/Absolut-Elvis.jpg)
+![Ron English – Absolut Wallpaper “Elvis–Elvis” mural, Milan 2010](../images/Murals/Absolut-Elvis.webp)
 
 ## Gallery
 
