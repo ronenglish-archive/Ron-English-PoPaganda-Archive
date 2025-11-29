@@ -33,8 +33,9 @@ For the inaugural season of **Coney Art Walls**, curated by Jeffrey Deitch, Ron 
 
 ## Sources
 
-- https://www.alamy.com/coney-walls-art-otto-topsy-grinnin-mc-b-rex-coney-island-seaside-brooklyn-new-york-ny-usa-image230898857.html  
-- https://www.flickr.com/photos/elisefeinstein/18932924542/  
-- https://pmsstopmotion.weebly.com/pms-blog/coney-art-walls  
-- https://www.timeout.com/newyork/blog/coney-island-bring-backs-the-popular-street-art-exhibition-coney-art-walls-060316  
-- https://www.brooklynstreetart.com/2015/06/24/coney-art-walls-exceeds-expectations-30-reasons-to-go/  
+- [Alamy – Coney Art Walls photo](https://www.alamy.com/coney-walls-art-otto-topsy-grinnin-mc-b-rex-coney-island-seaside-brooklyn-new-york-ny-usa-image230898857.html)
+- [Flickr – Elise Feinstein photo](https://www.flickr.com/photos/elisefeinstein/18932924542/)
+- [PMS Stop Motion – Coney Art Walls blog post](https://pmsstopmotion.weebly.com/pms-blog/coney-art-walls)
+- [Time Out New York – Coney Art Walls returns](https://www.timeout.com/newyork/blog/coney-island-bring-backs-the-popular-street-art-exhibition-coney-art-walls-060316)
+- [Brooklyn Street Art – Coney Art Walls: 30 reasons to go](https://www.brooklynstreetart.com/2015/06/24/coney-art-walls-exceeds-expectations-30-reasons-to-go/)
+
