@@ -34,6 +34,6 @@ English contributed new POPaganda imagery to the complex, with press coverage no
 
 ## Sources
 
-- https://sprayplanet.com/blogs/news/wynwood-walls-miami-art-week-2018  
-- https://worldredeye.com/2018/12/wynwood-walls-presents-wynwood-walls-bazaar/  
-- https://hypebeast.com/2018/12/wynwood-walls-2018-art-basel-miami  
+- [Spray Planet – Wynwood Walls Miami Art Week 2018](https://sprayplanet.com/blogs/news/wynwood-walls-miami-art-week-2018)
+- [World Red Eye – Wynwood Walls Bazaar](https://worldredeye.com/2018/12/wynwood-walls-presents-wynwood-walls-bazaar/)
+- [Hypebeast – Wynwood Walls at Art Basel Miami 2018](https://hypebeast.com/2018/12/wynwood-walls-2018-art-basel-miami)
