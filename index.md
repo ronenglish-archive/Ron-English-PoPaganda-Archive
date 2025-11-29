@@ -21,27 +21,31 @@
   /* Glow particles for RGB trail */
   .glow-dot {
     position: fixed;
-    width: 18px;
-    height: 18px;
+
+    /* ⬆⬆⬆ Increased size from 18px → 36px ⬆⬆⬆ */
+    width: 36px;
+    height: 36px;
+
     border-radius: 50%;
     pointer-events: none;
 
-    /* ⬆⬆⬆ IMPORTANT: glow trail goes on TOP of white panel ⬆⬆⬆ */
+    /* Appears ABOVE the white panel */
     z-index: 999;
 
-    opacity: 0.9;
+    opacity: 0.8;
     transform: translate(-50%, -50%);
-    animation: fadeOut 0.8s linear forwards;
+    animation: fadeOut 1s linear forwards;
+    filter: blur(4px); /* softer glow */
   }
 
   @keyframes fadeOut {
     0% {
-      opacity: 0.9;
+      opacity: 0.8;
       transform: translate(-50%, -50%) scale(1);
     }
     100% {
       opacity: 0;
-      transform: translate(-50%, -50%) scale(0.3);
+      transform: translate(-50%, -50%) scale(0.2);
     }
   }
 
@@ -73,10 +77,11 @@
 
 <div id="cursor-swirl"></div>
 
+
+<!-- JAVASCRIPT FOR CURSOR SWIRL + RGB TRAIL -->
 <script>
   const swirl = document.getElementById("cursor-swirl");
 
-  // Move background swirl
   document.addEventListener("mousemove", (e) => {
     const x = (e.clientX / window.innerWidth) * 100;
     const y = (e.clientY / window.innerHeight) * 100;
@@ -95,13 +100,14 @@
     dot.style.left = x + "px";
     dot.style.top = y + "px";
 
-    dot.style.background = `radial-gradient(circle, hsl(${hue}, 100%, 70%), transparent)`;
+    /* RGB color cycle */
+    dot.style.background = `radial-gradient(circle, hsl(${hue}, 100%, 75%), transparent 70%)`;
 
-    hue = (hue + 20) % 360;
+    hue = (hue + 15) % 360;
 
     document.body.appendChild(dot);
 
-    setTimeout(() => dot.remove(), 800);
+    setTimeout(() => dot.remove(), 1000);
   }
 </script>
 
