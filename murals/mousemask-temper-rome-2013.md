@@ -25,10 +25,10 @@ Painted for Rome’s open-air museum **M.U.Ro (Museo di Urban Art di Roma)**, th
 
 ---
 
-## Main Image
+## Images
 
 ![Temper Tot & Mousemask Murphy Mural – Rome 2013](../images/Murals/Mousemask-and-Temper-Mural.jpg)
-
+![Temper Tot & Mousemask Murphy Mural – Rome 2013](../images/Murals/TT-Italy.jpg)
 ---
 
 ## Sources
