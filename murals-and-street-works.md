@@ -46,7 +46,7 @@
 | [![Wynwood 2018 thumbnail](images/Murals/Wynwood-Walls-2018.jpg)](murals/wynwood-2018.html) | <a id="wynwood-2018-row"></a>2018 | Wynwood Walls (citywide programming), Miami, Florida, US | Wynwood Walls – Basel Week murals |
 | [![K11 MUSEA thumbnail](images/Murals/K11-Mural.jpg)](murals/k11-musea-2019.html) | <a id="k11-musea-2019-row"></a>2019– (permanent) | K11 MUSEA (Opera Theatre), Hong Kong | Ronnie Rabbits Delusion |
 | [![Elefanka & Mousezilla thumbnail](images/Murals/Jersey-City-Mural-Arts-Program-1.jpg)](murals/elefanka-mousezilla-2019.html) | <a id="elefanka-mousezilla-2019-row"></a>2019 | Erie Street basketball court (266 Erie St), Jersey City, New Jersey, US | Elefanka and Mousezilla |
-| <a id="elefanka-lyon-2019-row"></a>2019 | 2019 (approx.) | Lyon, France | Elefanka | One of the most recognizable additions to Lyon’s growing roster of XXL murals, *Elefanka* brings English’s hybrid-animal surrealism into the French street-art scene. The piece appears across multiple Lyon mural guides and walking circuits, where it’s highlighted as an unexpected POPaganda presence among the city’s large-format façades. Local documentation from 2019–2020 confirms the work as a standout destination for mural hunters exploring the neighborhood’s evolving urban-art landscape. | **[Images ↓](#elefanka-lyon-2019)** · **[Sources ↓](#elefanka-lyon-2019-sources)** |
+| [![Elefanka (Lyon) thumbnail](images/Murals/Elefanka-1.jpg)](murals/elefanka-lyon-2019.html) | <a id="elefanka-lyon-2019-row"></a>2019 | Lyon, France | Elefanka |
 | <a id="miami-mural-festival-2021-row"></a>2021 | November 29 – December 5, 2021 | Mana Common / multiple sites (Flagler District & Wynwood), Miami, Florida, US | Miami Mural Festival (Miami Art Week) | Weeklong mural program produced by Mana Public Arts during Miami Art Week, activating more than 500,000 square feet of walls across Downtown Miami’s Flagler District and Wynwood. Pre-festival announcements and post-event coverage listed English among the featured muralists—alongside AVAF, Case Maclaim, Elle, Queen Andrea, Magnus Sodamin, FINOK and others—positioning the festival as a major street-art counterpart to Miami’s fair circuit. English’s participation is documented, though the specific wall location and title remain unverified in public festival records. | **[Sources ↓](#miami-mural-festival-2021-sources)** |
 | <a id="jersey-city-mural-festival-2021-row"></a>2021 | June 5–6, 2021 (Jersey City Mural Festival) | Coles Street rooftop (festival zone), Jersey City, New Jersey, US | Jersey City Mural Festival rooftop mural | Created live for the inaugural Jersey City Mural Festival, this warehouse rooftop became a POPaganda stage where English covered the facade with Delusionville characters and torrents of poured paint. Festival coverage likened the weekend to a “Woodstock for artists” and pointed out that the new rooftop piece extended the legacy of his long-standing ties to Jersey City’s mural scene. | **[Images ↓](#jersey-city-mural-festival-2021)** · **[Sources ↓](#jersey-city-mural-festival-2021-sources)** |
 | <a id="plessy-school-new-orleans-2022-row"></a>2022 | May 27, 2022 (mural painted for Plessy School project) | New Orleans, Louisiana, US | Plessy School Mural – “New Orleans” | English refreshed the exterior of the historic Plessy School under a community-engagement mural project, collaborating with local students to realize a large-scale public work. The piece speaks to the artist’s ongoing interest in merging POPaganda aesthetics with community outreach, blending provocative imagery with social engagement in a neighborhood context. | **[Images ↓](#plessy-school-new-orleans-2022)** · **[Sources ↓](#plessy-school-new-orleans-2022-sources)** |
@@ -57,16 +57,6 @@
 
 ---
 ## Image gallery
-
-
-
-### <a id="elefanka-lyon-2019"></a>2019 – *Elefanka* (Lyon, France)
-
-<a href="images/Murals/Elefanka-1.jpg">
-  <img src="images/Murals/Elefanka-1.jpg" width="350">
-</a>
-
-[Back to entry ↑](#elefanka-lyon-2019-row)
 
 ### <a id="jersey-city-mural-festival-2021"></a>2021 – Jersey City Mural Festival rooftop mural (Jersey City, New Jersey)
 
