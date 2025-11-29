@@ -27,10 +27,11 @@ Popaganda, Montana-Cans, and local blogs frame the piece as a defining moment of
 
 ---
 
-## Main Image
+## Images
 
 ![RXSM × RISK mural – Spider House Ballroom, 2015](../images/Murals/RSXM-Mural.jpg)
-
+![RXSM × RISK mural – Spider House Ballroom, 2015](../images/Murals/Spiderhouse1.jpg)
+![RXSM × RISK mural – Spider House Ballroom, 2015](../images/Murals/Spiderhouse2.jpg)
 ---
 
 ## Sources
