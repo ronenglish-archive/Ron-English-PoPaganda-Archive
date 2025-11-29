@@ -6,11 +6,11 @@
     padding: 0;
   }
 
-  /* Soft cursor-follow swirl in the far background */
+  /* Soft cursor-follow swirl in the deep background */
   #cursor-swirl {
     position: fixed;
     inset: 0;
-    z-index: -3;          /* behind everything */
+    z-index: -3;
     pointer-events: none;
 
     background: radial-gradient(
@@ -21,25 +21,23 @@
       transparent 60%
     );
 
-    opacity: 0.25;
+    opacity: 0.25;   /* soft so page still reads as white */
     transition: background-position 0.12s ease-out;
   }
 
-  /* BIG RGB glow dots for the trail – BUT behind the white panel */
+  /* Medium RGB glow dots (trail) — ABOVE everything */
   .glow-dot {
     position: fixed;
-    width: 60px;
-    height: 60px;
+    width: 36px;           /* back to medium size */
+    height: 36px;
     border-radius: 50%;
     pointer-events: none;
+    z-index: 999;          /* sits over banner + buttons */
 
-    /* key change: sit UNDER the main content */
-    z-index: 0;
-
-    opacity: 0.75;
+    opacity: 0.8;
     transform: translate(-50%, -50%);
-    animation: fadeOut 1.2s linear forwards;
-    filter: blur(8px);
+    animation: fadeOut 1s linear forwards;
+    filter: blur(4px);
   }
 
   @keyframes fadeOut {
@@ -49,7 +47,7 @@
     }
     100% {
       opacity: 0;
-      transform: translate(-50%, -50%) scale(0.25);
+      transform: translate(-50%, -50%) scale(0.3);
     }
   }
 
@@ -84,6 +82,7 @@
 <script>
   const swirl = document.getElementById("cursor-swirl");
 
+  // Move swirl + trail with cursor
   document.addEventListener("mousemove", (e) => {
     const x = (e.clientX / window.innerWidth) * 100;
     const y = (e.clientY / window.innerHeight) * 100;
@@ -92,26 +91,57 @@
     createGlow(e.clientX, e.clientY);
   });
 
+  // Extra color bursts on click
+  document.addEventListener("click", (e) => {
+    createBurst(e.clientX, e.clientY);
+  });
+
   let hue = 0;
 
-  function createGlow(x, y) {
+  // Single glow dot
+  function createGlow(x, y, sizeMultiplier = 1) {
     const dot = document.createElement("div");
     dot.className = "glow-dot";
 
     dot.style.left = x + "px";
     dot.style.top = y + "px";
 
+    // optional size tweak for bursts
+    if (sizeMultiplier !== 1) {
+      const base = 36;
+      const size = base * sizeMultiplier;
+      dot.style.width = size + "px";
+      dot.style.height = size + "px";
+    }
+
     dot.style.background = `radial-gradient(circle, hsl(${hue}, 100%, 75%), transparent 70%)`;
 
-    hue = (hue + 12) % 360;
+    hue = (hue + 15) % 360;
 
     document.body.appendChild(dot);
-    setTimeout(() => dot.remove(), 1200);
+    setTimeout(() => dot.remove(), 1000);
+  }
+
+  // Click burst: several dots around click point
+  function createBurst(x, y) {
+    const particles = 8; // number of dots in burst
+    const minDist = 20;
+    const maxDist = 70;
+
+    for (let i = 0; i < particles; i++) {
+      const angle = Math.random() * Math.PI * 2;
+      const dist = minDist + Math.random() * (maxDist - minDist);
+      const offsetX = Math.cos(angle) * dist;
+      const offsetY = Math.sin(angle) * dist;
+
+      // slightly larger dots for the burst
+      createGlow(x + offsetX, y + offsetY, 1.3);
+    }
   }
 </script>
 
 
-<!-- MAIN CONTENT WRAPPER (sits ABOVE glow + swirl) -->
+<!-- MAIN CONTENT WRAPPER -->
 <div style="background-color: #ffffff; min-height: 100vh; padding: 20px 0; position: relative; z-index: 1;">
 
   <div style="max-width: 1100px; margin: 0 auto; text-align: center;">
