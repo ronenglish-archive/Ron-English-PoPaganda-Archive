@@ -54,11 +54,8 @@
 **Artists:** Ron English & RISK (Kelly Graval)
 
 ![Ron English – Brain Elephant mural, Victoria TX 2015](../images/Murals/Victoria-2015-1.jpg)
-
-## Gallery
-
 ![Ron English – Brain Heart mural, Victoria TX 2015](../images/Murals/Victoria-2015-2.jpg)
-
+![Ron English – Brain Heart mural, Victoria TX 2015](../images/Murals/Victoria3.jpg)
 ## Description
 
 During a multi-day visit to Victoria, Texas, Ron English teamed up with legendary West Coast graffiti artist **RISK** to paint two companion murals for the **VTXIFF / RxSM Film Festival** downtown art program.
