@@ -49,21 +49,22 @@
 # 2010 – Absolut Wallpaper (Rome & Milan)
 
 **Year:** 2010 (May–October)  
-**Location:** Rome (ex-Mattatoio/Testaccio, “Frigorifero” wall) & Milan (Colonne di San Lorenzo), Italy  
+**Locations:** Rome (ex-Mattatoio/Testaccio “Frigorifero” wall) & Milan (Colonne di San Lorenzo), Italy  
 
-![Ron English – Absolut Wallpaper 2010, Rome/Milan – main view](../images/Murals/absolut-wallpaper-2010-rome-milan.jpg)
+![Ron English – Absolut Wallpaper 2010, Rome/Milan – main view](../images/Murals/Absolut-Wallpaper-2010-1.jpg)
 
+## Gallery
 
-
-## Description
-
-In 2010, under the project Absolut Vodka’s “Absolut Wallpaper,” Ron English painted large-scale murals on public walls in Rome and Milan. In Rome he revisited Guernica by Pablo Picasso — naming his version “X-Ray Guernica.” In Milan he reinterpreted Double Elvis by Andy Warhol, titling the street-mural “Elvis–Elvis.” :contentReference[oaicite:6]{index=6}
-
-The works combined live painting events (Rome: May–October 2010; Milan: June–October 2010) and aimed to transform neglected urban walls into sites of public art and cultural dialogue. :contentReference[oaicite:7]{index=7}
+![Absolut Wallpaper 2010 – Rome view](../images/Murals/Absolut-Wallpaper-2010-2.jpg)  
+![Absolut Wallpaper 2010 – Milan view](../images/Murals/Absolut-Wallpaper-2010-3.jpg)  
+![Absolut Wallpaper 2010 – media coverage 1](../images/Murals/Absolut-Wallpaper-2010-4.jpg)  
 
 ## Sources
 
-- “Ron English’s Absolut Wallpaper in Milan and Rome” — Wooster Collective :contentReference[oaicite:8]{index=8}  
-- “A vision by Ron English” — Arketipo Magazine, June 18 2010 :contentReference[oaicite:9]{index=9}  
-- “Ron English Pop Surrealismo per Absolut Wallpaper” — MyArtistic blog (Italian) :contentReference[oaicite:10]{index=10}  
-- “Il murale di Ron English” — Corriere Milano / article about the Milan wall at Colonne di San Lorenzo :contentReference[oaicite:11]{index=11}  
+- [Exibart – “Absolut Wallpaper Roma: Ron English X-Ray Guernica”](https://www.exibart.com/evento-arte/absolut-wallpaper-roma-ron-english-x-ray-guernica/)  
+- [Arrested Motion – Ron English in Italy](https://arrestedmotion.com/2010/06/streets-ron-english-in-italy/)  
+- [Wooster Collective – Ron English’s Absolut Wallpaper in Milan and Rome](https://www.woostercollective.com/post/ron-englishs-absolut-wallpaper-in-milan-and-rome)  
+- [Arketipo Magazine – “A vision by Ron English”](https://www.arketipomagazine.it/a-vision-by-ron-english/)  
+- [MyArtistic Blog – “Ron English Pop Surrealismo per Absolut Wallpaper”](https://myartistic.blogspot.com/2010/05/280510-ron-english-pop-surrealismo-per.html)  
+- [Corriere Milano – Article on the Milan mural](https://milano.corriere.it/notizie/arte_e_cultura/10_giugno_3/Bonazzoli-il-murale-di-ron-english-srtista-che-stravolge-icone-1703130757763.shtml)  
+
