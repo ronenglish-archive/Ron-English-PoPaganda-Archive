@@ -32,10 +32,11 @@ One of the most recognizable works from the early **LA Freewalls** initiative, �
 
 ## Sources
 
-- https://lataco.com/urban-bigfoot-ron-english-la-freewalls  
-- https://www.cluttermagazine.com/news/2013/11/progress-ron-englishs-urban-bigfoot-mural-la  
-- https://www.cluttermagazine.com/tags/urban-bigfoot  
-- https://www.pbssocal.org/history-society/mural-citations-are-off-the-wall-politics  
-- https://www.huffpost.com/entry/street-art-its-not-meant_b_5610496  
-- https://www.dailyrecord.co.uk/news/uk-world-news/gallery/todays-best-pictures-around-globe-3767077  
-- https://www.youtube.com/watch?v=mA2RbTO0MdM
+- [LA Taco – Urban Bigfoot & Ron English for LA Freewalls](https://lataco.com/urban-bigfoot-ron-english-la-freewalls)
+- [Clutter Magazine – Progress on Ron English’s Urban Bigfoot mural](https://www.cluttermagazine.com/news/2013/11/progress-ron-englishs-urban-bigfoot-mural-la)
+- [Clutter Magazine – Urban Bigfoot tag archive](https://www.cluttermagazine.com/tags/urban-bigfoot)
+- [PBS SoCal – Mural citations and public art politics](https://www.pbssocal.org/history-society/mural-citations-are-off-the-wall-politics)
+- [HuffPost – Street art: “It’s not meant to be permanent”](https://www.huffpost.com/entry/street-art-its-not-meant_b_5610496)
+- [Daily Record – Best pictures from around the globe](https://www.dailyrecord.co.uk/news/uk-world-news/gallery/todays-best-pictures-around-globe-3767077)
+- [YouTube – Urban Bigfoot mural video](https://www.youtube.com/watch?v=mA2RbTO0MdM)
+
