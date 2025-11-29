@@ -18,7 +18,7 @@
 <a id="murals-table"></a>
 
 # Murals and Street Works
-
+**Click on each image to see more information.**
 
 | Image | Year | Location | Mural title |
 | --- | --- | --- | --- |
