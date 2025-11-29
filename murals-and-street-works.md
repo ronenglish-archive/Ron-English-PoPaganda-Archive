@@ -24,7 +24,7 @@
 | --- | --- | --- | --- |
 | [![Berlin Wall 1989 thumbnail](images/Murals/Berlin-Wall-1.jpg)](murals/berlin-wall-1989.html) | <a id="berlin-wall-1989-row"></a>1989 | Berlin Wall, Checkpoint Charlie, West Berlin, West Germany | Checkpoint Charlie mural (“Peace on Earth”) |
 | <a id="primary-flight-2008-row"></a>2008 | December 2008 (Art Basel Miami week) | Wynwood streets (Primary Flight), Miami, Florida, US | Primary Flight mural | The second edition of Primary Flight turned Wynwood’s warehouses into a mapped open-air exhibition during Art Basel Miami Beach, and English’s wall quickly joined the neighborhood’s formative wave of large-scale murals. Curators BooksIIII, Lynn Yohana Howard, Logan Hicks, and Anthony Spinello shaped the project into an early blueprint for Wynwood’s international street-art identity. | **[Images ↓](#primary-flight-2008)** · **[Sources ↓](#primary-flight-2008-sources)** |
-| <a id="medicine-agency-2009-row"></a>2009 | December 2009 | Medicine Agency, San Francisco, California, US | Medicine Agency “Guernica” mural | Ron English re-imagined Guernica inside Medicine Agency for the release of his “Mandala Grin” puzzle by ToTT Global. The resulting wall delivered a punch of street-art energy within a gallery space — part homage, part subversion — reflecting how English lays classical imagery over his trademark POPaganda lens. Fans called it a striking example of how fine-art themes and street-art bravado can collide under one roof. | **[Images ↓](#medicine-agency-2009)** · **[Sources ↓](#medicine-agency-2009-sources)** |
+| [![Medicine Agency 2009 thumbnail](images/Murals/Medicine-Agency-1.jpg)](murals/medicine-agency-2009.html) | <a id="medicine-agency-2009-row"></a>2009 | Medicine Agency, San Francisco, California, US | Medicine Agency “Guernica” mural |
 | <a id="urban-bigfoot-la-row"></a>2010 | 2010 (Los Angeles Freewalls era) | Los Angeles Arts District, Los Angeles, California, US | Urban Bigfoot (LA Freewalls) | One of the most recognizable works from the early **LA Freewalls** initiative, English’s towering “Urban Bigfoot” fused his POPaganda surrealism with West Coast street-art energy. Installed in the rapidly growing Arts District, the mural became a magnet for photographers and was repeatedly featured in media discussions about LA’s changing relationship to public art. Coverage from LA Taco, Clutter Magazine, and PBS SoCal highlights how the piece helped cement Freewalls as a pivotal moment in the city’s transition from industrial zone to street-art destination. | **[Images ↓](#urban-bigfoot-la)** · **[Sources ↓](#urban-bigfoot-la-sources)** |
 | <a id="primary-flight-2010-row"></a>2010 | November 29 – December 5, 2010 | Wynwood (Primary Flight × Contra Projects), Miami, Florida, US | Contra Projects collaborative mural | Created for the 2010 Primary Flight program in partnership with Contra Projects, this large-scale collaboration brought together Ron English, Mr. Jago, Bask, Tes One, Tristan Eaton, and others during Art Basel Miami week. English’s grinning yellow Smiley icon anchors the wall, while the surrounding psychedelic stream reflects the styles of the contributing Contra artists. Documented across Primary Flight listings and Contra Projects coverage, the mural captured the experimental, cross-pollinated energy that characterized Wynwood’s early street-art boom. | **[Images ↓](#primary-flight-2010)** · **[Sources ↓](#primary-flight-2010-sources)** |
 | <a id="wynwood-babyhulk-2010-row"></a>2010 | November–December 2010 (Art Basel Miami week) | Wynwood Walls, Miami, Florida, US | Baby Hulk / Temper Tot (Wynwood Walls) | Installed during Wynwood Walls’ 2010 Art Basel expansion, this mural introduced one of English’s most recognized POPaganda figures: a hyper-muscled “Baby Hulk” glowing against a camouflage field, flanked by a camo deer and several Delusionville characters. Coverage from Wynwood Walls and early Miami Basel reporting emphasized how the piece helped define the emerging identity of the Walls during their formative years. | **[Images ↓](#wynwood-babyhulk-2010)** · **[Sources ↓](#wynwood-babyhulk-2010-sources)** |
@@ -58,29 +58,7 @@
 ---
 ## Image gallery
 
-### <a id="berlin-wall-1989"></a>1989 – Berlin Wall, Checkpoint Charlie
 
-<a href="images/Murals/Berlin-Wall-1.jpg">
-  <img src="images/Murals/Berlin-Wall-1.jpg" width="350">
-</a>
-
-<a href="images/Murals/Berlin-Wall-2.jpg">
-  <img src="images/Murals/Berlin-Wall-2.jpg" width="350">
-</a>
-
-<a href="images/Murals/Berlin-Wall-3.jpg">
-  <img src="images/Murals/Berlin-Wall-3.jpg" width="350">
-</a>
-
-<a href="images/Murals/Berlin-Wall-5.png">
-  <img src="images/Murals/Berlin-Wall-5.png" width="350">
-</a>
-
-<a href="images/Murals/Berlin-Wall-6.jpg">
-  <img src="images/Murals/Berlin-Wall-6.jpg" width="350">
-</a>
-
-[Back to entry ↑](#berlin-wall-1989-row)
 
 ### <a id="primary-flight-2008"></a>2008 – Primary Flight (Wynwood, Miami)
 
@@ -90,37 +68,7 @@
 
 [Back to entry ↑](#primary-flight-2008-row)
 
-### <a id="medicine-agency-2009"></a>2009 – Medicine Agency Mural, San Francisco (Guernica Re-imagined)
 
-<a href="images/Murals/Medicine-Agency-1.jpg">
-  <img src="images/Murals/Medicine-Agency-1.jpg" width="350">
-</a>
-
-<a href="images/Murals/Medicine-Agency-3.jpg">
-  <img src="images/Murals/Medicine-Agency-3.jpg" width="350">
-</a>
-
-<a href="images/Murals/Medicine-Agency-4.jpg">
-  <img src="images/Murals/Medicine-Agency-4.jpg" width="350">
-</a>
-
-<a href="images/Murals/Medicine-Agency-5.jpg">
-  <img src="images/Murals/Medicine-Agency-5.jpg" width="350">
-</a>
-
-<a href="images/Murals/Medicine-Agency-6.jpg">
-  <img src="images/Murals/Medicine-Agency-6.jpg" width="350">
-</a>
-
-<a href="images/Murals/Medicine-Agency-7.jpg">
-  <img src="images/Murals/Medicine-Agency-7.jpg" width="350">
-</a>
-
-<a href="images/Murals/Medicine-Agency-8.jpg">
-  <img src="images/Murals/Medicine-Agency-8.jpg" width="350">
-</a>
-
-[Back to entry ↑](#medicine-agency-2009-row)
 
 ### <a id="wynwood-babyhulk-2010"></a>2010 – Baby Hulk / Temper Tot (Wynwood Walls, Miami)
 
