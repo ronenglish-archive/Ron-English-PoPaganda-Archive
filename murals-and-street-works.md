@@ -25,7 +25,7 @@
 | [![Berlin Wall 1989 thumbnail](images/Murals/Berlin-Wall-1.jpg)](murals/berlin-wall-1989.html) | <a id="berlin-wall-1989-row"></a>1989 | Berlin Wall, Checkpoint Charlie, West Berlin, West Germany | Checkpoint Charlie mural (“Peace on Earth”) |
 | [![Primary Flight 2008 thumbnail](images/Murals/Primary-Flight-Mural-1.jpg)](murals/primary-flight-2008.html) | <a id="primary-flight-2008-row"></a>2008 | Wynwood streets (Primary Flight), Miami, Florida, US | Primary Flight mural |
 | [![Medicine Agency 2009 thumbnail](images/Murals/Medicine-Agency-1.jpg)](murals/medicine-agency-2009.html) | <a id="medicine-agency-2009-row"></a>2009 | Medicine Agency, San Francisco, California, US | Medicine Agency “Guernica” mural |
-| <a id="urban-bigfoot-la-row"></a>2010 | 2010 (Los Angeles Freewalls era) | Los Angeles Arts District, Los Angeles, California, US | Urban Bigfoot (LA Freewalls) | One of the most recognizable works from the early **LA Freewalls** initiative, English’s towering “Urban Bigfoot” fused his POPaganda surrealism with West Coast street-art energy. Installed in the rapidly growing Arts District, the mural became a magnet for photographers and was repeatedly featured in media discussions about LA’s changing relationship to public art. Coverage from LA Taco, Clutter Magazine, and PBS SoCal highlights how the piece helped cement Freewalls as a pivotal moment in the city’s transition from industrial zone to street-art destination. | **[Images ↓](#urban-bigfoot-la)** · **[Sources ↓](#urban-bigfoot-la-sources)** |
+| [![Urban Bigfoot 2010 thumbnail](images/Murals/Bigfoot-Mural.jpg)](murals/urban-bigfoot-2010.html) | <a id="urban-bigfoot-la-row"></a>2010 | Los Angeles Arts District, Los Angeles, California, US | Urban Bigfoot (LA Freewalls) |
 | <a id="primary-flight-2010-row"></a>2010 | November 29 – December 5, 2010 | Wynwood (Primary Flight × Contra Projects), Miami, Florida, US | Contra Projects collaborative mural | Created for the 2010 Primary Flight program in partnership with Contra Projects, this large-scale collaboration brought together Ron English, Mr. Jago, Bask, Tes One, Tristan Eaton, and others during Art Basel Miami week. English’s grinning yellow Smiley icon anchors the wall, while the surrounding psychedelic stream reflects the styles of the contributing Contra artists. Documented across Primary Flight listings and Contra Projects coverage, the mural captured the experimental, cross-pollinated energy that characterized Wynwood’s early street-art boom. | **[Images ↓](#primary-flight-2010)** · **[Sources ↓](#primary-flight-2010-sources)** |
 | <a id="wynwood-babyhulk-2010-row"></a>2010 | November–December 2010 (Art Basel Miami week) | Wynwood Walls, Miami, Florida, US | Baby Hulk / Temper Tot (Wynwood Walls) | Installed during Wynwood Walls’ 2010 Art Basel expansion, this mural introduced one of English’s most recognized POPaganda figures: a hyper-muscled “Baby Hulk” glowing against a camouflage field, flanked by a camo deer and several Delusionville characters. Coverage from Wynwood Walls and early Miami Basel reporting emphasized how the piece helped define the emerging identity of the Walls during their formative years. | **[Images ↓](#wynwood-babyhulk-2010)** · **[Sources ↓](#wynwood-babyhulk-2010-sources)** |
 | <a id="lpg-2012-row"></a>2012 | June 2012 | London Pleasure Gardens (Royal Victoria Docks), London, UK | London Pleasure Gardens murals & installations | Commissioned for the launch of the London Pleasure Gardens cultural site, English contributed multiple large-scale works across the 20-acre park. His pieces included a repurposed jumbo-jet nose cone transformed into a surreal Popaganda creature and a series of hoarding-length character panels with speech-bubble reflections that blended satire and mythology. These installations appeared alongside major works by Shepard Fairey, TrustoCorp, RISK, and others, forming one of London’s most ambitious street-art activations of the Olympic year. | **[Images ↓](#lpg-2012)** · **[Sources ↓](#lpg-2012-sources)** |
@@ -77,13 +77,6 @@
 
 [Back to entry ↑](#primary-flight-2010-row)
 
-### <a id="urban-bigfoot-la"></a>2010 – Urban Bigfoot (Los Angeles Freewalls)
-
-<a href="images/Murals/Bigfoot-Mural.jpg">
-  <img src="images/Murals/Bigfoot-Mural.jpg" alt="Ron English – Urban Bigfoot mural, Los Angeles" width="350">
-</a>
-
-[Back to entry ↑](#urban-bigfoot-la-row)
 
 ### <a id="nuart-2012"></a>2012 – Nuart Festival Mural (Stavanger, Norway)
 
