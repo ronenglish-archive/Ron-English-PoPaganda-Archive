@@ -33,8 +33,9 @@ As one of the headlining artists of **Nuart 2012**, Ron English transformed the 
 
 ## Sources
 
-- https://nuartfestival.no/  
-- https://www.brooklynstreetart.com/tag/nuart-2012/  
-- https://streetartnews.net/2012/09/stavanger-norway-nuart-2012-ron-english.html  
-- https://www.juxtapoz.com/news/mural/ron-english-for-nuart-festival-in-norway/  
-- https://www.huffpost.com/entry/nuart-festival-stavanger_n_1860099  
+- [Nuart Festival – Official site](https://nuartfestival.no/)
+- [Brooklyn Street Art – Nuart 2012 archive](https://www.brooklynstreetart.com/tag/nuart-2012/)
+- [StreetArtNews – Ron English at Nuart 2012](https://streetartnews.net/2012/09/stavanger-norway-nuart-2012-ron-english.html)
+- [Juxtapoz – Ron English for Nuart Festival](https://www.juxtapoz.com/news/mural/ron-english-for-nuart-festival-in-norway/)
+- [HuffPost – Nuart Festival in Stavanger](https://www.huffpost.com/entry/nuart-festival-stavanger_n_1860099)
+
