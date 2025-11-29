@@ -1,5 +1,5 @@
-<!-- Full-page lavender background -->
-<div style="background-color: #f4edff; min-height: 100vh; padding: 20px 0;">
+<!-- Full-page white background -->
+<div style="background-color: #ffffff; min-height: 100vh; padding: 20px 0;">
 
   <!-- Centered content wrapper -->
   <div style="max-width: 1100px; margin: 0 auto; text-align: center; display: block;">
@@ -84,7 +84,8 @@
     </div> <!-- end grid -->
 
   </div> <!-- end centered content wrapper -->
-</div> <!-- end lavender background wrapper -->
+</div> <!-- end white background wrapper -->
+
 
 
 
