@@ -25,10 +25,10 @@ As one of the headlining artists of **Nuart 2012**, Ron English transformed the 
 
 ---
 
-## Main Image
+## Images
 
 ![Nuart Festival mural – Ron English, Stavanger, 2012](../images/Murals/Nuart-Mural.jpg)
-
+![Nuart Festival mural – Ron English, Stavanger, 2012](../images/Murals/Nuart.jpg)
 ---
 
 ## Sources
