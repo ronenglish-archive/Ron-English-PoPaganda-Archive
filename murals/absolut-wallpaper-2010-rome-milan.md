@@ -51,7 +51,7 @@
 **Year:** 2010 (May–October)  
 **Locations:** Rome (ex-Mattatoio/Testaccio “Frigorifero” wall) & Milan (Colonne di San Lorenzo), Italy  
 
-![Ron English – Absolut Wallpaper 2010, Rome/Milan – main view](../images/Murals/Absolut-Wallpaper-2010-rome-milan.jpg)
+![Ron English – Absolut Wallpaper 2010, Rome/Milan – main view](../images/Murals/absolut-wallpaper-2010-rome-milan.jpg)
 
 
 ## Sources
