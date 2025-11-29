@@ -1,17 +1,32 @@
-<p align="center">
-  <sub>
-    <a href="index.html">Home</a> ·
-    <a href="solo-exhibitions.html">Solo&nbsp;exhibitions</a> ·
-    <a href="group-exhibitions.html">Group&nbsp;exhibitions</a> ·
-    <a href="murals-and-street-works.html">Murals&nbsp;&amp;&nbsp;street&nbsp;works</a> ·
-    <a href="pop-ups-shops-brand-activations.html">Pop-ups,&nbsp;shops&nbsp;&amp;&nbsp;brand&nbsp;activations</a> ·
-    <a href="benefit-auctions-charity-projects.html">Benefit&nbsp;auctions&nbsp;&amp;&nbsp;charity&nbsp;projects</a> ·
-    <a href="film-screenings-festivals-film-events.html">Film&nbsp;screenings,&nbsp;festivals&nbsp;&amp;&nbsp;film&nbsp;events</a> ·
-    <a href="digital-projects-nft-crypto-art.html">Digital&nbsp;projects,&nbsp;NFT&nbsp;&amp;&nbsp;crypto-art</a> ·
-    <a href="public-talks-lectures-book-signings.html">Public&nbsp;talks,&nbsp;lectures&nbsp;&amp;&nbsp;book&nbsp;signings</a> ·
-    <a href="special-events-parties-tours.html">Special&nbsp;events,&nbsp;parties&nbsp;&amp;&nbsp;tours</a>
-  </sub>
-</p>
+<style>
+  .clean-nav {
+    text-align: center;
+    margin: 20px 0 30px 0;
+    line-height: 2.2;
+  }
+
+  .clean-nav a {
+    display: inline-block;
+    margin: 4px 6px;
+    padding: 6px 14px;
+    background: #eef3ff;
+    border-radius: 14px;
+    text-decoration: none;
+    color: #1a4fa3;
+    font-weight: 500;
+    font-size: 15px;
+    border: 1px solid #d6e1ff;
+    transition: background 0.25s ease, box-shadow 0.25s ease, transform 0.2s ease, color 0.25s ease, border-color 0.25s ease;
+  }
+
+  .clean-nav a:hover {
+    background: linear-gradient(135deg, #ffd6ff, #ffc0e6, #ffe6a8);
+    border-color: #ff96d5;
+    color: #5a0075;
+    box-shadow: 0 0 10px rgba(255, 150, 213, 0.7);
+    transform: translateY(-1px);
+  }
+</style>
 
 
 
