@@ -44,7 +44,7 @@
 | [![ONE WALL thumbnail](images/Murals/One-Wall.jpg)](murals/one-wall-2017.html) | <a id="one-wall-2017-row"></a>2017 | Schöneberg (Urban Nation / ONE WALL), Berlin, Germany | ONE WALL (Urban Nation Museum mural) |
 | [![Manhattan Runners thumbnail](images/Murals/Manhattan-Runners.jpeg)](murals/manhattan-runners-2017.html) | <a id="manhattan-runners-2017-row"></a>2017 | 1st Avenue at St. Marks Place, Manhattan, New York, US | Manhattan Runners |
 | [![Wynwood 2018 thumbnail](images/Murals/Wynwood-Walls-2018.jpg)](murals/wynwood-2018.html) | <a id="wynwood-2018-row"></a>2018 | Wynwood Walls (citywide programming), Miami, Florida, US | Wynwood Walls – Basel Week murals |
-| <a id="k11-musea-2019-row"></a>2019– (permanent) | 2019 | K11 MUSEA (Opera Theatre), Hong Kong | Ronnie Rabbits Delusion / Smiley Grin | Installed as part of K11 MUSEA’s permanent art program, this large auditorium wall features English’s signature rabbit figures and pop-surreal textures arranged as a sweeping panorama inside the Opera Theatre. The work appears in the mall’s official art collection listings, which highlight Ron English alongside global contemporary artists commissioned during the Victoria Dockside redevelopment. | **[Images ↓](#k11-musea-2019)** · **[Sources ↓](#k11-musea-2019-sources)** |
+| [![K11 MUSEA thumbnail](images/Murals/K11-Mural.jpg)](murals/k11-musea-2019.html) | <a id="k11-musea-2019-row"></a>2019– (permanent) | K11 MUSEA (Opera Theatre), Hong Kong | Ronnie Rabbits Delusion |
 | <a id="elefanka-mousezilla-2019-row"></a>2019 | 2019 | Erie Street basketball court (266 Erie St), Jersey City, New Jersey, US | Elefanka and Mousezilla | Sixty-foot double-wall commission for the Jersey City Mural Arts Program, pairing a butterfly-winged orange “Elefanka” with a towering green “Mousezilla” overlooking a neighborhood schoolyard. Local guides and mural maps single out the piece as one of Jersey City’s signature POPaganda landmarks, noting how English – then a Jersey City resident – brought characters from his Delusionville universe to Erie and 16th Street as part of the city’s push to turn everyday corners into open-air galleries. | **[Images ↓](#elefanka-mousezilla-2019)** · **[Sources ↓](#elefanka-mousezilla-2019-sources)** |
 | <a id="elefanka-lyon-2019-row"></a>2019 | 2019 (approx.) | Lyon, France | Elefanka | One of the most recognizable additions to Lyon’s growing roster of XXL murals, *Elefanka* brings English’s hybrid-animal surrealism into the French street-art scene. The piece appears across multiple Lyon mural guides and walking circuits, where it’s highlighted as an unexpected POPaganda presence among the city’s large-format façades. Local documentation from 2019–2020 confirms the work as a standout destination for mural hunters exploring the neighborhood’s evolving urban-art landscape. | **[Images ↓](#elefanka-lyon-2019)** · **[Sources ↓](#elefanka-lyon-2019-sources)** |
 | <a id="miami-mural-festival-2021-row"></a>2021 | November 29 – December 5, 2021 | Mana Common / multiple sites (Flagler District & Wynwood), Miami, Florida, US | Miami Mural Festival (Miami Art Week) | Weeklong mural program produced by Mana Public Arts during Miami Art Week, activating more than 500,000 square feet of walls across Downtown Miami’s Flagler District and Wynwood. Pre-festival announcements and post-event coverage listed English among the featured muralists—alongside AVAF, Case Maclaim, Elle, Queen Andrea, Magnus Sodamin, FINOK and others—positioning the festival as a major street-art counterpart to Miami’s fair circuit. English’s participation is documented, though the specific wall location and title remain unverified in public festival records. | **[Sources ↓](#miami-mural-festival-2021-sources)** |
@@ -59,16 +59,6 @@
 ## Image gallery
 
 
-
-
-
-### <a id="k11-musea-2019"></a>2019 – Ronnie Rabbits Delusion / Smiley Grin (K11 MUSEA, Hong Kong)
-
-<a href="images/Murals/K11-Mural.jpg">
-  <img src="images/Murals/K11-Mural.jpg" width="350">
-</a>
-
-[Back to entry ↑](#k11-musea-2019-row)
 
 ### <a id="elefanka-mousezilla-2019"></a>2019 – Elefanka and Mousezilla (Erie & 16th St., Jersey City)
 
