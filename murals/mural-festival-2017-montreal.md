@@ -26,7 +26,7 @@ Canadian arts outlets and international street-art coverage highlighted its bold
 
 ---
 
-## Main Image
+## Images
 
 ![Sourire Mona Lisa mural, Montréal 2017](../images/Murals/Montreal-Mona-Mural.jpg)
 
