@@ -25,9 +25,11 @@ For the inaugural season of **Coney Art Walls**, curated by Jeffrey Deitch, Ron 
 
 ---
 
-## Main Image
+## Images
 
 ![Grinnin’ McB mural – Coney Art Walls 2015](../images/Murals/Coney-Island-Mural.jpg)
+![Grinnin’ McB mural – Coney Art Walls 2015](../images/Murals/Coney-Island-2015-2.jpg)
+![Grinnin’ McB mural – Coney Art Walls 2015](../images/Murals/Coney-Island-2015-1.jpg)
 
 ---
 
