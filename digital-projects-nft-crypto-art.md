@@ -78,59 +78,31 @@ Includes digital-art releases, blockchain-based projects, NFT drops, metaverse a
 
 **Click on each image to see more information.**
 
-<table>
-  <thead>
-    <tr>
-      <th>Cover</th>
-      <th>Year</th>
-      <th>Release date(s)</th>
-      <th>Platform / venue</th>
-      <th>Project title</th>
-    </tr>
-  </thead>
-  <tbody>
-
-    <!-- 2023 – See, Hear and Speak More Evil Monkeys -->
-    <tr>
-      <td>
-        <a href="digital-projects/see-hear-speak-more-evil-monkeys-2023.html">
-          <img src="images/Digital-Projects/seenoevil.jpeg" alt="See, Hear and Speak More Evil Monkeys" class="mural-thumb">
-        </a>
-      </td>
-      <td><a id="see-hear-speak-more-evil-monkeys-2023-row"></a>2023</td>
-      <td>June 18, 2023</td>
-      <td>VeVe app – See, Hear and Speak More Evil Monkeys</td>
-      <td><em>Ron English — See, Hear and Speak More Evil Monkeys</em></td>
-    </tr>
-
-    <!-- 2023 – Mogul Grin Series 1 -->
-    <tr>
-      <td>
-        <a href="digital-projects/mogul-grin-series-1-2023.html">
-          <img src="images/Digital-Projects/mogul.jpg" alt="Mogul Grin Series 1" class="mural-thumb">
-        </a>
-      </td>
-      <td><a id="mogul-grin-series-1-2023-row"></a>2023</td>
-      <td>September 29, 2023</td>
-      <td>VeVe app – Mogul Grin Series 1</td>
-      <td><em>Ron English — Mogul Grin Series 1</em></td>
-    </tr>
-
-    <!-- 2025 – Mogul Grin Board Game -->
-    <tr>
-      <td>
-        <a href="digital-projects/mogul-grin-board-game-2025.html">
-          <img src="images/Digital-Projects/boardgame1.jpg" alt="Mogul Grin Board Game" class="mural-thumb">
-        </a>
-      </td>
-      <td><a id="mogul-grin-board-game-2025-row"></a>2025</td>
-      <td>March 15, 2025</td>
-      <td>VeVe app – Mogul Grin Board Game</td>
-      <td><em>Ron English’s Mogul Grin Board Game</em></td>
-    </tr>
-
-    <!-- 2025 – Mogul Grin Board Game Series 2 -->
-    <tr>
-      <td>
-        <a href="digital-projects/mogul-grin-board-game-series-2-2025.html">
-          <img src="images/Digital-Projects/boardgame2.jpg" alt="Mogul Grin Board Game Series 2" class="mural-thumb">
+| Cover | Year | Release date(s) | Platform / venue | Project title |
+| --- | --- | --- | --- | --- |
+| [![See, Hear and Speak More Evil Monkeys](images/Digital-Projects/seenoevil.jpeg)](digital-projects/see-hear-speak-more-evil-monkeys-2023.html) | <a id="see-hear-speak-more-evil-monkeys-2023-row"></a>2023 | June 18, 2023 | VeVe app – See, Hear and Speak More Evil Monkeys | *Ron English — See, Hear and Speak More Evil Monkeys* |
+| [![Mogul Grin Series 1](images/Digital-Projects/mogul.jpg)](digital-projects/mogul-grin-series-1-2023.html) | <a id="mogul-grin-series-1-2023-row"></a>2023 | September 29, 2023 | VeVe app – Mogul Grin Series 1 | *Ron English — Mogul Grin Series 1* |
+| [![Mogul Grin Board Game](images/Digital-Projects/boardgame1.jpg)](digital-projects/mogul-grin-board-game-2025.html) | <a id="mogul-grin-board-game-2025-row"></a>2025 | March 15, 2025 | VeVe app – Mogul Grin Board Game | *Ron English’s Mogul Grin Board Game* |
+| [![Mogul Grin Board Game Series 2](images/Digital-Projects/boardgame2.jpg)](digital-projects/mogul-grin-board-game-series-2-2025.html) | <a id="mogul-grin-board-game-series-2-2025-row"></a>2025 | April 5, 2025 | VeVe app – Mogul Grin Board Game Series 2 | *Ron English’s Mogul Grin Board Game — Series 2* |
+| [![Fauxlosophy #1](images/Digital-Projects/fauxlosophy1.jpg)](digital-projects/fauxlosophy-1-2025.html) | <a id="fauxlosophy-1-2025-row"></a>2025 | May 14, 2025 | VeVe – Digital Comics | *Ron English — Fauxlosophy #1* |
+| [![Rabbit Grin Series](images/Digital-Projects/rabbitgrin.png)](digital-projects/rabbit-grin-series-2025.html) | <a id="rabbit-grin-series-2025-row"></a>2025 | October 4, 2025 | VeVe app / DesignerCon Hong Kong 2025 | *Rabbit Grin Series* |
+| [![Cereal Killers Series 1](images/Digital-Projects/cerealkillers.webp)](digital-projects/cereal-killers-series-1-2021.html) | <a id="cereal-killers-series-1-2021-row"></a>2021 | June 10, 2021 | VeVe app | *Ron English’s Cereal Killers — Series 1* |
+| [![Cereal Killers Series 2](images/Digital-Projects/cerealkillers2.webp)](digital-projects/cereal-killers-series-2-2021.html) | <a id="cereal-killers-series-2-2021-row"></a>2021 | September 18, 2021 | VeVe app | *Ron English’s Cereal Killers — Series 2* |
+| [![Cereal Killers Series 3](images/Digital-Projects/cereal3.webp)](digital-projects/cereal-killers-series-3-2021.html) | <a id="cereal-killers-series-3-2021-row"></a>2021 | November 27, 2021 | VeVe app | *Ron English’s Cereal Killers — Series 3* |
+| [![Last Fat Breakfast](images/Digital-Projects/lastfat.webp)](digital-projects/last-fat-breakfast-2021.html) | <a id="last-fat-breakfast-2021-row"></a>2021 | December 31, 2021 | VeVe – Popaganda / Cereal Killers | *Ron English — Last Fat Breakfast* |
+| [![Ukraine Relief Project](images/Digital-Projects/ukrane.webp)](digital-projects/ukraine-relief-project-2022.html) | <a id="ukraine-relief-project-2022-row"></a>2022 | March 12–13, 2022 | VeVe – Ukraine Relief Project | *Ron English — Ukraine Relief Project* |
+| [![David Warhol](images/Digital-Projects/warhol.webp)](digital-projects/david-warhol-2022.html) | <a id="david-warhol-2022-row"></a>2022 | August 17–21, 2022 | VeVe Artworks | *VeVe Artworks: Ron English — David Warhol* |
+| [![Area 54 #1](images/Digital-Projects/area54.jpg)](digital-projects/area-54-1-2024.html) | <a id="area-54-1-2024-row"></a>2024 | October 16, 2024 | VeVe – Digital Comics | *Ron English — Area 54 #1* |
+| [![Delusionville #1](images/Digital-Projects/delusionville.jpg)](digital-projects/delusionville-1-2025.html) | <a id="delusionville-1-2025-row"></a>2025 | February 12, 2025 | VeVe – Digital Comics | *Ron English — Delusionville #1* |
+| [![Last Supper Diorama](images/Digital-Projects/lastsuppercollectibles.jpg)](digital-projects/last-supper-diorama-2025.html) | <a id="last-supper-diorama-2025-row"></a>2025 | July 13, 2025 | VeVe app | *Ron English — Last Supper Diorama* |
+| [![VeVeVibes Delusionville Record Series](images/Digital-Projects/record.jpg)](digital-projects/vevevibes-delusionville-record-series-2024-25.html) | <a id="vevevibes-delusionville-record-series-2024-25-row"></a>2024–25 | October 18, 2024 – June 21, 2025 | VeVe – VeVeVibes / The Rabbbits Jukebox | *VeVeVibes: Ron English — Delusionville Record Series* |
+| [![Augmented Reality Advertising Takeover](images/Digital-Projects/augreality.jpg)](digital-projects/times-square-ar-takeover-2011.html) | <a id="times-square-ar-takeover-2011-row"></a>2011 | July 24, 2011 | Times Square (Public Ad Campaign × The Heavy Projects) | *Augmented Reality Advertising Takeover* |
+| [![Charlie Grin / Sunflower](images/Digital-Projects/INFINIT3.jpg)](digital-projects/charlie-grin-sunflower-2022.html) | <a id="charlie-grin-sunflower-2022-row"></a>2022 | October 21, 2022 | INFINIT3.io (with Garageworks Industries Ltd.) | *Charlie Grin / Charlie Grin “Sunflower”* |
+| [![Delusionville Record S6](images/Digital-Projects/lastplace.webp)](digital-projects/delusionville-record-s6-2025.html) | <a id="delusionville-record-s6-2025-row"></a>2025 | June 21, 2025 | VeVe app | *Delusionville Record S6: Last Place is First Place* |
+| [![Essential NFT Collection](images/Digital-Projects/essential.jpg)](digital-projects/essential-nft-collection-2021.html) | <a id="essential-nft-collection-2021-row"></a>2021 | March 28, 2021 | Nifty Gateway Studio | *Ron English Essential NFT Collection* |
+| [![Delusionville NFT Collection — Nifty](images/Digital-Projects/slashron.jpg)](digital-projects/delusionville-nft-collection-2021.html) | <a id="delusionville-nft-collection-2021-row"></a>2021 | July 9, 2021 | Nifty Gateway | *Delusionville NFT Collection — Nifty Gateway drop* |
+| [![Slash x Ron English](images/Digital-Projects/hundreds.jpg)](digital-projects/slash-x-ron-english-2021.html) | <a id="slash-x-ron-english-2021-row"></a>2021 | July 9, 2021 | Nifty Gateway (Curated) | *Slash x Ron English* |
+| [![Be The Light – Lightcult Crypto Club](images/Digital-Projects/hundreds.jpg)](digital-projects/be-the-light-lightcult-2021.html) | <a id="be-the-light-lightcult-2021-row"></a>2021 | 2021 (launch announced November 17, 2021) | Lightcult Crypto Club | *Be The Light (Lightcult Crypto Club)* |
+| [![The Grand Delusion — Part 1](images/Digital-Projects/granddelusion.jpg)](digital-projects/grand-delusion-part-1-2022.html) | <a id="grand-delusion-part-1-2022-row"></a>2022 | May 9, 2022 | Nifty Gateway (Curated) | *The Grand Delusion — Part 1* |
+| [![A Tune from the Tomb / Jeremiah Grin](images/Digital-Projects/tomb.jpg)](digital-projects/jeremiah-grin-2021.html) | <a id="jeremiah-grin-2021-row"></a>2021 | August 27, 2021 | Superchief Gallery NFT (New York) | *A Tune from the Tomb / Jeremiah Grin* |
+| [![Season 1 Starter Pack](images/Digital-Projects/starterpac.jpg)](digital-projects/superchief-season-1-starter-pack-2021.html) | <a id="superchief-season-1-starter-pack-2021-row"></a>2021 | March 2021 | Superchief Gallery NFT (New York) | *Season 1 Starter Pack* |
