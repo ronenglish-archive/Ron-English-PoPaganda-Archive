@@ -52,11 +52,11 @@
 **Platform:** VeVe app – “See, Hear and Speak More Evil Monkeys”  
 **Type:** Digital collectible blind-box series (3D sculptures)  
 
-![Ron English — See, Hear and Speak More Evil Monkeys (VeVe drop artwork)](../images/Digital-Projects/seenoevil.jpeg)
+![Ron English — See, Hear and Speak More Evil Monkeys (VeVe drop artwork)](../images/Digital/seenoevil.jpeg)
 
 ## Overview
 
-VeVe’s **“See, Hear and Speak More Evil Monkeys”** release extends Ron English’s POPaganda universe into fully modeled 3D collectibles. The drop focuses on his “More Evil Monkeys” characters, presented as a blind-box series in which collectors don’t know which variant they will receive until after purchase. Across the set, six sculpted monkeys appear in two different colorways, echoing the classic “see no evil, hear no evil, speak no evil” motif while pushing it into a darker, satirical key suited to English’s ongoing critique of consumer culture.
+VeVe’s **“See, Hear and Speak More Evil Monkeys”** drop brings Ron English’s “More Evil Monkeys” characters into a dedicated 3D collectible series. The release is structured as a blind box, so collectors purchase first and discover which monkey they received only after the reveal. Across the set, six sculpted figures appear in two colorways, riffing on the classic “see no evil, hear no evil, speak no evil” trio while amplifying English’s darker satire about media, surveillance and consumer culture. The project marks one of the early VeVe Popaganda drops focused entirely on the monkey characters as standalone digital sculptures.
 
 ## Gallery
 
