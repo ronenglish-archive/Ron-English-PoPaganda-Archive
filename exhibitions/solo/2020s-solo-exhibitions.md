@@ -44,11 +44,6 @@
   <a href="special-events-parties-tours.html">Special events, parties &amp; tours</a>
 </div>
 
-# 2020s solo exhibitions
-
-
-
-
 # 2020s Solo Exhibitions
 
 This page collects Ron English’s solo exhibitions from 2020 to the present.
