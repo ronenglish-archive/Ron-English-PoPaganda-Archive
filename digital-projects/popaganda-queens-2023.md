@@ -1,0 +1,72 @@
+<style>
+  .top-nav {
+    text-align: center;
+    margin: 16px 0 24px 0;
+  }
+
+  .top-nav a {
+    display: inline-block;
+    margin: 4px 6px;
+    padding: 4px 10px;
+    background: #eef3ff;
+    border-radius: 14px;
+    text-decoration: none;
+    color: #1a4fa3;
+    font-size: 13px;
+    border: 1px solid #d6e1ff;
+    transition:
+      background 0.25s ease,
+      box-shadow 0.25s ease,
+      transform 0.15s ease,
+      color 0.25s ease,
+      border-color 0.25s ease;
+  }
+
+  .top-nav a:hover {
+    background: linear-gradient(135deg, #ffd6ff, #ffc0e6, #ffe6a8);
+    border-color: #ff96d5;
+    color: #5a0075;
+    box-shadow: 0 0 8px rgba(255, 150, 213, 0.7);
+    transform: translateY(-1px);
+  }
+</style>
+
+<div class="top-nav">
+  <a href="../index.html">Home</a>
+  <a href="../solo-exhibitions.html">Solo exhibitions</a>
+  <a href="../group-exhibitions.html">Group exhibitions</a>
+  <a href="../murals-and-street-works.html">Murals &amp; street works</a>
+  <a href="../pop-ups-shops-brand-activations.html">Pop-ups, shops &amp; brand activations</a>
+  <a href="../benefit-auctions-charity-projects.html">Benefit auctions &amp; charity projects</a>
+  <a href="../film-screenings-festivals-film-events.html">Film screenings, festivals &amp; film events</a>
+  <a href="../digital-projects-nft-crypto-art.html">Digital projects, NFT &amp; crypto-art</a>
+  <a href="../public-talks-lectures-book-signings.html">Public talks, lectures &amp; book signings</a>
+  <a href="../special-events-parties-tours.html">Special events, parties &amp; tours</a>
+</div>
+
+[⬅ Back to digital projects index](../digital-projects-nft-crypto-art.html#popaganda-queens-2023-row)
+
+# 2023 – *Popaganda Queens* (Popaganda × Nifty Gateway)
+
+**Year:** 2023 (June 10, 2023)  
+**Platform:** Popaganda × Nifty Gateway  
+**Type:** Multi-character NFT collection
+
+![Popaganda Queens — Ron English](../images/Digital/popagadakingsqueens.webp)
+
+## Overview
+
+**Popaganda Queens** expands Ron English’s Popaganda universe with a lineup of female counterparts to his most famous characters. Each “Queen” carries the visual DNA of the Popaganda icon she is based on—*Queen Rabbit, Queen Grin, Queen Temper Tot,* and others—but with heightened elegance, sharper design lines and a more narrative-driven pose.
+
+The series launched alongside **Popaganda Kings**, forming a masculine/feminine dual release that parallels English’s use of archetypes, parody and cultural symbolism. Collectors responded strongly to the bold palette and the way each Queen reframes a familiar Popaganda figure through a new lens.
+
+Several Queens have appeared in later merchandising prototypes and concept artworks, linking this digital collection to other corners of English’s expanding multiverse.
+
+## Gallery
+
+*(Add alternate views if available.)*
+
+## Sources
+
+- [Nifty Gateway – Popaganda Queens drop](https://www.niftygateway.com/)  
+- [Popaganda – Digital releases archive](https://www.popaganda.com/news/)
