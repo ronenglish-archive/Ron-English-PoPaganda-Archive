@@ -57,16 +57,16 @@
 </style>
 
 <div class="top-nav">
-  <a href="/index.html">Home</a>
-  <a href="/solo-exhibitions.html">Solo exhibitions</a>
-  <a href="/group-exhibitions.html">Group exhibitions</a>
-  <a href="/murals-and-street-works.html">Murals &amp; street works</a>
-  <a href="/pop-ups-shops-brand-activations.html">Pop-ups, shops &amp; brand activations</a>
-  <a href="/benefit-auctions-charity-projects.html">Benefit auctions, charity projects</a>
-  <a href="/film-screenings-festivals-film-events.html">Film screenings, festivals &amp; film events</a>
-  <a href="/digital-projects-nft-crypto-art.html">Digital projects, NFT &amp; crypto-art</a>
-  <a href="/public-talks-lectures-book-signings.html">Public talks, lectures &amp; book signings</a>
-  <a href="/special-events-parties-tours.html">Special events, parties &amp; tours</a>
+  <a href="index.html">Home</a>
+  <a href="solo-exhibitions.html">Solo exhibitions</a>
+  <a href="group-exhibitions.html">Group exhibitions</a>
+  <a href="murals-and-street-works.html">Murals &amp; street works</a>
+  <a href="pop-ups-shops-brand-activations.html">Pop-ups, shops &amp; brand activations</a>
+  <a href="benefit-auctions-charity-projects.html">Benefit auctions, charity projects</a>
+  <a href="film-screenings-festivals-film-events.html">Film screenings, festivals &amp; film events</a>
+  <a href="digital-projects-nft-crypto-art.html">Digital projects, NFT &amp; crypto-art</a>
+  <a href="public-talks-lectures-book-signings.html">Public talks, lectures &amp; book signings</a>
+  <a href="special-events-parties-tours.html">Special events, parties &amp; tours</a>
 </div>
 
 # Solo Exhibitions
@@ -74,8 +74,8 @@
 This section organizes Ron English’s solo exhibitions by decade.  
 Click a decade below to view the full tables.
 
-- [2020s solo exhibitions](/exhibitions/solo/2020s-solo-exhibitions.html)
-- [2010s solo exhibitions](/exhibitions/solo/2010s-solo-exhibitions.html)
-- [2000s solo exhibitions](/exhibitions/solo/2000s-solo-exhibitions.html)
-- [1990s solo exhibitions](/exhibitions/solo/1990s-solo-exhibitions.html)
-- [1970s and 1980s solo exhibitions](/exhibitions/solo/1970s-1980s-solo-exhibitions.html)
+- [2020s solo exhibitions](/Ron-English-PoPaganda-Archive/exhibitions/solo/2020s-solo-exhibitions.html)
+- [2010s solo exhibitions](/Ron-English-PoPaganda-Archive/exhibitions/solo/2010s-solo-exhibitions.html)
+- [2000s solo exhibitions](/Ron-English-PoPaganda-Archive/exhibitions/solo/2000s-solo-exhibitions.html)
+- [1990s solo exhibitions](/Ron-English-PoPaganda-Archive/exhibitions/solo/1990s-solo-exhibitions.html)
+- [1970s and 1980s solo exhibitions](/Ron-English-PoPaganda-Archive/exhibitions/solo/1970s-1980s-solo-exhibitions.html)
