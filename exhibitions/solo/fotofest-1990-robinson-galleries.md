@@ -57,7 +57,7 @@
 
 ### **Solo Exhibition**
 
-<img src="../../images/Exhibitions/Solo/fotofest-1990.jpg"
+<img src="../../images/Exhibitions/Solo/fotofest90.jpg"
      alt="Ron English — FotoFest ’90 solo exhibition at Thomas V. Robinson / Robinson Galleries, Houston, 1990"
      class="exhibit-image">
 
