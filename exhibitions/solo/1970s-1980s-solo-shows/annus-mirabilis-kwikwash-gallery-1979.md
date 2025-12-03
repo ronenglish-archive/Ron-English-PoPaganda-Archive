@@ -55,7 +55,7 @@
 **Location:** Houston, Texas, US  
 **Title:** *Annus ... Mirabilis*  
 
-![Ron English – “Eye/Hand Coordination — Annus ... Mirabilis”, Kwikwash Gallery invitation](../../images/Exhibitions/Solo/1970s-1980s/annus-mirabilis-quickwashquickwash-gallery-1979/annus-mirabilis-kwikwash-gallery-1979-1.jpg)
+![Ron English – “Eye/Hand Coordination — Annus ... Mirabilis”, Kwikwash Gallery invitation](../../images/Exhibitions/Solo/1970s-1980s/annus-mirabilis-quickwash-gallery-1979/annus-mirabilis-kwikwash-gallery-1979-1.jpg)
 
 ## Notes
 
