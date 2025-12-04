@@ -30,7 +30,6 @@
 </style>
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#complexcon-2016-row)
 
 # 2016 – ComplexCon murals
 
@@ -50,3 +49,5 @@
 - [Ron English – Instagram posts (Nov 6–7, 2016) documenting the murals]  
   https://www.instagram.com/p/BMkdQO_gjmW/  
   https://www.instagram.com/p/BMmN6w1guOH/
+
+[⬅ Back to murals index](../murals-and-street-works.html#complexcon-2016-row)
