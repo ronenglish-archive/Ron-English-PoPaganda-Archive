@@ -31,7 +31,7 @@
 
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#miami-marine-stadium-2014-row)
+
 
 # 2014 – Miami Marine Stadium (Art | History Mural Project)  
 **Miami, Florida**
@@ -69,4 +69,4 @@ The initiative aimed to raise awareness for the historic stadium’s preservatio
 - [Time Out Miami – Art History Project](https://www.timeout.com/miami/art/art-history-project)
 - [The Miami Hurricane – Abandoned Miami Marine Stadium: Art History Project](https://themiamihurricane.com/2014/12/04/abandoned-miami-marine-stadium-art-history-project/)
 
-
+[⬅ Back to murals index](../murals-and-street-works.html#miami-marine-stadium-2014-row)
