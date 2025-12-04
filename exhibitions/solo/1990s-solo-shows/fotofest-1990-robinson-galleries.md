@@ -88,6 +88,7 @@ The works pushed documentary photography toward staged spectacle, blurring the l
 ---
 
 ## Back to list
-➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#<anchor-id-for-this-row>)
+➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#fotofest-1990-robinson-galleries-row)
+
 
 
