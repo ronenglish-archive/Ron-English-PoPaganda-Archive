@@ -14,8 +14,12 @@
     color: #1a4fa3;
     font-size: 13px;
     border: 1px solid #d6e1ff;
-    transition: background 0.25s ease, box-shadow 0.25s ease,
-                transform 0.15s ease, color 0.25s ease, border-color 0.25s ease;
+    transition:
+      background 0.25s ease,
+      box-shadow 0.25s ease,
+      transform 0.15s ease,
+      color 0.25s ease,
+      border-color 0.25s ease;
   }
 
   .top-nav a:hover {
@@ -54,6 +58,21 @@
   table td {
     font-weight: 500;
   }
+
+  /* Glowing call-to-action text */
+  .glow-text {
+    font-size: 26px;              /* bump this up/down to taste */
+    font-weight: 700;
+    animation: rainbowGlow 3s linear infinite;
+  }
+
+  @keyframes rainbowGlow {
+    0%   { color: #ff4bd7; text-shadow: 0 0 12px #ff4bd7; }
+    25%  { color: #ff9b4b; text-shadow: 0 0 12px #ff9b4b; }
+    50%  { color: #ffd84b; text-shadow: 0 0 12px #ffd84b; }
+    75%  { color: #7eff4b; text-shadow: 0 0 12px #7eff4b; }
+    100% { color: #4bafff; text-shadow: 0 0 12px #4bafff; }
+  }
 </style>
 
 <div class="top-nav">
@@ -68,7 +87,6 @@
   <a href="../../public-talks-lectures-book-signings.html">Public talks, lectures &amp; book signings</a>
   <a href="../../special-events-parties-tours.html">Special events, parties &amp; tours</a>
 </div>
-
 
 # 2020s Solo Exhibitions
 
