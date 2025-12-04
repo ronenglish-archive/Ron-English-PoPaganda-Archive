@@ -58,7 +58,7 @@
 
 ### **Solo Exhibition**
 
-<img src="../../images/Exhibitions/Solo/noiseville.jpg"
+<img src="../../../images/Exhibitions/Solo/noiseville.jpg"
      alt="Ron English — Noiseville 98, Noiseville Gallery, 1998"
      class="exhibit-image">
 
