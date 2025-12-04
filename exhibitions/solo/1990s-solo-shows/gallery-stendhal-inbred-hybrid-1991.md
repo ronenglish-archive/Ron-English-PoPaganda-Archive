@@ -87,6 +87,7 @@ The invitation promoted the show as a bold, iconoclastic step in his Popaganda d
 ---
 
 ## Back to list
-➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#gallery-stendhal-inbred-hybrid-1991-row)
+➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#gallery-stendhal-heykid-1992-row)
+
 
 
