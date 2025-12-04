@@ -58,7 +58,7 @@
 
 ### **Solo Exhibition**
 
-<img src="../../images/Exhibitions/Solo/revisionist.jpg"
+<img src="../../../images/Exhibitions/Solo/revisionist.jpg"
      alt="Ron English — Revisionist Modernism, Museum of Contemporary Art Washington DC, 1994–95"
      class="exhibit-image">
 
