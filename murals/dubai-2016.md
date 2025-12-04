@@ -28,7 +28,7 @@
     transform: translateY(-1px);
   }
 </style>
-[⬅ Back to murals index](../murals-and-street-works.html#dubai-2016-row)
+
 
 # 2016 – Dubai Walls / City Walk (Dubai, UAE)
 
@@ -65,3 +65,4 @@ The mural features his signature POPaganda cast — including mutated pop charac
 - **Popaganda.com – Dubai Walls project images & updates**  
   https://popaganda.com/tag/dubai/  
 
+[⬅ Back to murals index](../murals-and-street-works.html#dubai-2016-row)
