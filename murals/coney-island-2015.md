@@ -30,7 +30,7 @@
 </style>
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#coney-island-2015-row)
+
 
 # 2015 – “Grinnin’ McB” (Coney Art Walls)  
 **Coney Island, Brooklyn, New York, US**
@@ -58,3 +58,4 @@ For the inaugural season of **Coney Art Walls**, curated by Jeffrey Deitch, Ron 
 - [Time Out New York – Coney Art Walls returns](https://www.timeout.com/newyork/blog/coney-island-bring-backs-the-popular-street-art-exhibition-coney-art-walls-060316)
 - [Brooklyn Street Art – Coney Art Walls: 30 reasons to go](https://www.brooklynstreetart.com/2015/06/24/coney-art-walls-exceeds-expectations-30-reasons-to-go/)
 
+[⬅ Back to murals index](../murals-and-street-works.html#coney-island-2015-row)
