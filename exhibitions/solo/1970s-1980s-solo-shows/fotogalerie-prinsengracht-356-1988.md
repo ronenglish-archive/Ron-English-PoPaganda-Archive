@@ -46,7 +46,7 @@
 
 
 
-[⬅ Back to 1970s–1980s solo exhibitions](1970s-1980s-solo-exhibitions.html#fotogalerie-prinsengracht-356-1988-row)
+![Ron English solo exhibition – OK Harris Works of Art, 1989](../../../images/Exhibitions/Solo/fotogalerie-Amsterdam-1988-1)
 
 # 1988 – *Ron English* (Fotogalerie Prinsengracht 356, Amsterdam)
 
