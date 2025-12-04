@@ -30,7 +30,7 @@
 </style>
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#primary-flight-2010-row)
+
 
 # 2010 – Contra Projects × Primary Flight collaborative mural  
 **Wynwood, Miami (Art Basel week)**
@@ -57,3 +57,4 @@ Created for the 2010 Primary Flight program in partnership with Contra Projects,
 - [Hypebeast – Ron English mural for “Status Factory” at Frank Doyle Arts Pavilion](https://hypebeast.com/2010/11/ron-english-status-factory-exhibition-mural-frank-doyle-arts-pavilion)
 - [Vandalog – Fairey & Ron English in Miami](https://blog.vandalog.com/2010/11/12/fairey-ron-english-in-miami/)
 
+[⬅ Back to murals index](../murals-and-street-works.html#primary-flight-2010-row)
