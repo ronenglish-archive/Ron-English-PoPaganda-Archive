@@ -44,7 +44,6 @@
   <a href="../../special-events-parties-tours.html">Special events, parties &amp; tours</a>
 </div>
 
-[⬅ Back to 1990s solo exhibitions](../1990s-solo-exhibitions.html#pavlovs-dog-red-zone-1990-row)
 
 
 # 1990 – *Pavlov’s Dog: The Last Supper and other paintings by Ron English* (Red Zone, New York City)
@@ -68,3 +67,6 @@ The event presents English’s *Pavlov’s Dog* imagery alongside other painting
 ## Sources
 
 - Invitation card: *Pavlov’s Dog: The Last Supper and other paintings by Ron English* (Red Zone, 440 W 54th St, New York City, hosted by Fred Rothbell-Mista, opening Friday, May 25, 1990; printed club invitation with dress-code and $5 admission note).
+
+
+➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#<anchor-id-for-this-row>)
