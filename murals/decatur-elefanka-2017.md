@@ -29,7 +29,7 @@
   }
 </style>
 
-[⬅ Back to murals index](../murals-and-street-works.html#decatur-elefanka-2017-row)
+
 
 # 2017 – Decatur, Illinois: “Elefanka” mural
 
@@ -51,3 +51,4 @@ The mural emerged as part of a larger local effort to enrich public space with a
 - [Decatur Area Arts Council – Decatur Mural Project overview](https://www.decaturarts.org/decatur-mural-project)  
 - [Wikipedia – Ron English (born in Decatur, Illinois)](https://en.wikipedia.org/wiki/Ron_English)  
 
+[⬅ Back to murals index](../murals-and-street-works.html#decatur-elefanka-2017-row)
