@@ -31,7 +31,7 @@
 
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#magic-city-dresden-2016-row)
+
 
 # 2016 – Temper Tot at Magic City (Dresden)
 
@@ -62,3 +62,6 @@
 - **Ron English – Instagram posts documenting the installation (Sept 2016)**  
   https://www.instagram.com/p/BK2tH8kg4al/  
   https://www.instagram.com/p/BK1E9GLgWOP/
+
+
+[⬅ Back to murals index](../murals-and-street-works.html#magic-city-dresden-2016-row)
