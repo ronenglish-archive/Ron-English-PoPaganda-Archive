@@ -93,7 +93,7 @@
 
 # 1970s and 1980s Solo Exhibitions
 
-Early solo exhibitions, studio presentations, and experimental shows from Ron English’s first two decades of activity.  
+###Early solo exhibitions, studio presentations, and experimental shows from Ron English’s first two decades of activity.###  
 <span class="glow-text">Click on each image to see more information</span>
 
 
