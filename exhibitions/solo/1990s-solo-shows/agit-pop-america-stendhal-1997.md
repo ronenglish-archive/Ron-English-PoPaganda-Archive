@@ -58,7 +58,7 @@
 
 ### **Solo Exhibition**
 
-<img src="../../images/Exhibitions/Solo/agitpop.jpg"
+<img src="../../../images/Exhibitions/Solo/agitpop.jpg"
      alt="Ron English — Agit-Pop America, Gallery Stendhal, 1997"
      class="exhibit-image">
 
