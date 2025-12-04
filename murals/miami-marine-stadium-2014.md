@@ -1,47 +1,33 @@
 <style>
-  .clean-nav {
+  .top-nav {
     text-align: center;
-    margin: 20px 0 30px 0;
-    line-height: 2.2;
+    margin: 16px 0 24px 0;
   }
-
-  .clean-nav a {
+  .top-nav a {
     display: inline-block;
     margin: 4px 6px;
-    padding: 6px 14px;
+    padding: 4px 10px;
     background: #eef3ff;
     border-radius: 14px;
     text-decoration: none;
     color: #1a4fa3;
-    font-weight: 500;
-    font-size: 15px;
+    font-size: 13px;
     border: 1px solid #d6e1ff;
-    transition: background 0.25s ease, box-shadow 0.25s ease, transform 0.2s ease, color 0.25s ease, border-color 0.25s ease;
+    transition:
+      background 0.25s ease,
+      box-shadow 0.25s ease,
+      transform 0.15s ease,
+      color 0.25s ease,
+      border-color 0.25s ease;
   }
-
-  .clean-nav a:hover {
+  .top-nav a:hover {
     background: linear-gradient(135deg, #ffd6ff, #ffc0e6, #ffe6a8);
     border-color: #ff96d5;
     color: #5a0075;
-    box-shadow: 0 0 10px rgba(255, 150, 213, 0.7);
+    box-shadow: 0 0 8px rgba(255,150,213,0.7);
     transform: translateY(-1px);
   }
 </style>
-
-
-<div class="clean-nav">
-  <a href="../index.html">Home</a>
-  <a href="../exhibitions/solo-exhibitions.html">Solo exhibitions</a>
-  <a href="../exhibitions/group-exhibitions.html">Group exhibitions</a>
-  <a href="../murals-and-street-works.html">Murals & street works</a>
-  <a href="../pop-ups-shops-brand-activations.html">Pop-ups, shops & brand activations</a>
-  <a href="../benefit-auctions-charity-projects.html">Benefit auctions & charity</a>
-  <a href="../film-screenings-festivals-film-events.html">Film & festival events</a>
-  <a href="../digital-projects-nft-crypto-art.html">Digital projects & NFTs</a>
-  <a href="../public-talks-lectures-book-signings.html">Public talks & book signings</a>
-  <a href="../special-events-parties-tours.html">Special events & tours</a>
-</div>
-
 
 ---
 
