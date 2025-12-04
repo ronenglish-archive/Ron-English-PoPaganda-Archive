@@ -29,7 +29,7 @@
   }
 </style>
 
-[⬅ Back to murals index](../murals-and-street-works.html#victoria-2015-row)
+
 
 # 2015 – Victoria, Texas (with RISK): “Brain Elephant” & “Brain Heart”
 
@@ -74,3 +74,4 @@ The murals — a neon-colored **Brain Elephant** and a glowing **Brain Heart** �
   - https://www.instagram.com/explore/tags/rxsm/  
   - https://www.instagram.com/explore/tags/ronenglish/  
 
+[⬅ Back to murals index](../murals-and-street-works.html#victoria-2015-row)
