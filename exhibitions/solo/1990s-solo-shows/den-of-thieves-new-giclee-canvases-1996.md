@@ -58,7 +58,7 @@
 
 ### **Solo Exhibition**
 
-<img src="../../images/Exhibitions/Solo/denofthieves.jpg"
+<img src="../../../images/Exhibitions/Solo/denofthieves.jpg"
      alt="Ron English — New Giclée Canvases, Den of Thieves, 1996"
      class="exhibit-image">
 
