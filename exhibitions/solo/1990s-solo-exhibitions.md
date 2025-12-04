@@ -81,6 +81,7 @@ Click on each image to see more information.
 
 | Image | Year | Dates | Venue | Title |
 |-------|------|-------|-------|-------|
+| <a href="pavlovs-dog-red-zone-1990.html"><img src="../../images/Exhibitions/Solo/Pavlov's-Dog-Red-Zone-1990-1.jpg" alt="Pavlov’s Dog: The Last Supper and other paintings by Ron English – Red Zone, New York City (1990)" class="mural-thumb"></a> | 1990 | May 25, 1990 | Red Zone, 440 W 54th St, New York City | *Pavlov’s Dog: The Last Supper and other paintings by Ron English* |
 | <a href="art-bar-cafe-dallas-1990s.html"><img src="../../images/Exhibitions/Solo/artbar.jpg" alt="Ron English solo exhibition at Art Bar &amp; Café, Dallas (c. 1990s)" class="mural-thumb"></a> | c. 1990s | December 12 (c. 1990s) | Art Bar &amp; Café | *Ron English* |
 | <a href="thomas-v-robinson-fotofest-1990.html"><img src="../../images/Exhibitions/Solo/fotofest90.jpg" alt="Ron English FotoFest '90 exhibition at Thomas V. Robinson / Robinson Galleries" class="mural-thumb"></a> | 1990 | February 11 – March 3, 1990 | Thomas V. Robinson / Robinson Galleries | *Ron English (FotoFest ’90)* |
 | <a href="art-store-new-paintings-1990.html"><img src="../../images/Exhibitions/Solo/artstore.jpg" alt="Ron English 'New Paintings' at The Art Store, New York, 1990" class="mural-thumb"></a> | 1990 | May 5 – June 2, 1990 | The Art Store | *New Paintings* |
