@@ -30,7 +30,7 @@
 </style>
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#trumpty-dumpty-2017-row)
+
 
 # 2016 – *Trumpty Dumpty*  
 **Bushwick, Brooklyn — Troutman Street**
@@ -57,3 +57,5 @@ Documentation from March 2017 shows the mural’s placement along **Troutman Str
 - [HuffPost – Ron English’s Trump “Humpty Dumpty” mural](https://www.huffpost.com/entry/ron-english-trump-humpty-dumpty-mural_n_58bd017ae4b0abcb02ce2dfb)
 - [Time Out New York – Trump mural turns him into Humpty Dumpty](https://www.timeout.com/newyork/blog/this-new-trump-bushwick-mural-turns-him-into-humpty-dumpty-032117)
 - [ABC News Australia – Ron English Trump mural](https://www.abc.net.au/news/2017-03-25/ron-english-trump-humpty-dumpty-mural/8380492)
+
+[⬅ Back to murals index](../murals-and-street-works.html#trumpty-dumpty-2017-row)
