@@ -86,5 +86,6 @@ Robinson Galleries framed the exhibition within Houston’s FotoFest environment
 ---
 
 ## Back to list
-➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#<anchor-id-for-this-row>)
+➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#robinson-galleries-pop-america-1992-row)
+
 
