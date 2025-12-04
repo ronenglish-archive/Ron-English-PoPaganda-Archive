@@ -30,7 +30,7 @@
 </style>
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#basel-2019-row)
+
 
 # 2019 – Art Basel Miami Week mural (Delusionville)
 
@@ -48,3 +48,5 @@
 - [Ron English Instagram — Dec 1, 2019 (completed wall)](https://www.instagram.com/p/B5nFCUtB5vG/)
 - [Arrested Motion — Miami Art Week street art roundup](https://arrestedmotion.com/?s=ron+english+wynwood)
 - [Brooklyn Street Art — Art Basel / Wynwood 2019 coverage](https://www.brooklynstreetart.com/?s=basel+2019)
+
+[⬅ Back to murals index](../murals-and-street-works.html#basel-2019-row)
