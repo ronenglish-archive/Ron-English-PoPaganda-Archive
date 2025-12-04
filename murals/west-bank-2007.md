@@ -51,3 +51,5 @@ The imagery reflects English’s long-running critique of propaganda, militarism
 - [This Week in Palestine – Street Art on the Wall](https://thisweekinpalestine.com/if-graffiti-changed-anything-it-would-be-illegal/)  
 - [Ang-en-uity Blog – Street Artists in the West Bank](https://ang-enuity.blogspot.com/2012/03/artist-spotlight-street-artists-in-west.html)  
 - [ScholarsBank (University of Oregon) – Street Art Analysis](https://scholarsbank.uoregon.edu/server/api/core/bitstreams/ba6685cd-d2ab-4add-ae6d-7a059b45292d/content)
+
+[⬅ Back to murals index](../murals-and-street-works.html#wynwood-2018-row)
