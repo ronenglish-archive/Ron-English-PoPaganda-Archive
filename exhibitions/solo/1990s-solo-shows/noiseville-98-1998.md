@@ -88,5 +88,6 @@ Presented at **Noiseville Gallery**, a downtown space known for its ties to unde
 ---
 
 ## Back to list  
-➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#<anchor-id-for-this-row>)
+➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#noiseville-98-1998-row)
+
 
