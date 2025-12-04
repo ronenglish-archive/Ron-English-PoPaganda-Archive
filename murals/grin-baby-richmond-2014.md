@@ -30,7 +30,7 @@
 </style>
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#grin-baby-richmond-2014-row)
+
 
 # 2014 – Grin Baby (Richmond Mural Project)  
 **646 N 7th St, Richmond, Virginia, US**
@@ -56,3 +56,4 @@ For the 2014 **Richmond Mural Project**, Ron English transformed a massive faça
 - [Brooklyn Street Art – Richmond Mural Project coverage](https://www.brooklynstreetart.com/tag/richmond-mural-project/)
 - [Instagram – #RichmondMuralProject](https://www.instagram.com/explore/tags/richmondmuralproject/)
 
+[⬅ Back to murals index](../murals-and-street-works.html#grin-baby-richmond-2014-row)
