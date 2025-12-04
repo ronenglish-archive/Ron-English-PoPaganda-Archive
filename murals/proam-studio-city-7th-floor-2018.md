@@ -31,7 +31,7 @@
 
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#proam-studio-city-7th-floor-2018-row)
+
 
 # 2018 – Seventh-floor POPaganda walls, ProAm Studio City (Dongguan, China)
 
@@ -60,3 +60,4 @@ Ron English developed a suite of POPaganda characters on the seventh floor of th
 - [Instagram – #proamstudiicity](https://www.instagram.com/explore/tags/proamstudiicity/) – hashtag feed including Ron English’s ProAm Studio City posts from May 2018.  
 - [Instagram – @ronenglishart](https://www.instagram.com/ronenglishart/) – Ron English’s official account; May 7–18 posts from 2018 document the seventh-floor ProAm Studio City walls.
 
+[⬅ Back to murals index](../murals-and-street-works.html#proam-studio-city-7th-floor-2018-row)
