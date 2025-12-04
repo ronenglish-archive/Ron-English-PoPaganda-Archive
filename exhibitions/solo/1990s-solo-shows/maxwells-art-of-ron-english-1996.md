@@ -90,4 +90,5 @@ The exhibition helped consolidate English’s presence within alternative and mu
 ---
 
 ## Back to list  
-➡️ [Return to 1990s Solo Exhibitions](1990s-solo-exhibitions.html)
+➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#<anchor-id-for-this-row>)
+
