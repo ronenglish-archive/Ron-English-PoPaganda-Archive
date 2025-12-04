@@ -28,7 +28,7 @@
     transform: translateY(-1px);
   }
 </style>
-[⬅ Back to murals index](../murals-and-street-works.html#jersey-city-cole-street-2009-row)
+
 
 # 2009 – Jersey City, Cole Street Mural
 
@@ -53,3 +53,6 @@ In March 2009 a collaborative mural by Ron English, Bigfoot and Jason Maloney wa
 - [“Jersey City gets a mural project” (Left Bank Art Blog, March 2009)](https://leftbankartblog.blogspot.com/2009/03/jersey-city-gains-mural.html) :contentReference[oaicite:6]{index=6}  
 - [Photo of mural — Flickr: “NJ – Jersey City: Ron English x Jason Maloney x Bigfoot Collab Mural”](https://www.flickr.com/photos/wallyg/3384974698) :contentReference[oaicite:7]{index=7}  
 - [Photo: “Jersey City Mural (1st and Coles St.)” — by The Jersey City Independent](https://www.flickr.com/photos/jerseycityindependent/3376916945/) :contentReference[oaicite:8]{index=8}  
+
+
+[⬅ Back to murals index](../murals-and-street-works.html#jersey-city-cole-street-2009-row)
