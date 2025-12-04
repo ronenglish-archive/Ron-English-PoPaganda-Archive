@@ -59,6 +59,24 @@
   table td {
     font-weight: 500;
   }
+  .glow-text {
+  font-weight: 600;
+  color: #5a0075;
+  animation: pulseGlow 2s ease-in-out infinite;
+}
+
+@keyframes pulseGlow {
+  0% {
+    text-shadow: 0 0 4px rgba(255, 150, 213, 0.4);
+  }
+  50% {
+    text-shadow: 0 0 12px rgba(255, 150, 213, 0.9);
+  }
+  100% {
+    text-shadow: 0 0 4px rgba(255, 150, 213, 0.4);
+  }
+}
+
 </style>
 
 <div class="top-nav">
@@ -77,7 +95,8 @@
 # 1970s and 1980s Solo Exhibitions
 
 Early solo exhibitions, studio presentations, and experimental shows from Ron English’s first two decades of activity.  
-Click on each image to see more information.
+<span class="glow-text">Click on each image to see more information.</span>
+
 
 | Image | Year | Dates | Venue | Title |
 |-------|------|-------|-------|-------|
