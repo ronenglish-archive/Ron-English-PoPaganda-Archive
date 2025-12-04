@@ -58,7 +58,7 @@
 
 ### **Solo Exhibition**
 
-<img src="../../images/Exhibitions/Solo/artstore.jpg"
+<img src="../../../images/Exhibitions/Solo/artstore.jpg"
      alt="Ron English — New Paintings, The Art Store, New York, 1990"
      class="exhibit-image">
 
