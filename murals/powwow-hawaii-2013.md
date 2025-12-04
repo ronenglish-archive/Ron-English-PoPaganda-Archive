@@ -29,7 +29,7 @@
   }
 </style>
 
-[⬅ Back to murals index](../murals-and-street-works.html#powwow-hawaii-2013-row)
+
 
 # 2013 – POW! WOW! Hawaii: “Underwater Poker Game” (Honolulu)
 
@@ -53,3 +53,4 @@ For the 2013 edition of **POW! WOW! Hawaii**, Ron English painted a large-scale 
 - [Vagabundler – Hawaii Street Art Map (Kakaʻako murals)](https://vagabundler.com/usa/hawaii-streetart-map/)  
 - [Flickr – photo documentation of Ron English’s 2013 POW! WOW! mural](https://www.flickr.com/search/?text=Ron%20English%20POW%20WOW%20Hawaii%202013)  
 
+[⬅ Back to murals index](../murals-and-street-works.html#powwow-hawaii-2013-row)
