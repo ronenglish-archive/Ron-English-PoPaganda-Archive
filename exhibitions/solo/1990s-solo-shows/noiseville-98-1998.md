@@ -41,7 +41,7 @@
 </style>
 
 <div class="top-nav">
-  <a href="../../index.html">Home</a>
+  <a href="../../../index.html">Home</a>
   <a href="../../solo-exhibitions.html">Solo exhibitions</a>
   <a href="../../group-exhibitions.html">Group exhibitions</a>
   <a href="../../murals-and-street-works.html">Murals &amp; street works</a>
@@ -52,6 +52,7 @@
   <a href="../../public-talks-lectures-book-signings.html">Public talks, lectures &amp; book signings</a>
   <a href="../../special-events-parties-tours.html">Special events, parties &amp; tours</a>
 </div>
+
 
 # *Noiseville 98* — Noiseville Gallery, New York (1998)
 
