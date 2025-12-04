@@ -58,7 +58,7 @@
 
 ### **Solo Exhibition**
 
-<img src="../../../images/Exhibitions/Solo/wunderlich.jpg"
+<img src="../../../images/Exhibitions/Solo/wonderlich.jpg"
      alt="Ron English — Art in Heaven, Wunderlich Gallery, 1994"
      class="exhibit-image">
 
