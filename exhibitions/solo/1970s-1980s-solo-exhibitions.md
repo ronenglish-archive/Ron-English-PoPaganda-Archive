@@ -1,3 +1,7 @@
+---
+layout: default
+title: 1970s–1980s Solo Exhibitions
+---
 <style>
   /* Thumbnail image style */
   .mural-thumb {
