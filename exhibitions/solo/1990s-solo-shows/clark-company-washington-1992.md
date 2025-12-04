@@ -86,4 +86,5 @@ Coverage in *The Georgetowner* highlighted the provocative tone of the work and 
 ---
 
 ## Back to list
-➡️ [Return to 1990s Solo Exhibitions](1990s-solo-exhibitions.html)
+➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#<anchor-id-for-this-row>)
+
