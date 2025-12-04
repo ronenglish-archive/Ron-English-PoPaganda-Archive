@@ -31,7 +31,7 @@
 
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#fashion-moda-1988-row)
+
 
 # 1988 – Fashion Moda façade mural (South Bronx)
 
@@ -51,3 +51,6 @@ For his 1988 exhibition at **Fashion Moda**, Ron English painted the art space�
 - [Hyperallergic – “35 Years After Fashion Moda, a Bronx Gallery Revisits the Landmark Space”](https://hyperallergic.com/227683/35-years-after-fashion-moda-a-bronx-gallery-revisits-the-landmark-space/)  
 - [Gallery 98 – “Fashion Moda: A South Bronx Outpost”](https://gallery98.org/news/fashion-moda-a-south-bronx-outpost-2/)  
 - [Ron English – Instagram (personal account with recollections of the 1988 Fashion Moda façade being stolen)](https://www.instagram.com/ronenglishart/)  
+
+
+[⬅ Back to murals index](../murals-and-street-works.html#fashion-moda-1988-row)
