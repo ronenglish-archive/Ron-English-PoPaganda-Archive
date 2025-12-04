@@ -29,6 +29,52 @@
     box-shadow: 0 0 8px rgba(255, 150, 213, 0.7);
     transform: translateY(-1px);
   }
+
+  /* Thumbnail image style */
+  .mural-thumb {
+    max-width: 50px;
+    height: auto;
+    display: block;
+  }
+
+  /* Table styling */
+  table {
+    font-size: 18px;
+    color: #111;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  table th,
+  table td {
+    text-align: center;
+    vertical-align: middle;
+    padding: 10px;
+    border: 1px solid #bbb;
+  }
+
+  table th {
+    font-weight: 700;
+  }
+
+  table td {
+    font-weight: 500;
+  }
+
+  /* Glowing call-to-action text */
+  .glow-text {
+    font-size: 26px;
+    font-weight: 700;
+    animation: rainbowGlow 3s linear infinite;
+  }
+
+  @keyframes rainbowGlow {
+    0%   { color: #ff4bd7; text-shadow: 0 0 12px #ff4bd7; }
+    25%  { color: #ff9b4b; text-shadow: 0 0 12px #ff9b4b; }
+    50%  { color: #ffd84b; text-shadow: 0 0 12px #ffd84b; }
+    75%  { color: #7eff4b; text-shadow: 0 0 12px #7eff4b; }
+    100% { color: #4bafff; text-shadow: 0 0 12px #4bafff; }
+  }
 </style>
 
 <div class="top-nav">
@@ -44,34 +90,29 @@
   <a href="../../special-events-parties-tours.html">Special events, parties &amp; tours</a>
 </div>
 
-
-
-
-
 # 1980s Group Exhibitions
 
-Group exhibitions featuring Ron English during the 1980s.
+Group exhibitions featuring Ron English during the 1980s.  
+<span class="glow-text">Click on each image to see more information</span>
 
-## Exhibitions
-
-| Year | Dates | Venue | Location | Title | Notes | Refs |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1982 | May 16–17, 1982 | Infomart (Texas Gallery Art Show, in conjunction with ARTFEST) | Dallas, Texas, US | *Texas Gallery Art Show* | Large multi-gallery showcase featuring more than twenty Texas art galleries. Ron English was exhibited by Houston’s Parkerson Gallery, which presented his painting *Horny Senatosaurs* within the fair’s contemporary art section. | *“Texas Gallery Art Show,”* *Museum & Arts Houston*, May 1982, pp. 10–11 (Museum & Arts Publishing). |
-| 1985 | August 3–30, 1985 | Theatre Gallery | Dallas, Texas, US | *Dubious Edge* | Group exhibition at Theatre Gallery featuring the photographic work of Ron English, noted in the *Dallas Observer* as part of the gallery’s August program. The listing highlights a print from the exhibition and identifies English as one of the photographers presenting new work. | *“Observer Guide: Art – ‘Dubious Edge’,”* *Dallas Observer*, 25 Jul 1985, p. 12. |
-| 1986 | April 5, 1986 | Theatre Gallery | Dallas, Texas, US | *Invading Aliens from the Beach* | One-night joint show by Susan English and Ron English at Theatre Gallery on Commerce Street in Dallas, running from 7–10 p.m. and featuring their collaborative “alien” imagery. | *Invading Aliens from the Beach —* Theatre Gallery exhibition showcard (1986). |
-| 1986 | September 13 – October 11, 1986 | Fashion Moda | Bronx, New York, US | *The Salon* | Group exhibition produced by artist and Fashion Moda co-founder Stefan Eins, presented at the influential South Bronx alternative art space. | *The Salon —* Fashion Moda exhibition announcement card (13 Sept – 11 Oct 1986). |
-| 1986 | October 1986 | Houston Center for Photography | Houston, Texas, US | *Texas 150: New Texas Photography* | Group exhibition curated by Lew Thomas and April Rapier as part of the Texas 150 series, featuring 18 photographers. Ron English’s works were highlighted for their surreal, half-human, half-beast imagery. The show ran through October 12, 1986. | Susan Chadwick, “Butler’s art exhibits show strength,” *The Houston Post*, 5 Oct 1986. |
-| 1986 | October 30 – November 19, 1986 | City Without Walls | Newark, New Jersey, US | *5th Annual Metro Show* | Fifth edition of City Without Walls’ Metro Show, organized by the Urban Artists’ Collective and featuring regional artists including English; opened with an evening reception on 30 October. | *City Without Walls — 5th Annual Metro Show,* exhibition showcard (1986). |
-| Late 1980s (likely 1986 or 1987) | June 27 (one-night event) | Under Acme | New York, New York, US | *MGD — Painting N.Y.C.* | One-night group art show held at Under Acme, 9 Great Jones Street, featuring Ron English among a roster of emerging downtown artists. The event combined visual art with live music and DJ sets, reflecting the hybrid art–club culture of the late-1980s East Village. | *MGD — Painting N.Y.C.* exhibition showcard, Under Acme, New York City (c. 1987). |
-| 1987 | January 18 – February 12, 1987 | Bond Gallery | New York, New York, US | *Para Photography* | Seven-artist exhibition integrating photographic work with sculpture, non-silver processes, painting, drawing, multimedia and writing. | *Para Photography,* Bond Gallery exhibition announcement card (1987). |
-| 1988 | February 2, 1988 | Limelight | New York, New York, US | *2042: Art at the Speed of Life* | Large group exhibition presented by Randall Hart at the Limelight nightclub, featuring works by twenty-six artists from California, Texas and New York, including Ron English. | *2042: Art at the Speed of Life —* Limelight exhibition invitation (2 Feb 1988).<br>[Randall Hart Papers (MSS.091) — Fales Library & Special Collections, NYU](https://findingaids.library.nyu.edu/fales/mss_091) |
-| 1988 | May 4, 1988 | Tunnel Gallery | New York, New York, US | *Staff Infection* | Group exhibition at Tunnel Gallery featuring original works by Mark Kostabi’s studio assistants. Organized by Ron English, the show included contributions from ten artists and was also referenced in contemporary coverage as “The Ghosts of Kostabi.” | Randall Hart, “Art at the Speed of Light,” *Detour* magazine, Sept 1988.<br>*Staff Infection —* Tunnel Gallery exhibition invitation (4 May 1988). |
-| 1988 | May – 26 June 1988 | Midtown Y Photography Gallery | New York, NY, US | *Ron English, Abbot Genser, Jeanine El’Gazi* | Three-artist photography exhibition at the Midtown Y Photography Gallery. A contemporary exhibition listing in *Afterimage* confirms the roster of Ron English, Abbot Genser and Jeanine El’Gazi, with the show running through June 26, 1988. | “New York City Exhibition Listings – Midtown Y Photography Gallery,” *Afterimage*, vol. 15 (1988), p. 52 (“Jeanine El’Gazi. Ron English. Abbot Genser. All through June 26.”). |
-| 1988 | July 6, 1988 | Tunnel Gallery | New York, New York, US | *The Immoral & Illegal Artshow* | Group exhibition at Tunnel Gallery on 12th Avenue featuring English alongside New York downtown artists, plus a special section of photographs documenting pirate billboards from Texas. | *The Immoral & Illegal Artshow —* Tunnel Gallery exhibition showcard (1988). |
-| 1988 | September 21, 1988 | Tunnel (Coatcheck Gallery) | New York, New York, US | *Twenty Men Artists* | One-night show in Tunnel’s Coatcheck Gallery presenting twenty works by twenty male artists, including English, framed as a tongue-in-cheek response to feminist art debates. | *Twenty Men Artists —* Tunnel Coatcheck Gallery exhibition showcard (21 Sept 1988). |
-| 1988 | November 26, 1988 – January 9, 1989 | The New Waterfront Museum | Brooklyn, New York, US | *The All-Male Feminist Art Show* | Group exhibition at The New Waterfront Museum, 84 Front Street, Brooklyn, curated by Robert Costa; included Ron English among a roster of male artists, with reception on 3 December 1988. | *The All-Male Feminist Art Show —* The New Waterfront Museum exhibition showcard (1988/89). |
-| 1989 | March 16–29, 1989 | Grace Harkin Gallery | New York, New York, US | *Art on the Run* | Group exhibition in the East Village featuring experimental works by multiple artists. Ron English contributed *The Last Supper*, a surreal image juxtaposing a glowing McDonald’s sign with a symbolic plate of fish, noted in *ARTSPEAK* as part of the show. | “Art on the Run,” *ARTSPEAK*, vol. X, no. 14 (16 Mar 1989), p. 1. |
-| 1989 | March 22 – April 15, 1989 | The Police Building | New York, New York, US | *The Prisoners of Art* | Multi-media group exhibition presented at the Police Building and organized by Collaborative Projects (COLAB), curated by Gary Azon, Ken Christie, Charlie Finch, Baird Jones, Lynn Sweeney, Willoughby Sharp, and Vee. The opening reception took place on March 18, 1989. | *The Prisoners of Art —* Collaborative Projects (COLAB) exhibition announcement card (1989). |
-| 1989 | July 24 – August 2 and August 8–24, 1989 | Dance Theater Workshop Gallery | New York, New York, US | *Dog Days* | *Dog Days* summer group show presented by 2 T.Q. at the Dance Theater Workshop Gallery, 219 West 19th Street, New York; exhibition ran in two segments with a reception on 8 August 1989. | *Dog Days —* 2 T.Q. / Dance Theater Workshop Gallery exhibition showcard (1989). |
-| 1989 | December 9, 1989 | Black and White in Color Gallery | Bronx, New York, US | *The Helms Degenerate Art Show* | One-night group exhibition presented by English and Eichman at the Black and White in Color Gallery, featuring works by over two dozen artists, including Ron English, Leon Golub, Lady Pink, Christo, Faith Ringgold, Dread Scott, Richard Serra, Nancy Spero, and Andres Serrano. The event also included live performances throughout the evening. | *The Helms Degenerate Art Show —* Black and White in Color Gallery exhibition announcement card (9 Dec 1989).<br>[Linus Coraggio — Résumé](https://linuscoraggio.art/pages/resume) (includes listing for *The Helms Degenerate Art Show*). |
-| 1989 | December 1989 – January 1990 | Fashion Moda (South Bronx) | Bronx, New York, US | *[Exhibition/Fundraiser, December 1989 – January 1990]* | Exhibition/fundraiser organized by Fashion Moda featuring works by Rigoberto Torres, Chuck Hardgrove, Mark Kostabi, Ronnie Cutrone, Ricky Prol, Crash, Daze, Ariel Jordan, Wendy Hoffmann, Tabo Toral, Ron English and others. | [Guide to the Fashion Moda Archive (MSS.091)](https://findingaids.library.nyu.edu/fales/mss_091/) — Fales Library & Special Collections, NYU (entry noting December 1989–January 1990 exhibition/fundraiser with participating artists including Ron English). |
+| Image | Year | Dates | Venue | Title |
+|-------|------|-------|-------|-------|
+| <span id="infomart-texas-gallery-art-show-1982-row"></span><a href="1980s-group-exhibitions/infomart-texas-gallery-art-show-1982.html"><img src="../../images/Exhibitions/Group/infomart-texas-gallery-art-show-1982-1.jpg" alt="Texas Gallery Art Show at Infomart, Dallas, 1982" class="mural-thumb"></a> | 1982 | May 16–17, 1982 | Infomart (Texas Gallery Art Show, in conjunction with ARTFEST) | *Texas Gallery Art Show* |
+| <span id="theatre-gallery-dubious-edge-1985-row"></span><a href="1980s-group-exhibitions/theatre-gallery-dubious-edge-1985.html"><img src="../../images/Exhibitions/Group/theatre-gallery-dubious-edge-1985-1.jpg" alt="Dubious Edge at Theatre Gallery, Dallas, 1985" class="mural-thumb"></a> | 1985 | August 3–30, 1985 | Theatre Gallery | *Dubious Edge* |
+| <span id="theatre-gallery-invading-aliens-1986-row"></span><a href="1980s-group-exhibitions/theatre-gallery-invading-aliens-1986.html"><img src="../../images/Exhibitions/Group/theatre-gallery-invading-aliens-1986-1.jpg" alt="Invading Aliens from the Beach at Theatre Gallery, Dallas, 1986" class="mural-thumb"></a> | 1986 | April 5, 1986 | Theatre Gallery | *Invading Aliens from the Beach* |
+| <span id="fashion-moda-the-salon-1986-row"></span><a href="1980s-group-exhibitions/fashion-moda-the-salon-1986.html"><img src="../../images/Exhibitions/Group/fashion-moda-the-salon-1986-1.jpg" alt="The Salon at Fashion Moda, Bronx, 1986" class="mural-thumb"></a> | 1986 | September 13 – October 11, 1986 | Fashion Moda | *The Salon* |
+| <span id="hcp-texas-150-new-texas-photography-1986-row"></span><a href="1980s-group-exhibitions/hcp-texas-150-new-texas-photography-1986.html"><img src="../../images/Exhibitions/Group/hcp-texas-150-new-texas-photography-1986-1.jpg" alt="Texas 150: New Texas Photography at Houston Center for Photography, 1986" class="mural-thumb"></a> | 1986 | October 1986 | Houston Center for Photography | *Texas 150: New Texas Photography* |
+| <span id="city-without-walls-5th-annual-metro-show-1986-row"></span><a href="1980s-group-exhibitions/city-without-walls-5th-annual-metro-show-1986.html"><img src="../../images/Exhibitions/Group/city-without-walls-5th-annual-metro-show-1986-1.jpg" alt="5th Annual Metro Show at City Without Walls, Newark, 1986" class="mural-thumb"></a> | 1986 | October 30 – November 19, 1986 | City Without Walls | *5th Annual Metro Show* |
+| <span id="under-acme-mgd-painting-nyc-late-1980s-row"></span><a href="1980s-group-exhibitions/under-acme-mgd-painting-nyc-late-1980s.html"><img src="../../images/Exhibitions/Group/under-acme-mgd-painting-nyc-late-1980s-1.jpg" alt="MGD — Painting N.Y.C. at Under Acme, New York, late 1980s" class="mural-thumb"></a> | Late 1980s (likely 1986 or 1987) | June 27 (one-night event) | Under Acme | *MGD — Painting N.Y.C.* |
+| <span id="bond-gallery-para-photography-1987-row"></span><a href="1980s-group-exhibitions/bond-gallery-para-photography-1987.html"><img src="../../images/Exhibitions/Group/bond-gallery-para-photography-1987-1.jpg" alt="Para Photography at Bond Gallery, New York, 1987" class="mural-thumb"></a> | 1987 | January 18 – February 12, 1987 | Bond Gallery | *Para Photography* |
+| <span id="limelight-2042-art-at-speed-of-life-1988-row"></span><a href="1980s-group-exhibitions/limelight-2042-art-at-speed-of-life-1988.html"><img src="../../images/Exhibitions/Group/limelight-2042-art-at-speed-of-life-1988-1.jpg" alt="2042: Art at the Speed of Life at Limelight, New York, 1988" class="mural-thumb"></a> | 1988 | February 2, 1988 | Limelight | *2042: Art at the Speed of Life* |
+| <span id="tunnel-gallery-staff-infection-1988-row"></span><a href="1980s-group-exhibitions/tunnel-gallery-staff-infection-1988.html"><img src="../../images/Exhibitions/Group/tunnel-gallery-staff-infection-1988-1.jpg" alt="Staff Infection at Tunnel Gallery, New York, 1988" class="mural-thumb"></a> | 1988 | May 4, 1988 | Tunnel Gallery | *Staff Infection* |
+| <span id="midtown-y-english-genser-elgazi-1988-row"></span><a href="1980s-group-exhibitions/midtown-y-english-genser-elgazi-1988.html"><img src="../../images/Exhibitions/Group/midtown-y-english-genser-elgazi-1988-1.jpg" alt="Ron English, Abbot Genser, Jeanine El’Gazi at Midtown Y Photography Gallery, New York, 1988" class="mural-thumb"></a> | 1988 | May – 26 June 1988 | Midtown Y Photography Gallery | *Ron English, Abbot Genser, Jeanine El’Gazi* |
+| <span id="tunnel-gallery-immoral-illegal-artshow-1988-row"></span><a href="1980s-group-exhibitions/tunnel-gallery-immoral-illegal-artshow-1988.html"><img src="../../images/Exhibitions/Group/tunnel-gallery-immoral-illegal-artshow-1988-1.jpg" alt="The Immoral &amp; Illegal Artshow at Tunnel Gallery, New York, 1988" class="mural-thumb"></a> | 1988 | July 6, 1988 | Tunnel Gallery | *The Immoral &amp; Illegal Artshow* |
+| <span id="tunnel-coatcheck-twenty-men-artists-1988-row"></span><a href="1980s-group-exhibitions/tunnel-coatcheck-twenty-men-artists-1988.html"><img src="../../images/Exhibitions/Group/tunnel-coatcheck-twenty-men-artists-1988-1.jpg" alt="Twenty Men Artists at Tunnel (Coatcheck Gallery), New York, 1988" class="mural-thumb"></a> | 1988 | September 21, 1988 | Tunnel (Coatcheck Gallery) | *Twenty Men Artists* |
+| <span id="new-waterfront-all-male-feminist-art-show-1988-89-row"></span><a href="1980s-group-exhibitions/new-waterfront-all-male-feminist-art-show-1988-89.html"><img src="../../images/Exhibitions/Group/new-waterfront-all-male-feminist-art-show-1988-89-1.jpg" alt="The All-Male Feminist Art Show at The New Waterfront Museum, Brooklyn, 1988–1989" class="mural-thumb"></a> | 1988 | November 26, 1988 – January 9, 1989 | The New Waterfront Museum | *The All-Male Feminist Art Show* |
+| <span id="grace-harkin-art-on-the-run-1989-row"></span><a href="1980s-group-exhibitions/grace-harkin-art-on-the-run-1989.html"><img src="../../images/Exhibitions/Group/grace-harkin-art-on-the-run-1989-1.jpg" alt="Art on the Run at Grace Harkin Gallery, New York, 1989" class="mural-thumb"></a> | 1989 | March 16–29, 1989 | Grace Harkin Gallery | *Art on the Run* |
+| <span id="police-building-prisoners-of-art-1989-row"></span><a href="1980s-group-exhibitions/police-building-prisoners-of-art-1989.html"><img src="../../images/Exhibitions/Group/police-building-prisoners-of-art-1989-1.jpg" alt="The Prisoners of Art at The Police Building, New York, 1989" class="mural-thumb"></a> | 1989 | March 22 – April 15, 1989 | The Police Building | *The Prisoners of Art* |
+| <span id="dtw-gallery-dog-days-1989-row"></span><a href="1980s-group-exhibitions/dtw-gallery-dog-days-1989.html"><img src="../../images/Exhibitions/Group/dtw-gallery-dog-days-1989-1.jpg" alt="Dog Days at Dance Theater Workshop Gallery, New York, 1989" class="mural-thumb"></a> | 1989 | July 24 – August 2 and August 8–24, 1989 | Dance Theater Workshop Gallery | *Dog Days* |
+| <span id="black-and-white-in-color-helms-degenerate-art-show-1989-row"></span><a href="1980s-group-exhibitions/black-and-white-in-color-helms-degenerate-art-show-1989.html"><img src="../../images/Exhibitions/Group/black-and-white-in-color-helms-degenerate-art-show-1989-1.jpg" alt="The Helms Degenerate Art Show at Black and White in Color Gallery, Bronx, 1989" class="mural-thumb"></a> | 1989 | December 9, 1989 | Black and White in Color Gallery | *The Helms Degenerate Art Show* |
+| <span id="fashion-moda-exhibition-fundraiser-1989-90-row"></span><a href="1980s-group-exhibitions/fashion-moda-exhibition-fundraiser-1989-90.html"><img src="../../images/Exhibitions/Group/fashion-moda-exhibition-fundraiser-1989-90-1.jpg" alt="Exhibition/fundraiser at Fashion Moda, South Bronx, December 1989 – January 1990" class="mural-thumb"></a> | 1989 | December 1989 – January 1990 | Fashion Moda (South Bronx) | *[Exhibition/Fundraiser, December 1989 – January 1990]* |
