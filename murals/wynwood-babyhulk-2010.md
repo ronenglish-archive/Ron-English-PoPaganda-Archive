@@ -31,7 +31,7 @@
 
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#wynwood-babyhulk-2010-row)
+
 
 # 2010 – Baby Hulk / Temper Tot (Wynwood Walls, Miami)
 
@@ -56,3 +56,4 @@ Installed during Wynwood Walls’ 2010 Art Basel expansion, this mural introduce
 - [Beyond Square Footage – Ron English “Standing Strong Inside the Walls”](https://beyondsquarefootage.com/beyondsquarefootage/2018/5/28/ron-english-standing-strong-inside-the-walls)
 - [Miami Niche – Ron English and the unexpected Renaissance landmark work](http://www.miaminiche.com/ron-english-and-that-renaissance-landmark-work-that-you-do-not-expect/)
 
+[⬅ Back to murals index](../murals-and-street-works.html#wynwood-babyhulk-2010-row)
