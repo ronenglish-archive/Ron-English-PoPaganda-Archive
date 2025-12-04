@@ -58,7 +58,7 @@
 
 ### **Solo Exhibition**
 
-<img src="../../images/Exhibitions/Solo/tunnel.jpg"
+<img src="../../../images/Exhibitions/Solo/tunnel.jpg"
      alt="Ron English — Recent Works, Tunnel Gallery, 1994"
      class="exhibit-image">
 
