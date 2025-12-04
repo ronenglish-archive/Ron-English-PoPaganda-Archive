@@ -85,4 +85,5 @@ The exhibition card promoted a body of new canvases that would become foundation
 ---
 
 ## Back to list
-➡️ [Return to 1990s Solo Exhibitions](1990s-solo-exhibitions.html)
+➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#<anchor-id-for-this-row>)
+
