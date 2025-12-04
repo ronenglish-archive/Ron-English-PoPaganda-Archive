@@ -30,7 +30,7 @@
 </style>
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#mural-festival-2017-montreal-row)
+
 
 # 2017 – *Sourire Mona Lisa*  
 **MURAL Festival — Montréal, Quebec, Canada**
@@ -59,3 +59,4 @@ Canadian arts outlets and international street-art coverage highlighted its bold
 - [Journal Métro – MURAL Festival program announcement](https://journalmetro.com/actualites/montreal/1140830/le-festival-mural-devoile-sa-programmation/)
 - [StreetArt360 – Montreal MURAL Festival street art (2017)](https://streetart360.net/2017/06/19/montreal-mural-festival-street-art/)
 
+[⬅ Back to murals index](../murals-and-street-works.html#mural-festival-2017-montreal-row)
