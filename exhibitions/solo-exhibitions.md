@@ -78,5 +78,6 @@ Click a decade below to view the full tables.
 - [2010s solo exhibitions](2010s-solo-exhibitions.html)
 - [2000s solo exhibitions](2000s-solo-exhibitions.html)
 - [1990s solo exhibitions](1990s-solo-exhibitions.html)
-- [1970s and 1980s solo exhibitions](1970s-1980s-solo-exhibitions.html)
+- [1970s and 1980s solo exhibitions](1970s-1980s-solo-exhibitions.md)
+
 
