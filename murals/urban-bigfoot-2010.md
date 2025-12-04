@@ -30,7 +30,7 @@
 </style>
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#urban-bigfoot-la-row)
+
 
 # 2010 – Urban Bigfoot (Los Angeles Freewalls)
 
@@ -59,3 +59,4 @@ One of the most recognizable works from the early **LA Freewalls** initiative, �
 - [Daily Record – Best pictures from around the globe](https://www.dailyrecord.co.uk/news/uk-world-news/gallery/todays-best-pictures-around-globe-3767077)
 - [YouTube – Urban Bigfoot mural video](https://www.youtube.com/watch?v=mA2RbTO0MdM)
 
+[⬅ Back to murals index](../murals-and-street-works.html#urban-bigfoot-la-row)
