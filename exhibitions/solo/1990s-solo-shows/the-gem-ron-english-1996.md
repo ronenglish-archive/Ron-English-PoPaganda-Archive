@@ -58,7 +58,7 @@
 
 ### **Solo Exhibition**
 
-<img src="../../images/Exhibitions/Solo/thegem.jpg"
+<img src="../../../images/Exhibitions/Solo/thegem.jpg"
      alt="Ron English — The Gem, Los Angeles, 1996"
      class="exhibit-image">
 
