@@ -67,4 +67,4 @@ Festival coverage described the weekend as a “Woodstock for artists,” noting
 - [Jersey’s Best – How murals are transforming N.J. communities](https://www.jerseysbest.com/community/takin-it-to-the-streets-how-murals-are-transforming-n-j-communities/)
 - [YouTube – Jersey City mural footage](https://www.youtube.com/watch?v=v933G0Z3bt0)
 
-
+[⬅ Back to murals index](../murals-and-street-works.html#jersey-city-mural-festival-2021-row)
