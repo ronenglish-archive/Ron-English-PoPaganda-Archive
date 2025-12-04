@@ -30,7 +30,7 @@
 </style>
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#one-wall-2017-row)
+
 
 # 2017 – *ONE WALL*  
 **Urban Nation Museum — Berlin, Germany**
@@ -55,3 +55,4 @@ English’s contribution stood out among the launch lineup, echoing the museum�
 - [Urban Nation – Ron English artist page](https://urban-nation.com/artist/ron-english/)
 - [Brooklyn Street Art – September 2017 archive](https://www.brooklynstreetart.com/2017/09/page/2/)
 
+[⬅ Back to murals index](../murals-and-street-works.html#one-wall-2017-row)
