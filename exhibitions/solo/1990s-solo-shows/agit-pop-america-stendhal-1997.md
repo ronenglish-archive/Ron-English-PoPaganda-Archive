@@ -88,5 +88,6 @@ This show further cemented his presence in the New York gallery landscape follow
 ---
 
 ## Back to list  
-➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#<anchor-id-for-this-row>)
+➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#agit-pop-america-stendhal-1997-row)
+
 
