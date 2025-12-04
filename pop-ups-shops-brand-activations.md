@@ -25,19 +25,48 @@
     box-shadow: 0 0 8px rgba(255, 150, 213, 0.7);
     transform: translateY(-1px);
   }
+
+  .mural-thumb {
+    max-width: 50px;
+    height: auto;
+    display: block;
+  }
+
+  table {
+    font-size: 18px;
+    color: #111;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  table th,
+  table td {
+    text-align: center;
+    vertical-align: middle;
+    padding: 10px;
+    border: 1px solid #bbb;
+  }
+
+  table th {
+    font-weight: 700;
+  }
+
+  table td {
+    font-weight: 500;
+  }
 </style>
 
 <div class="top-nav">
-  <a href="index.html">Home</a>
-  <a href="solo-exhibitions.html">Solo exhibitions</a>
-  <a href="group-exhibitions.html">Group exhibitions</a>
-  <a href="murals-and-street-works.html">Murals &amp; street works</a>
-  <a href="pop-ups-shops-brand-activations.html">Pop-ups, shops &amp; brand activations</a>
-  <a href="benefit-auctions-charity-projects.html">Benefit auctions &amp; charity projects</a>
-  <a href="film-screenings-festivals-film-events.html">Film screenings, festivals &amp; film events</a>
-  <a href="digital-projects-nft-crypto-art.html">Digital projects, NFT &amp; crypto-art</a>
-  <a href="public-talks-lectures-book-signings.html">Public talks, lectures &amp; book signings</a>
-  <a href="special-events-parties-tours.html">Special events, parties &amp; tours</a>
+  <a href="../../index.html">Home</a>
+  <a href="../solo-exhibitions.html">Solo exhibitions</a>
+  <a href="../group-exhibitions.html">Group exhibitions</a>
+  <a href="../../murals-and-street-works.html">Murals &amp; street works</a>
+  <a href="../../pop-ups-shops-brand-activations.html">Pop-ups, shops &amp; brand activations</a>
+  <a href="../../benefit-auctions-charity-projects.html">Benefit auctions &amp; charity projects</a>
+  <a href="../../film-screenings-festivals-film-events.html">Film screenings, festivals &amp; film events</a>
+  <a href="../../digital-projects-nft-crypto-art.html">Digital projects, NFT &amp; crypto-art</a>
+  <a href="../../public-talks-lectures-book-signings.html">Public talks, lectures &amp; book signings</a>
+  <a href="../../special-events-parties-tours.html">Special events, parties &amp; tours</a>
 </div>
 
 
