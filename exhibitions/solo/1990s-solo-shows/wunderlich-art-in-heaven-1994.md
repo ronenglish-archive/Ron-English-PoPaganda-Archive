@@ -87,4 +87,5 @@ The exhibition was part of a multi-venue tour, with a later installment at Micha
 ---
 
 ## Back to list  
-➡️ [Return to 1990s Solo Exhibitions](1990s-solo-exhibitions.html)
+➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#<anchor-id-for-this-row>)
+
