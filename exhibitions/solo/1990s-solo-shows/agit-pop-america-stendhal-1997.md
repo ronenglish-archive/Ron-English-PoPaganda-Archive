@@ -88,4 +88,5 @@ This show further cemented his presence in the New York gallery landscape follow
 ---
 
 ## Back to list  
-➡️ [Return to 1990s Solo Exhibitions](1990s-solo-exhibitions.html)
+➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#<anchor-id-for-this-row>)
+
