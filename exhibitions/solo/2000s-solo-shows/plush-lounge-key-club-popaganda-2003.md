@@ -66,6 +66,7 @@ A major component of the evening was an early **sneak preview screening** of the
 The event merged art exhibition, album visual premiere and film preview, presenting English in an interdisciplinary light that suited the Key Club’s hybrid music-and-nightlife setting.
 
 ---
+<img src="../../../images/Exhibitions/Solo/Monkey-House-2.jpg">
 
 ## Sources
 
