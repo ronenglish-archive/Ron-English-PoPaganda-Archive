@@ -50,6 +50,10 @@
      alt="Ron English — Recent Works, Debris at USA (Big Bottom Lounge), 1993"
      class="exhibit-image">
 
+<img src="../../../images/Exhibitions/Solo/Debris-1.jpg"
+     alt="Ron English — Recent Works, Debris at USA (Big Bottom Lounge), 1993"
+     class="exhibit-image">
+     
 **Year:** 1993  
 **Date:** March 24, 1993  
 **Venue:** Debris at USA (Big Bottom Lounge)  
