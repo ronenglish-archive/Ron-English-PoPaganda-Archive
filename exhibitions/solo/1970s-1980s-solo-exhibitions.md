@@ -1,7 +1,3 @@
----
-layout: default
-title: 1970s–1980s Solo Exhibitions
----
 <style>
   /* Thumbnail image style */
   .mural-thumb {
@@ -62,3 +58,4 @@ title: 1970s–1980s Solo Exhibitions
 | <a href="1970s-1980s-solo-shows/annus-mirabilis-kwikwash-gallery-1979.html"><img src="../../images/Exhibitions/Solo/annus-mirabilis-kwikwash-gallery-1979-1.jpg" alt="Eye/Hand Coordination — Annus ... Mirabilis, Kwikwash Gallery 1979" class="mural-thumb"></a> | <a id="annus-mirabilis-kwikwash-gallery-1979-row"></a>c. 1979 | December 7 | Kwikwash Gallery | *Annus ... Mirabilis* |
 | <a href="1970s-1980s-solo-shows/fotogalerie-prinsengracht-356-1988.html"><img src="../../images/Exhibitions/Solo/fotogalerie-Amsterdam-1988-1.jpg" alt="Ron English solo exhibition, Fotogalerie Prinsengracht 356, 1988" class="mural-thumb"></a> | <a id="fotogalerie-prinsengracht-356-1988-row"></a>1988 | 11 August – 3 September 1988 | Fotogalerie Prinsengracht 356 | *Ron English* |
 | <a href="1970s-1980s-solo-shows/ok-harris-ron-english-1989.html"><img src="../../images/Exhibitions/Solo/trompe-l'oeil-ok-harris-1989-1.jpg" alt="Ron English solo exhibition, OK Harris Works of Art, 1989" class="mural-thumb"></a> | <a id="ok-harris-ron-english-1989-row"></a>1989 | March 4–25, 1989 | OK Harris Works of Art | *Ron English* |
+| <a href="1970s-1980s-solo-shows/the-salon-fashion-moda-1986.html"><img src="../../images/Exhibitions/Solo/Salon-Indoors-Outdoors.jpg" alt="Ron English — The Salon, Fashion Moda, Bronx, 1986" class="mural-thumb"></a> | <a id="the-salon-fashion-moda-1986-row"></a>1986 | September 13 – October 11, 1986 | Fashion Moda (Produced by Stefan Eins) | *SHOWFLAPS / Billboards — Ron English (Indoors/Outdoors)* |  
