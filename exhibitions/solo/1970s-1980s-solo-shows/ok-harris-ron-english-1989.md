@@ -41,7 +41,7 @@
 **Title:** *Ron English*  
 
 ![Ron English solo exhibition – OK Harris Works of Art, 1989](../../../images/Exhibitions/Solo/trompe-l'oeil-ok-harris-1989-1.jpg)
-
+![Ron English solo exhibition – OK Harris Works of Art, 1989](../../../images/Exhibitions/Solo/OK-Harris-1.jpg)
 ## Notes
 
 Solo exhibition at Ivan Karp’s OK Harris Works of Art, presenting Ron English’s early photographic pieces and illusionistic staged scenes. The show extends his investigations into constructed reality—tableaux built in the studio and photographed as “straight” images, without darkroom trickery—placing them in conversation with the gallery’s reputation for conceptual and photo-based work.
