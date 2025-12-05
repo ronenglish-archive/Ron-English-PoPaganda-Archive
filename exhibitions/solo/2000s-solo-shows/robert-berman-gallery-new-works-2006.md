@@ -50,6 +50,11 @@
      alt="Ron English — New Works, Robert Berman Gallery, 2006"
      class="exhibit-image">
 
+<img src="../../../images/Exhibitions/Solo/new-works-bermanturner-1.jpg"
+     alt="Ron English — New Works, Robert Berman Gallery, 2006"
+     class="exhibit-image">
+
+
 **Year:** 2006  
 **Dates:** October 14 – November 11, 2006  
 **Venue:** Robert Berman Gallery (Berman/Turner Projects)  
