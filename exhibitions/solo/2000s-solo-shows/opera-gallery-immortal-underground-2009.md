@@ -45,7 +45,7 @@
 
 ### **Solo Exhibition**
 
-<img src="../../../images/Exhibitions/Solo/Immortal Underground.jpg"
+<img src="../../../images/Exhibitions/Solo/Immortal Underground.JPG"
      alt="Ron English — Immortal Underground, Opera Gallery, 2009"
      class="exhibit-image">
 
