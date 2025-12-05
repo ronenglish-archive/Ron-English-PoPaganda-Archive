@@ -45,7 +45,7 @@
 
 ### **Touring Program / Multi-city Exhibition Series**
 
-<img src="../../../images/Exhibitions/POPagandaAsia.webp.jpg"
+<img src="../../../images/Exhibitions/Solo/POPagandaAsia.webp"
      alt="Ron English — POPaganda Asia Tour, 2008–2009"
      class="exhibit-image">
 
