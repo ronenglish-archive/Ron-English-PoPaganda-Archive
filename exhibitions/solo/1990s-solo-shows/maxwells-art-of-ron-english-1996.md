@@ -49,6 +49,11 @@
      alt="Ron English — The Art of Ron English, Maxwell’s, Hoboken, 1996"
      class="exhibit-image">
 
+<img src="../../../images/Exhibitions/Solo/maxwell2 copy.jpg"
+     alt="Ron English — The Art of Ron English, Maxwell’s, Hoboken, 1996"
+     class="exhibit-image">
+     
+
 **Year:** 1996  
 **Dates:** 1996 (exact dates not specified)  
 **Venue:** Maxwell’s (Jonathan LeVine presents)  
