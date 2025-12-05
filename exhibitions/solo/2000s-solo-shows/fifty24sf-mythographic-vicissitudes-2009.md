@@ -45,7 +45,7 @@
 
 ### **Solo Exhibition**
 
-<img src="../../../images/Exhibitions/Solo/2000s/mythographicvicissitudes.jpg"
+<img src="../../../images/Exhibitions/Solo/mythographicvicissitudes.jpg"
      alt="Ron English — Mythographic Vicissitudes, FIFTY24SF Gallery, 2009"
      class="exhibit-image">
 
