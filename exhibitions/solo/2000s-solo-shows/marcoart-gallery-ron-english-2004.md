@@ -45,7 +45,7 @@
 
 ### **Solo Exhibition**
 
-<img src="../../../images/Exhibitions/Solo/2000s/Marcoart and Duro CIA proudly present Ron English, 2004.jpg"
+<img src="../../../images/Exhibitions/Solo/Marcoart and Duro CIA proudly present Ron English, 2004.jpg"
      alt="Ron English — Marcoart Gallery Solo Exhibition, 2004"
      class="exhibit-image">
 
