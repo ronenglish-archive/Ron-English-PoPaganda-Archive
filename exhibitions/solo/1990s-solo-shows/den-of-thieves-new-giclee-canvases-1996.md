@@ -49,6 +49,10 @@
      alt="Ron English — New Giclée Canvases, Den of Thieves, 1996"
      class="exhibit-image">
 
+<img src="../../../images/Exhibitions/Solo/den-of-thieves.jpg"
+     alt="Ron English — New Giclée Canvases, Den of Thieves, 1996"
+     class="exhibit-image">
+
 **Year:** 1996  
 **Date:** April 11, 1996  
 **Venue:** Den of Thieves  
