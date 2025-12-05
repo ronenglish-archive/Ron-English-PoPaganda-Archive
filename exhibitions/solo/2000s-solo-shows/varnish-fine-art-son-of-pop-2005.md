@@ -49,6 +49,11 @@
      alt="Ron English — Son of Pop, Varnish Fine Art, 2005"
      class="exhibit-image">
 
+<img src="../../../images/Exhibitions/Solo/son-of-pop-1.jpg"
+     alt="Ron English — Son of Pop, Varnish Fine Art, 2005"
+     class="exhibit-image">
+
+     
 **Year:** 2005  
 **Dates:** May 28 – July 2, 2005  
 **Venue:** Varnish Fine Art  
