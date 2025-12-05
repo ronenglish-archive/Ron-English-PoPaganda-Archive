@@ -50,6 +50,10 @@
      alt="Ron English — New Paintings, The Art Store, New York, 1990"
      class="exhibit-image">
 
+<img src="../../../images/Exhibitions/Solo/Art-Store-1.jpg"
+     alt="Ron English — New Paintings, The Art Store, New York, 1990"
+     class="exhibit-image">
+     
 **Year:** 1990  
 **Dates:** May 5 – June 2, 1990  
 **Venue:** The Art Store  
