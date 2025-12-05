@@ -50,6 +50,10 @@
      alt="Ron English — HEY! My Kid Could Do That!, Gallery Stendhal, 1992"
      class="exhibit-image">
 
+<img src="../../../images/Exhibitions/Solo/My-kid-1.jpg"
+     alt="Ron English — HEY! My Kid Could Do That!, Gallery Stendhal, 1992"
+     class="exhibit-image">
+     
 **Year:** 1992  
 **Dates:** November 12 – December 12, 1992  
 **Venue:** Gallery Stendhal  
