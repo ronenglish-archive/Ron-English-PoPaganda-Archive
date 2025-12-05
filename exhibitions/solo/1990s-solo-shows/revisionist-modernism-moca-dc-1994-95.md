@@ -47,9 +47,14 @@
 
 ### **Solo Exhibition**
 
-<img src="../../../images/Exhibitions/Solo/revisionist.jpg"
+<img src="../../../images/Exhibitions/Solo/Revisionist-Modernism-2 copy.jpg"
      alt="Ron English — Revisionist Modernism, Museum of Contemporary Art Washington DC, 1994–95"
      class="exhibit-image">
+
+<img src="../../../images/Exhibitions/Solo/Revisionist-Modernism-1 copy.jpg"
+     alt="Ron English — Revisionist Modernism, Museum of Contemporary Art Washington DC, 1994–95"
+     class="exhibit-image">
+
 
 **Year:** 1994–95  
 **Dates:** December 2, 1994 – January 1, 1995  
