@@ -46,7 +46,7 @@
 
 ### **Solo Exhibition**
      
-<img src="../../../images/Exhibitions/Solo/Clutter Gallery Presents Ron English’s - Thought Factory, 2013 (1).jpg"
+<img src="../../../images/Exhibitions/Solo/Clutter Gallery Presents Ron English’s - Thought Factory, 2013 (1).png"
      alt="Ron English — Thought Factory at The Clutter Gallery, Beacon, NY, 2013"
      class="exhibit-image">
 
