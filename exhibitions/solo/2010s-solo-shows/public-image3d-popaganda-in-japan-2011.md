@@ -49,7 +49,11 @@
 <img src="../../../images/Exhibitions/Solo/POPaganda in Japan, 2011 (1).jpg"
      alt="Ron English — POPaganda in Japan at Public/Image.3D, Tokyo, 2011"
      class="exhibit-image">
-
+     
+<img src="../../../images/Exhibitions/Solo/POPaganda in Japan, 2011.jpg"
+     alt="Ron English — POPaganda in Japan at Public/Image.3D, Tokyo, 2011"
+     class="exhibit-image">
+     
 **Year:** 2011  
 **Dates:** July 1 – 18, 2011  
 **Venue:** Public/Image.3D  
