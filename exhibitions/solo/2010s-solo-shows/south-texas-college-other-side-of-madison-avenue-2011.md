@@ -46,7 +46,7 @@
 
 ### **Solo Exhibition**
      
-<img src="../../../images/Exhibitions/Solo/the-other-side-of-madison-avenue-2011.jpg"
+<img src="../../../images/Exhibitions/Solo/The Other Side of Madison Avenue, 2011.jpg"
      alt="Ron English — The Other Side of Madison Avenue at South Texas College Pecan Campus Library Art Gallery, 2011"
      class="exhibit-image">
 
