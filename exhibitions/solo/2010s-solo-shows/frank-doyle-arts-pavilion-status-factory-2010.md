@@ -50,6 +50,10 @@
      alt="Ron English — Status Factory, Frank M. Doyle Arts Pavilion, Costa Mesa, 2010"
      class="exhibit-image">
 
+<img src="../../../images/Exhibitions/Solo/status-factory-2.jpg"
+     alt="Ron English — Status Factory, Frank M. Doyle Arts Pavilion, Costa Mesa, 2010"
+     class="exhibit-image">
+     
 **Year:** 2010  
 **Dates:** November 12 – December 17, 2010  
 **Venue:** Frank M. Doyle Arts Pavilion (Orange Coast College)  
