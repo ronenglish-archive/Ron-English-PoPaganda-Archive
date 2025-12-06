@@ -46,7 +46,7 @@
 
 ### **Solo Exhibition**
      
-<img src="../../../images/Exhibitions/Solo/between-the-scenes-x-on-main-2013.jpg"
+<img src="../../../images/Exhibitions/Solo/Between the Scenes - X On Main, 2013.jpg"
      alt="Ron English — Between the Scenes at X on Main, Beacon, NY, 2013"
      class="exhibit-image">
 
