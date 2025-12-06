@@ -50,6 +50,23 @@
      alt="Ron English — NeoNature: We Are the New They, Corey Helford Gallery, Los Angeles, 2015"
      class="exhibit-image">
 
+<img src="../../../images/Exhibitions/Solo/neonaturecloudcovershirt (2).jpg"
+     alt="Ron English — NeoNature: We Are the New They, Corey Helford Gallery, Los Angeles, 2015"
+     class="exhibit-image">
+
+<img src="../../../images/Exhibitions/Solo/neonaturepainting.jpg"
+     alt="Ron English — NeoNature: We Are the New They, Corey Helford Gallery, Los Angeles, 2015"
+     class="exhibit-image">
+
+<img src="../../../images/Exhibitions/Solo/neonaturetiger.jpg"
+     alt="Ron English — NeoNature: We Are the New They, Corey Helford Gallery, Los Angeles, 2015"
+     class="exhibit-image">
+
+<img src="../../../images/Exhibitions/Solo/NeoNature Dec 12 2015.jpg"
+     alt="Ron English — NeoNature: We Are the New They, Corey Helford Gallery, Los Angeles, 2015"
+     class="exhibit-image">
+
+     
 **Years:** 2015–2016  
 **Dates:** December 12, 2015 – January 9, 2016  
 **Venue:** Corey Helford Gallery  
