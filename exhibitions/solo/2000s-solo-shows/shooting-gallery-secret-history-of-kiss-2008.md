@@ -90,4 +90,4 @@ This exhibition strengthened English’s foothold in the West Coast Pop Surreali
 
 ## Back to list  
 
-➡️ [Return to 2000s Solo Exhibitions](../2000s-solo-exhibitions.html#shooting-gallery-secret-history-of-kiss-2008-row)
+➡️ [Return to 2000s Solo Exhibitions](../2000s-solo-exhibitions.html#shooting-gallery-secret-history-kiss-2008-row)
