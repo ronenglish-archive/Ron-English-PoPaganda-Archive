@@ -50,6 +50,59 @@
      alt="Ron English X Secret Fresh, Manila, 2014"
      class="exhibit-image">
 
+<img src="../../../images/Exhibitions/Solo/secret fresh dec 2014 10.jpg"
+     alt="Ron English X Secret Fresh, Manila, 2014"
+     class="exhibit-image">
+
+<img src="../../../images/Exhibitions/Solo/secret fresh dec 2014 9.jpg"
+     alt="Ron English X Secret Fresh, Manila, 2014"
+     class="exhibit-image">
+
+<img src="../../../images/Exhibitions/Solo/secret fresh dec 2014 7.jpg"
+     alt="Ron English X Secret Fresh, Manila, 2014"
+     class="exhibit-image">
+
+<img src="../../../images/Exhibitions/Solo/secret fresh dec 2014 6.jpg"
+     alt="Ron English X Secret Fresh, Manila, 2014"
+     class="exhibit-image">
+
+<img src="../../../images/Exhibitions/Solo/secret fresh dec 2014 5.jpg"
+     alt="Ron English X Secret Fresh, Manila, 2014"
+     class="exhibit-image">
+
+<img src="../../../images/Exhibitions/Solo/secret fresh dec 2014 4.jpg"
+     alt="Ron English X Secret Fresh, Manila, 2014"
+     class="exhibit-image">
+
+<img src="../../../images/Exhibitions/Solo/secret fresh dec 2014 3.jpg"
+     alt="Ron English X Secret Fresh, Manila, 2014"
+     class="exhibit-image">
+
+<img src="../../../images/Exhibitions/Solo/secret fresh dec 2014 2.jpg"
+     alt="Ron English X Secret Fresh, Manila, 2014"
+     class="exhibit-image">
+
+<img src="../../../images/Exhibitions/Solo/secret fresh dec 2014 1.jpg"
+     alt="Ron English X Secret Fresh, Manila, 2014"
+     class="exhibit-image">
+
+<img src="../../../images/Exhibitions/Solo/December 21, 2014 Secret Fresh 2.jpg"
+     alt="Ron English X Secret Fresh, Manila, 2014"
+     class="exhibit-image">
+
+<img src="../../../images/Exhibitions/Solo/December 21, 2014 Secret Fresh.jpg"
+     alt="Ron English X Secret Fresh, Manila, 2014"
+     class="exhibit-image">
+
+<img src="../../../images/Exhibitions/Solo/December 20, 2014 secret fresh manilla.jpg"
+     alt="Ron English X Secret Fresh, Manila, 2014"
+     class="exhibit-image">
+
+<img src="../../../images/Exhibitions/Solo/Show tomorrow at Secret Fresh gallery Manila. December 20, 2014.jpg"
+     alt="Ron English X Secret Fresh, Manila, 2014"
+     class="exhibit-image">
+
+     
 **Year:** 2014  
 **Date:** December 21, 2014  
 **Venue:** Secret Fresh Gallery (Ronac Art Center)  
