@@ -46,7 +46,7 @@
 
 ### **Solo Exhibition**
      
-<img src="../../../images/Exhibitions/Solo/english-101-2011.jpg"
+<img src="../../../images/Exhibitions/Solo/English 101, 2011.jpg"
      alt="Ron English — English 101 at Post No Bills, Venice Beach, 2011"
      class="exhibit-image">
 
