@@ -49,7 +49,11 @@
 <img src="../../../images/Exhibitions/Solo/evolutionaryalternatives1.jpeg"
      alt="Ron English — Evolutionary Alternatives at Tribeca Grand Hotel, 2014"
      class="exhibit-image">
-
+     
+<img src="../../../images/Exhibitions/Solo/evolutionaryalternatives2.jpeg"
+     alt="Ron English — Evolutionary Alternatives at Tribeca Grand Hotel, 2014"
+     class="exhibit-image">
+     
 **Year:** 2014  
 **Date:** November 19, 2014  
 **Venue:** Tribeca Grand Hotel (Natalie Kates Projects)  
