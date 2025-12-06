@@ -74,4 +74,5 @@ This show predates English’s later well-known Popaganda work and hints at a le
 
 ## Back to list  
 
-➡️ [Return to 1980s Photography Exhibitions](../1980s-photography-exhibitions.html#midtown-y-ron-english-1988-row)
+➡️ [Return to 1970s–1980s Solo Exhibitions](../1970s-1980s-solo-exhibitions.html#midtown-y-photography-gallery-ron-english-1988-row)
+
