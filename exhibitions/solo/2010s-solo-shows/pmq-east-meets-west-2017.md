@@ -43,7 +43,15 @@
 <img src="../../../images/Exhibitions/Solo/East Meets West Tour - Ron English’s Popaganda Pop-Up Shop, 2017 .jpg"
      alt="Ron English — East Meets West, The Qube PMQ, Hong Kong, 2017"
      class="exhibit-image">
+     
+<img src="../../../images/Exhibitions/Solo/East Meets West Tour - Ron English’s Popaganda Pop-Up Shop, May 20 - 21, 2017 .jpg"
+     alt="Ron English — East Meets West, The Qube PMQ, Hong Kong, 2017"
+     class="exhibit-image">
 
+<img src="../../../images/Exhibitions/Solo/East Meets West Tour - Ron English’s Popaganda Pop-Up Shop, May 20 - 21, 2017.jpg"
+     alt="Ron English — East Meets West, The Qube PMQ, Hong Kong, 2017"
+     class="exhibit-image">
+     
 **Year:** 2017  
 **Dates:** May 6–14, 2017  
 **Venue:** The Qube, PMQ  
