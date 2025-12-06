@@ -50,6 +50,19 @@
      alt="Ron English — Guernica, Allouche Gallery, New York, 2016"
      class="exhibit-image">
 
+<img src="../../../images/Exhibitions/Solo/Ron English - Guernica, 2016  (2).jpg"
+     alt="Ron English — Guernica, Allouche Gallery, New York, 2016"
+     class="exhibit-image">
+
+<img src="../../../images/Exhibitions/Solo/Ron English - Guernica, 2016  (4).jpg"
+     alt="Ron English — Guernica, Allouche Gallery, New York, 2016"
+     class="exhibit-image">
+
+<img src="../../../images/Exhibitions/Solo/Ron English - Guernica, 2016 .jpg"
+     alt="Ron English — Guernica, Allouche Gallery, New York, 2016"
+     class="exhibit-image">
+
+     
 **Year:** 2016  
 **Dates:** September 22 – October 19, 2016  
 **Venue:** Allouche Gallery  
