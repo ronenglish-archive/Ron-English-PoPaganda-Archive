@@ -48,7 +48,7 @@
 
 # 1990s Solo Exhibitions
 
-### Early solo exhibitions, studio presentations, and experimental shows from Ron English’s first two decades of activity.  
+### Early solo exhibitions, studio presentations, and experimental shows from the 1990s.  
 <span class="glow-text">Click on each image to see more information</span>
 
 | Image | Year | Dates | Venue | Title |
