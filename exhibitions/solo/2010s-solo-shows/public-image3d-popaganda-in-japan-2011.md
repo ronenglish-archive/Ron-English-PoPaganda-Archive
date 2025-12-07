@@ -71,9 +71,10 @@ Ron English’s **first Japan solo project**, presented with **ZacPac**, unveili
 ## Sources
 
 - Tokyo Art Beat  
-  https://www.tokyoartbeat.com/en/events/-/2011%2FB117
+  [https://www.tokyoartbeat.com/en/events/-/2011%2FB117](https://www.tokyoartbeat.com/en/events/-/2011%2FB117)
+
 - Medicom Toy  
-  https://www.medicomtoy.co.jp/prod/dt/8/154/5514.html
+  [https://www.medicomtoy.co.jp/prod/dt/8/154/5514.html](https://www.medicomtoy.co.jp/prod/dt/8/154/5514.html)
 
 ---
 
