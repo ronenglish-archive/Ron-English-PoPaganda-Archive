@@ -67,13 +67,17 @@ Solo exhibition transforming the United States into a **“toy box”** of masco
 ## Sources
 
 - Corey Helford  
-  https://coreyhelfordgallery.com/shows/corey-helford/year%3A2017/
+  [https://coreyhelfordgallery.com/shows/corey-helford/year%3A2017/](https://coreyhelfordgallery.com/shows/corey-helford/year%3A2017/)
+
 - I Support Street Art  
-  https://www.isupportstreetart.com/festibition/toybox-america-visuals-ron-english/
+  [https://www.isupportstreetart.com/festibition/toybox-america-visuals-ron-english/](https://www.isupportstreetart.com/festibition/toybox-america-visuals-ron-english/)
+
 - LA Taco  
-  https://lataco.com/preview-ron-english-toybox-america-visuals
+  [https://lataco.com/preview-ron-english-toybox-america-visuals](https://lataco.com/preview-ron-english-toybox-america-visuals)
+
 - MutualArt  
-  https://www.mutualart.com/Exhibition/Ron-English--Delusionville/314573D03371A42B
+  [https://www.mutualart.com/Exhibition/Ron-English--Delusionville/314573D03371A42B](https://www.mutualart.com/Exhibition/Ron-English--Delusionville/314573D03371A42B)
+
 
 ---
 
