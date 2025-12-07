@@ -77,6 +77,6 @@ Group exhibitions featuring Ron English during the 1980s.
 | <span id="limelight-ron-english-presents-uncensored-1988-row"></span><a href="1980s-group-exhibitions/limelight-ron-english-presents-uncensored-1988.html"><img src="../../images/Exhibitions/Group/Ron English Presents Un-Censored- 2, 1988.jpeg" alt="Ron English Presents Un-Censored at Limelight, New York, 1988" class="mural-thumb"></a> | 1988 | May 9, 1988 | Limelight | *Ron English Presents Un-Censored* |
 | <span id="limelight-let-them-eat-art-1988-row"></span><a href="1980s-group-exhibitions/limelight-let-them-eat-art-1988.html"><img src="../../images/Exhibitions/Group/Let-them-eat-art-2.jpg" alt="Let Them Eat Art at Limelight, New York, circa 1988" class="mural-thumb"></a> | circa 1988 | October 26, 1988 | Limelight | *Let Them Eat Art* |
 | <span id="red-zone-freedom-of-expression-1989-row"></span><a href="1980s-group-exhibitions/red-zone-freedom-of-expression-1989.html"><img src="../../images/Exhibitions/Group/Freedom-of-Expression-1.jpg" alt="Freedom of Expression Show at Red Zone, New York, 1989" class="mural-thumb"></a> | 1989 | August 2, 1989 | Red Zone | *Freedom of Expression Show* |
-| <span id="kenkeleba-inner-city-outer-limits-1989-row"></span><a href="1980s-group-exhibitions/kenkeleba-inner-city-outer-limits-1989.html"><img src="../../images/Exhibitions/Group/Outer-Limits.jpeg" alt="Inner City Outer Limits at Kenkeleba Gallery, New York, 1989" class="mural-thumb"></a> | 1989 | February – March 3, 1989 | Kenkeleba Gallery | *Inner City Outer Limits* |
+
 
 
