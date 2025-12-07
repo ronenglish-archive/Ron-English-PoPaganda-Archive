@@ -71,20 +71,19 @@ The show gathered paintings and sculptures that pushed familiar characters into 
 Installed in Varnish’s industrial gallery space, *Son of Pop* underlined how English extends the Pop lineage of Warhol and Lichtenstein into a media landscape saturated with branding, while keeping a sharp focus on culture-jamming and billboard subversion.
 
 ---
-
 ## Sources
 
 - Varnish Fine Art — *Son of Pop* exhibition page:  
-  https://varnishfineart.com/exhibit/89-son-of-pop  
+  [https://varnishfineart.com/exhibit/89-son-of-pop](https://varnishfineart.com/exhibit/89-son-of-pop)
 
 - Laughing Squid — “Ron English at Varnish Fine Art”:  
-  https://laughingsquid.com/ron-english-at-varnish-fine-art/  
+  [https://laughingsquid.com/ron-english-at-varnish-fine-art/](https://laughingsquid.com/ron-english-at-varnish-fine-art/)
 
 - Art Crimes / graffiti shows and events 2005 (lists *Son of Pop* among 2005 exhibitions):  
-  https://ftp.icm.edu.pl/packages/graffiti.old/index/history2005.html  
+  [https://ftp.icm.edu.pl/packages/graffiti.old/index/history2005.html](https://ftp.icm.edu.pl/packages/graffiti.old/index/history2005.html)
 
 - Invaluable — listing for Ron English *Cowgirl* (c. 2005), associated with the *Son of Pop* period:  
-  https://www.invaluable.com/auction-lot/ron-english-cowgirl-c-2005-58-c-3064f7f8a8/
+  [https://www.invaluable.com/auction-lot/ron-english-cowgirl-c-2005-58-c-3064f7f8a8/](https://www.invaluable.com/auction-lot/ron-english-cowgirl-c-2005-58-c-3064f7f8a8/)
 
 ---
 
