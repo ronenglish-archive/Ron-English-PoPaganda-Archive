@@ -53,16 +53,16 @@
 ---
 
 ## Overview  
+“The Prisoners of Art” was a multi-media exhibition organized by Collaborative Projects Inc. (COLAB) and presented in the sub-basement of the historic Police Building at 240 Centre Street in Manhattan. According to the exhibition showcard, the project opened with a reception on March 18, 1989 and remained accessible by appointment from March 22 through April 15, with weekend gallery hours hosted on site at the repurposed municipal space. Curators included Gary Azon, Ken Christie, Charlie Finch, Baird Jones, Lynn Seeney, Willoughby Sharp, and Vee, reflecting COLAB’s broad network of alternative-space organizers and artists².
 
-Group exhibition presented in the **historic Police Building** in New York, co-organized through **COLAB (Collaborative Projects Inc.)**—a central collective in the downtown alternative-art scene of the 1980s.
+The venue itself played a central role in shaping the exhibition’s tone. As reported in Arts Magazine, COLAB obtained access to the Police Building through a legal stipulation originally petitioned by Jacqueline Onassis, requiring that a portion of the property be reserved for the arts. The resulting 5,000-square-foot basement area was converted into an expansive installation environment that housed work by more than one hundred participating artists. The exhibition sought to challenge institutional boundaries by situating politically charged, experimental, and often confrontational works inside a civic structure traditionally associated with authority and public regulation¹.
 
-Ron English participated alongside other artists working with politicized imagery and counter-establishment themes, aligning with COLAB’s activist and experimental ethos.
+A significant portion of the show addressed censorship, morality legislation, and the intensifying culture-war atmosphere of the late 1980s. Entire sections such as “Indecent Exposure/Full Disclosure” and “Sweet Blasphemes” juxtaposed religious appropriation, political critique, and sexually explicit material to highlight conflicts around government intervention in the arts. Within this context, Ron English presented “Voyeuristic Delicacies,” a work that intertwined religious and pop-cultural symbols to examine spectacle, control, and public consumption. Arts Magazine noted that the piece aligned closely with the exhibition’s overarching themes of provocation and political scrutiny¹.
 
----
+The overall atmosphere was described as energetic and exploratory, reflecting both the creative momentum of COLAB’s final years and the tensions surrounding artistic freedom during the NEA and Helms-era debates. Through its scale, ambition, and unconventional venue, “The Prisoners of Art” stood as one of COLAB’s last major large-format interventions, critiquing censorship, civic authority, and the politics of cultural visibility at the end of the decade. English’s contribution supported the exhibition’s broader effort to question the limits of expression and the structural forces shaping how art enters public discourse¹.
 
-## Sources  
-
-- Eichman, Shawn. *“The Prisoners of Art.”* **Arts Magazine**, April 26, 1989, pp. 16-A–17-A.
+1. Eichman, Shawn. “The Prisoners of Art.” Arts Magazine, April 26, 1989, pp. 16-A–17-A.
+2. The Prisoners of Art exhibition showcard, Collaborative Projects Inc. (COLAB), Police Building, New York, March 22–April 15, 1989.
 
 ---
 
