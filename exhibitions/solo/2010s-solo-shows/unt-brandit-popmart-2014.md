@@ -67,13 +67,17 @@ Pop-surreal intervention and installation unpacking commercial iconography and *
 ## Sources
 
 - Dallas Observer  
-  https://www.dallasobserver.com/arts-culture/somethings-up-in-the-cereal-aisle-6432147/
+  [https://www.dallasobserver.com/arts-culture/somethings-up-in-the-cereal-aisle-6432147/](https://www.dallasobserver.com/arts-culture/somethings-up-in-the-cereal-aisle-6432147/)
+
 - POPaganda  
-  https://www.popaganda.com/news/archive-brandit-popmart-unt-recap
+  [https://www.popaganda.com/news/archive-brandit-popmart-unt-recap](https://www.popaganda.com/news/archive-brandit-popmart-unt-recap)
+
 - Dallas Observer  
-  https://www.dallasobserver.com/arts-culture/popaganda-invades-north-texas-with-the-bizarre-truth-about-advertising-7091352/
+  [https://www.dallasobserver.com/arts-culture/popaganda-invades-north-texas-with-the-bizarre-truth-about-advertising-7091352/](https://www.dallasobserver.com/arts-culture/popaganda-invades-north-texas-with-the-bizarre-truth-about-advertising-7091352/)
+
 - Lucas Spann  
-  https://lucas-spann.com/experiential-1
+  [https://lucas-spann.com/experiential-1](https://lucas-spann.com/experiential-1)
+
 
 ---
 
