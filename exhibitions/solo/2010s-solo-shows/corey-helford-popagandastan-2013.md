@@ -71,17 +71,22 @@ Large solo exhibition expanding English’s **satirical universe of brand icons 
 ## Sources
 
 - Corey Helford Gallery — artist page  
-  https://coreyhelfordgallery.com/shows/corey-helford/artist%3Aron-english/
+  [https://coreyhelfordgallery.com/shows/corey-helford/artist%3Aron-english/](https://coreyhelfordgallery.com/shows/corey-helford/artist%3Aron-english/)
+
 - Corey Helford Gallery — press  
-  https://coreyhelfordgallery.com/shows/RON-ENGLISH-POPAGANDASTAN/info-press/
+  [https://coreyhelfordgallery.com/shows/RON-ENGLISH-POPAGANDASTAN/info-press/](https://coreyhelfordgallery.com/shows/RON-ENGLISH-POPAGANDASTAN/info-press/)
+
 - Corey Helford — archive  
-  https://coreyhelfordgallery.com/shows/corey-helford/year%3A2013/
+  [https://coreyhelfordgallery.com/shows/corey-helford/year%3A2013/](https://coreyhelfordgallery.com/shows/corey-helford/year%3A2013/)
+
 - Arrested Motion  
-  https://arrestedmotion.com/2013/10/upcoming-ron-english-popogandastan-corey-helford-gallery/
+  [https://arrestedmotion.com/2013/10/upcoming-ron-english-popogandastan-corey-helford-gallery/](https://arrestedmotion.com/2013/10/upcoming-ron-english-popogandastan-corey-helford-gallery/)
+
 - Inhale Magazine  
-  https://inhalemag.com/street-art-pop-surrealism-ron-english/
+  [https://inhalemag.com/street-art-pop-surrealism-ron-english/](https://inhalemag.com/street-art-pop-surrealism-ron-english/)
+
 - Cartwheel Art  
-  https://www.cartwheelart.com/calendar-event/ron-english-corey-helford-gallery/
+  [https://www.cartwheelart.com/calendar-event/ron-english-corey-helford-gallery/](https://www.cartwheelart.com/calendar-event/ron-english-corey-helford-gallery/)
 
 ---
 
