@@ -60,16 +60,12 @@ Solo exhibition at **Red Truck Gallery** presenting Ron English’s mix of **voo
 ## Sources
 
 - League OTO  
-  https://www.leagueoto.com/news/2019/5/23/upcoming-exhibits-ron-english-mojo-voodoo-amp-heavy-metal-music  
+  [https://www.leagueoto.com/news/2019/5/23/upcoming-exhibits-ron-english-mojo-voodoo-amp-heavy-metal-music](https://www.leagueoto.com/news/2019/5/23/upcoming-exhibits-ron-english-mojo-voodoo-amp-heavy-metal-music)
 
 - MutualArt  
-  https://www.mutualart.com/Gallery/Red-Truck-Gallery/DE6786109CD381B4  
+  [https://www.mutualart.com/Gallery/Red-Truck-Gallery/DE6786109CD381B4](https://www.mutualart.com/Gallery/Red-Truck-Gallery/DE6786109CD381B4)
 
-- Zotero  
-  https://www.zotero.org/groups/4951757/ron_english_the_godfather_of_street_art/search/Mojo%20Voodoo%20%26%20Heavy%20Metal%20Muzick%3A%20Ron%20English%20Brings%20Some%20Pop%20to%20New%20Orleans/titleCreatorYear/items/FI24ZCHU/attachment/6CY23ETI/reader  
 
-- Zotero — press  
-  https://www.zotero.org/groups/4951757/ron_english_the_godfather_of_street_art/search/Upcoming%20Exhibits%20-%20Ron%20English%20%22Mojo%20Voodoo%20%26%20Heavy%20Metal%20Music%22/titleCreatorYear/items/7F8VIDZU/attachment/ERVYWGIM/reader  
 
 ---
 
