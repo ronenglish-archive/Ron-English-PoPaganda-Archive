@@ -46,7 +46,7 @@
 
 ### **Group Exhibition**
 
-<img src="../../images/Exhibitions/Group/art-on-the-dubious-edge.jpg"
+<img src="../../../images/Exhibitions/Group/art-on-the-dubious-edge.jpg"
      alt="Ron English Presents Art on the Dubious Edge at Limelight, New York, 1983"
      class="exhibit-image">
 
