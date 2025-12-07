@@ -67,8 +67,8 @@ This show predates English’s later well-known Popaganda work and hints at a le
 
 ## Sources & Archival Reference
 
-- Archive listing “Midtown Y Photography Gallery Records, 1972–1996” includes Ron English among the photographers exhibited in May–June 1988. :contentReference[oaicite:5]{index=5}  
-- General history and mission of Midtown Y Photography Gallery. :contentReference[oaicite:6]{index=6}  
+- [Midtown Y Photography Gallery Records, 1972–1996](https://archives.nypl.org/mss/4813)
+- Showcard (ephemera)  
 
 ---
 
