@@ -73,7 +73,8 @@ The exhibition took place at the **Frank M. Doyle Arts Pavilion** at Orange Coas
 ## Sources
 
 - HypeArt — Exhibition announcement  
-  https://hypeart.com/2010/10/ron-english-status-factory-exhibition-frank-doyle-arts-pavilion
+  [https://hypeart.com/2010/10/ron-english-status-factory-exhibition-frank-doyle-arts-pavilion](https://hypeart.com/2010/10/ron-english-status-factory-exhibition-frank-doyle-arts-pavilion)
+
 
 ---
 
