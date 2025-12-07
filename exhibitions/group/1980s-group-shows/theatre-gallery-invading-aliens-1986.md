@@ -46,7 +46,7 @@
 
 ### **Group / Collaborative Exhibition**
 
-<img src="../../images/Exhibitions/Group/invading-aliens copy.jpg"
+<img src="../../../images/Exhibitions/Group/invading-aliens copy.jpg"
      alt="Invading Aliens from the Beach at Theatre Gallery, Dallas, 1986"
      class="exhibit-image">
 
