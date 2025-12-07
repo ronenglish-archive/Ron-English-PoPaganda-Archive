@@ -60,13 +60,16 @@ Solo exhibition presenting Ron English’s **“English Translation Series”** 
 ## Sources
 
 - POPaganda — Exhibition announcement  
-  https://www.popaganda.com/news/archive-english-translation-series-opens-in-shenzhen-china  
+  [https://www.popaganda.com/news/archive-english-translation-series-opens-in-shenzhen-china](https://www.popaganda.com/news/archive-english-translation-series-opens-in-shenzhen-china)
+
 - Vinyl Pulse  
-  https://www.vinylpulse.com/2019/06/ron-english-english-translation-series-pop-life-global.html  
+  [https://www.vinylpulse.com/2019/06/ron-english-english-translation-series-pop-life-global.html](https://www.vinylpulse.com/2019/06/ron-english-english-translation-series-pop-life-global.html)
+
 - Vinyl Pulse — Recap  
-  https://www.vinylpulse.com/2019/06/ron-english-english-translation-series-opening-recap.html  
+  [https://www.vinylpulse.com/2019/06/ron-english-english-translation-series-opening-recap.html](https://www.vinylpulse.com/2019/06/ron-english-english-translation-series-opening-recap.html)
+
 - Vinyl Pulse — Opening  
-  https://www.vinylpulse.com/2019/06/the-opening-of-ron-englishs-english-translation-series-in-shenzhen.html
+  [https://www.vinylpulse.com/2019/06/the-opening-of-ron-englishs-english-translation-series-in-shenzhen.html](https://www.vinylpulse.com/2019/06/the-opening-of-ron-englishs-english-translation-series-in-shenzhen.html)
 
 ---
 
