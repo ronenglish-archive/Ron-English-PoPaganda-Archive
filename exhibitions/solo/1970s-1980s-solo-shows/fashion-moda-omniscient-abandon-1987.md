@@ -70,10 +70,10 @@ An after-show party for the exhibition was held at New York club **The World**, 
 
 - “OMNISCIENT ABANDON – Post-Art Environments by Ron English” (Fashion Moda exhibition text)
 - Archival showcard
-- After-show material (The World nightclub)
+
 
 ---
 
 ## Back to list  
 
-➡️ [Return to 1970s–1980s Solo Exhibitions](../1970s-1980s-solo-exhibitions.html#midtown-y-photography-gallery-ron-english-1988-row)
+➡️ [Return to 1970s–1980s Solo Exhibitions](../1970s-1980s-solo-exhibitions.html#fashion-moda-omniscient-abandon-1987-row)
