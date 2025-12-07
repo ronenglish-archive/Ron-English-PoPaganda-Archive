@@ -67,17 +67,22 @@ Ron English’s **first New Zealand solo exhibition** at Webb’s Auction House 
 ## Sources
 
 - Scoop  
-  https://www.scoop.co.nz/stories/CU1205/S00031/first-nz-exhibition-of-iconic-new-york-artist-ron-english.htm
+  [https://www.scoop.co.nz/stories/CU1205/S00031/first-nz-exhibition-of-iconic-new-york-artist-ron-english.htm](https://www.scoop.co.nz/stories/CU1205/S00031/first-nz-exhibition-of-iconic-new-york-artist-ron-english.htm)
+
 - Campaign Brief  
-  https://campaignbrief.co.nz/2012/04/05/semi-permanent-in-auckland-fro/
+  [https://campaignbrief.co.nz/2012/04/05/semi-permanent-in-auckland-fro/](https://campaignbrief.co.nz/2012/04/05/semi-permanent-in-auckland-fro/)
+
 - NZ Herald  
-  https://www.nzherald.co.nz/entertainment/art-gallery-listings-may-10/CF3N33IV4GVS4DAKTB2SJJTMJ4/
+  [https://www.nzherald.co.nz/entertainment/art-gallery-listings-may-10/CF3N33IV4GVS4DAKTB2SJJTMJ4/](https://www.nzherald.co.nz/entertainment/art-gallery-listings-may-10/CF3N33IV4GVS4DAKTB2SJJTMJ4/)
+
 - EventFinda (venue)  
-  https://www.eventfinda.co.nz/venue/webbs-auction-house-auckland-city-newmarket
+  [https://www.eventfinda.co.nz/venue/webbs-auction-house-auckland-city-newmarket](https://www.eventfinda.co.nz/venue/webbs-auction-house-auckland-city-newmarket)
+
 - Scoop PDF  
-  https://img.scoop.co.nz/media/pdfs/1204/SemiPermanent_Side_Events_2012.pdf
+  [https://img.scoop.co.nz/media/pdfs/1204/SemiPermanent_Side_Events_2012.pdf](https://img.scoop.co.nz/media/pdfs/1204/SemiPermanent_Side_Events_2012.pdf)
+
 - Chris Dennis Art  
-  https://chrisdennisart.blogspot.com/2012/12/ron-english-at-webbs-auction-house.html
+  [https://chrisdennisart.blogspot.com/2012/12/ron-english-at-webbs-auction-house.html](https://chrisdennisart.blogspot.com/2012/12/ron-english-at-webbs-auction-house.html)
 
 ---
 
