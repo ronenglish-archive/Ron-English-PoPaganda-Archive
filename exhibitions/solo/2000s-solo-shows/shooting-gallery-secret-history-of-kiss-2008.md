@@ -83,9 +83,6 @@ This exhibition strengthened English’s foothold in the West Coast Pop Surreali
 - ArtBusiness.com — Opening night review and event photos:  
   [https://www.artbusiness.com/1open/110108.html](https://www.artbusiness.com/1open/110108.html)
 
-- Raw Art Weblog tag archive (2008 material referencing the show):  
-  [https://www.rawartint.com/tag/ron-english/](https://www.rawartint.com/tag/ron-english/)
-
 ---
 
 ## Back to list  
