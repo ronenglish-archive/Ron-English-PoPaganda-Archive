@@ -74,13 +74,14 @@ Within Berman’s contemporary program, English’s work aligned with the galler
 ## Sources
 
 - Robert Berman Gallery Exhibition Archive (2006):  
-  http://www.robertbermangalleryarchive.com/robertbermangallery/exhibitions.htm  
+  [http://www.robertbermangalleryarchive.com/robertbermangallery/exhibitions.htm](http://www.robertbermangalleryarchive.com/robertbermangallery/exhibitions.htm)
 
 - Secondary archive of the same exhibition index:  
-  https://www.robertbermangalleryarchive.com/robertbermangallery/exhibitions/exhibitions.htm  
+  [https://www.robertbermangalleryarchive.com/robertbermangallery/exhibitions/exhibitions.htm](https://www.robertbermangalleryarchive.com/robertbermangallery/exhibitions/exhibitions.htm)
 
 - Skullbrain forum — community discussion and photos of *Ron English — New Works*:  
-  https://skullbrain.org/bb/index.php?threads/ron-english-new-works-pic-freakout-seriously-this-rules.5740/
+  [https://skullbrain.org/bb/index.php?threads/ron-english-new-works-pic-freakout-seriously-this-rules.5740/](https://skullbrain.org/bb/index.php?threads/ron-english-new-works-pic-freakout-seriously-this-rules.5740/)
+
 
 ---
 
