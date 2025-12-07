@@ -67,15 +67,19 @@ Solo museum exhibition at the **International Museum of Art & Science (IMAS)** e
 ## Sources
 
 - Glasstire — Exhibition listing:  
-  https://glasstire.com/events/2011/03/28/ron-english-you-are-not-here/
+  [https://glasstire.com/events/2011/03/28/ron-english-you-are-not-here/](https://glasstire.com/events/2011/03/28/ron-english-you-are-not-here/)
+
 - Joseph M. Bravo — CV reference:  
-  https://www.josephmbravo.com/resume-cv/
+  [https://www.josephmbravo.com/resume-cv/](https://www.josephmbravo.com/resume-cv/)
+
 - Texas Library Travel — museum visit overview:  
-  https://texaslibrarytravel.blogspot.com/2011/08/international-museum-of-arts-and.html
+  [https://texaslibrarytravel.blogspot.com/2011/08/international-museum-of-arts-and.html](https://texaslibrarytravel.blogspot.com/2011/08/international-museum-of-arts-and.html)
+
 - YouTube — video documentation:  
-  https://www.youtube.com/watch?v=T53UJjK9BI8
+  [https://www.youtube.com/watch?v=T53UJjK9BI8](https://www.youtube.com/watch?v=T53UJjK9BI8)
+
 - IMAS release (PDF)  
-  https://662126957de34dbcca7a-fdbcf82d3dfc08785157cf0d6fc8ed50.ssl.cf1.rackcdn.com/1108FOR.pdf
+  [https://662126957de34dbcca7a-fdbcf82d3dfc08785157cf0d6fc8ed50.ssl.cf1.rackcdn.com/1108FOR.pdf](https://662126957de34dbcca7a-fdbcf82d3dfc08785157cf0d6fc8ed50.ssl.cf1.rackcdn.com/1108FOR.pdf)
 
 ---
 
