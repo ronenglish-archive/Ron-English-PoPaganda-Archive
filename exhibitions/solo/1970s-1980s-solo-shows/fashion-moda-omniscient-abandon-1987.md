@@ -44,12 +44,16 @@
 # *Omniscient Abandon*  
 ### Fashion Moda, New York (1987–1988)
 
-### **Group Exhibition / Post-Art Environment**
-
-<img src="../../images/Exhibitions/Group/omniscient-abandon.jpg"
+<img src="../../../images/Exhibitions/Group/Omniscent-abandon-2.jpg"
      alt="Omniscient Abandon at Fashion Moda, NYC, 1987–1988"
      class="exhibit-image">
+     
+<img src="../../../images/Exhibitions/Group/Omniscent-abandon-1.jpg"
+     alt="Omniscient Abandon at Fashion Moda, NYC, 1987–1988"
+     class="exhibit-image">
+     
 
+     
 **Years:** 1987–1988  
 **Dates:** December 12, 1987 – January 15, 1988  
 **Venue:** Fashion Moda  
