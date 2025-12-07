@@ -70,13 +70,13 @@ The exhibition framed English as a figure operating somewhere between **Abbie Ho
 ## Sources
 
 - Graffiti / street art history archive (2004):  
-  https://ftp.icm.edu.pl/packages/graffiti.old/index/history2004.html  
+  [https://ftp.icm.edu.pl/packages/graffiti.old/index/history2004.html](https://ftp.icm.edu.pl/packages/graffiti.old/index/history2004.html)
 
 - AT149st — NYC culture & graffiti history:  
-  https://www.at149st.com/news2.html  
+  [https://www.at149st.com/news2.html](https://www.at149st.com/news2.html)
 
 - Pop International Galleries — Article on Marco (context for Marcoart Gallery and LES creative history):  
-  https://www.popinternational.com/single-post/2017/09/30/marco-a-lower-east-side-creative-legend-back-at-the-pop-gallery
+  [https://www.popinternational.com/single-post/2017/09/30/marco-a-lower-east-side-creative-legend-back-at-the-pop-gallery](https://www.popinternational.com/single-post/2017/09/30/marco-a-lower-east-side-creative-legend-back-at-the-pop-gallery)
 
 ---
 
