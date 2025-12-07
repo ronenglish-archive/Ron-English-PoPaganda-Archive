@@ -71,15 +71,20 @@ Focusing on **overconsumption**, marketing imagery and candy-coated mascots, *Su
 ## Sources
 
 - Dorothy Circus Gallery  
-  https://www.dorothycircusgallery.com/exhibitions/53-ron-english-sugar-high-dorothy-circus-rome-solo-show/works/
+  [https://www.dorothycircusgallery.com/exhibitions/53-ron-english-sugar-high-dorothy-circus-rome-solo-show/works/](https://www.dorothycircusgallery.com/exhibitions/53-ron-english-sugar-high-dorothy-circus-rome-solo-show/works/)
+
 - Meer  
-  https://www.meer.com/en/19511-ron-english-sugar-high
+  [https://www.meer.com/en/19511-ron-english-sugar-high](https://www.meer.com/en/19511-ron-english-sugar-high)
+
 - Hi-Fructose  
-  https://hifructose.com/2016/02/15/ron-englishs-sugar-high-exhibit-addresses-the-global-issue-of-overeating/
+  [https://hifructose.com/2016/02/15/ron-englishs-sugar-high-exhibit-addresses-the-global-issue-of-overeating/](https://hifructose.com/2016/02/15/ron-englishs-sugar-high-exhibit-addresses-the-global-issue-of-overeating/)
+
 - Exibart  
-  https://www.exibart.com/roma/fino-al-31-iii-2016-ron-english-sugar-high-dorothy-circus-gallery-roma/
+  [https://www.exibart.com/roma/fino-al-31-iii-2016-ron-english-sugar-high-dorothy-circus-gallery-roma/](https://www.exibart.com/roma/fino-al-31-iii-2016-ron-english-sugar-high-dorothy-circus-gallery-roma/)
+
 - Artribune  
-  https://www.artribune.com/mostre-evento-arte/ron-english-sugar-high/
+  [https://www.artribune.com/mostre-evento-arte/ron-english-sugar-high/](https://www.artribune.com/mostre-evento-arte/ron-english-sugar-high/)
+
 
 ---
 
