@@ -61,25 +61,25 @@ The exhibition included video elements, screenings, and POPaganda world-building
 ## Sources
 
 - Downtown Mesa (opening reception)  
-  https://downtownmesa.com/do/fall-2022-art-exhibit-opening-reception  
+  [https://downtownmesa.com/do/fall-2022-art-exhibit-opening-reception](https://downtownmesa.com/do/fall-2022-art-exhibit-opening-reception)
 
 - Downtown Mesa — Exhibition  
-  https://downtownmesa.com/do/living-in-delusionville-art-exhibit  
+  [https://downtownmesa.com/do/living-in-delusionville-art-exhibit](https://downtownmesa.com/do/living-in-delusionville-art-exhibit)
 
 - POPaganda  
-  https://www.popaganda.com/news/living-in-delusionville  
+  [https://www.popaganda.com/news/living-in-delusionville](https://www.popaganda.com/news/living-in-delusionville)
 
 - BoingBoing  
-  https://boingboing.net/2022/10/12/ron-english-exhibit-living-in-delusionville-at-mesa-arts-center.html  
+  [https://boingboing.net/2022/10/12/ron-english-exhibit-living-in-delusionville-at-mesa-arts-center.html](https://boingboing.net/2022/10/12/ron-english-exhibit-living-in-delusionville-at-mesa-arts-center.html)
 
 - Mesa Arts Center  
-  https://www.mesaartscenter.com/explore-and-connect  
+  [https://www.mesaartscenter.com/explore-and-connect](https://www.mesaartscenter.com/explore-and-connect)
 
 - MutualArt  
-  https://www.mutualart.com/Exhibition/Ron-English--Living-in-Delusionville/B5BB03A14556B806  
+  [https://www.mutualart.com/Exhibition/Ron-English--Living-in-Delusionville/B5BB03A14556B806](https://www.mutualart.com/Exhibition/Ron-English--Living-in-Delusionville/B5BB03A14556B806)
 
 - POPaganda — Film screening  
-  https://www.popaganda.com/news/film-screening-ofnbspliving-in-delusionville  
+  [https://www.popaganda.com/news/film-screening-ofnbspliving-in-delusionville](https://www.popaganda.com/news/film-screening-ofnbspliving-in-delusionville)
 
 ---
 
