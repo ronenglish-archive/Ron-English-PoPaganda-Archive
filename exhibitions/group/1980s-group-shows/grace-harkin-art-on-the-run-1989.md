@@ -36,7 +36,7 @@
 # *Art on the Run*  
 ### Grace Harkin Gallery, New York (1989)
 
-<img src="../../../images/Exhibitions/Group/ArtontheRun-GraceHarkin.tif"
+<img src="../../../images/Exhibitions/Group/ArtontheRun-GraceHarkin.jpg"
      alt="Art on the Run at Grace Harkin Gallery, New York, 1989"
      class="exhibit-image">
 
