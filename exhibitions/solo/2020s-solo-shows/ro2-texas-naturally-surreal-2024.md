@@ -59,13 +59,13 @@ Solo presentation at **Ro2 Art Gallery (Tin District)** highlighting English’s
 ## Sources
 
 - MutualArt — Exhibition Listing  
-  https://www.mutualart.com/Exhibition/Ron-English--Texas--Naturally-Surreal/32CDEA46925B958E  
+  [https://www.mutualart.com/Exhibition/Ron-English--Texas--Naturally-Surreal/32CDEA46925B958E](https://www.mutualart.com/Exhibition/Ron-English--Texas--Naturally-Surreal/32CDEA46925B958E)
 
 - MutualArt — Artist Page  
-  https://www.mutualart.com/Artist/Ron-English/D2860FD527C9F0B2/Biography  
+  [https://www.mutualart.com/Artist/Ron-English/D2860FD527C9F0B2/Biography](https://www.mutualart.com/Artist/Ron-English/D2860FD527C9F0B2/Biography)
 
 - Glasstire — “Surreal in Texas: Two Exhibitions in Dallas”  
-  https://glasstire.com/2024/06/21/surreal-in-texas-two-exhibitions-in-dallas/  
+  [https://glasstire.com/2024/06/21/surreal-in-texas-two-exhibitions-in-dallas/](https://glasstire.com/2024/06/21/surreal-in-texas-two-exhibitions-in-dallas/)
 
 ---
 
