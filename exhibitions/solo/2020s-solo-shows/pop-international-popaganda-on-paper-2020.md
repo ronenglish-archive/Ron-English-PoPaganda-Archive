@@ -62,13 +62,13 @@ Presented as part of Pop International’s virtual exhibition format, the show h
 ## Sources
 
 - Pop International — Exhibition page  
-  https://www.popinternational.com/single-post/2020/08/28/ron-english-popaganda-new-works-on-paper  
+  [https://www.popinternational.com/single-post/2020/08/28/ron-english-popaganda-new-works-on-paper](https://www.popinternational.com/single-post/2020/08/28/ron-english-popaganda-new-works-on-paper)
 
 - Street Art News — Virtual exhibition interview  
-  https://streetartnews.net/2020/09/ron-english-popaganda-on-paper-a-virtual-exhibition-interview-preview.html  
+  [https://streetartnews.net/2020/09/ron-english-popaganda-on-paper-a-virtual-exhibition-interview-preview.html](https://streetartnews.net/2020/09/ron-english-popaganda-on-paper-a-virtual-exhibition-interview-preview.html)
 
 - Artnet — Partner feature  
-  https://news.artnet.com/partner-content/ron-english-pop-international  
+  [https://news.artnet.com/partner-content/ron-english-pop-international](https://news.artnet.com/partner-content/ron-english-pop-international)
 
 ---
 
