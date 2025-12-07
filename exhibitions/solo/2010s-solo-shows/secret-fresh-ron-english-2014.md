@@ -120,13 +120,17 @@ Holiday-season exhibition featuring major **Delusionville-related** works, relea
 ## Sources
 
 - PhilStar  
-  https://www.philstar.com/lifestyle/arts-and-culture/2014/12/22/1404770/new-exhibits-and-designer-toys-secret-fresh
+  [https://www.philstar.com/lifestyle/arts-and-culture/2014/12/22/1404770/new-exhibits-and-designer-toys-secret-fresh](https://www.philstar.com/lifestyle/arts-and-culture/2014/12/22/1404770/new-exhibits-and-designer-toys-secret-fresh)
+
 - Arrested Motion  
-  https://arrestedmotion.com/2014/12/recap-ron-english-secret-fresh-manila/
+  [https://arrestedmotion.com/2014/12/recap-ron-english-secret-fresh-manila/](https://arrestedmotion.com/2014/12/recap-ron-english-secret-fresh-manila/)
+
 - ToysRevil  
-  https://toysrevil.blogspot.com/2014/12/ron-english-secret-fresh-opens-dec-21.html
+  [https://toysrevil.blogspot.com/2014/12/ron-english-secret-fresh-opens-dec-21.html](https://toysrevil.blogspot.com/2014/12/ron-english-secret-fresh-opens-dec-21.html)
+
 - PhilStar (Newsmakers)  
-  https://www.philstar.com/other-sections/newsmakers/2015/01/16/1413265/night-arts
+  [https://www.philstar.com/other-sections/newsmakers/2015/01/16/1413265/night-arts](https://www.philstar.com/other-sections/newsmakers/2015/01/16/1413265/night-arts)
+
 
 ---
 
