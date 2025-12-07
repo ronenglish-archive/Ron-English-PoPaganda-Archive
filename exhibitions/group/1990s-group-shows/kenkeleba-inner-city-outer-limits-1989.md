@@ -34,14 +34,18 @@
 
 
 # *Inner City Outer Limits*  
-### Kenkeleba Gallery, New York (1989)
+### Kenkeleba Gallery, New York (1991)
 
 <img src="../../../images/Exhibitions/Group/Outer-Limits.jpeg"
      alt="Inner City Outer Limits at Kenkeleba Gallery, New York, 1989"
      class="exhibit-image">
-
-**Year:** 1989  
-**Dates:** February – March 3, 1989  
+     
+<img src="../../../images/Exhibitions/Group/depressionists.jpg"
+     alt="Inner City Outer Limits at Kenkeleba Gallery, New York, 1989"
+     class="exhibit-image">
+     
+**Year:** 1991  
+**Dates:** February – March 3, 1991  
 **Venue:** Kenkeleba Gallery  
 **Location:** New York City, US  
 **Title:** *Inner City Outer Limits*
@@ -69,6 +73,7 @@ A companion postcard and contemporary archival listings confirm the exhibition t
 [https://gallery98.org/category/lady-pink-sandra-fabara/](https://gallery98.org/category/lady-pink-sandra-fabara/)
 
 [https://www.jeannoelherlin.com/product/recent-work-new-depressionists-kenkeleba-gallery-new-york-january-27-march-3-1991/](https://www.jeannoelherlin.com/product/recent-work-new-depressionists-kenkeleba-gallery-new-york-january-27-march-3-1991/)
+
 
 Showcard (ephemera)
 
