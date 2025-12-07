@@ -24,7 +24,11 @@
 <img src="../images/Exhibitions/Group/freedom-of-exp2.jpg"
      alt="Freedom of Expression II at Palace de Beauté, New York, 1990"
      class="exhibit-image">
-
+     
+<img src="../images/Exhibitions/Group/freedom-of-exp1.jpg"
+     alt="Freedom of Expression II at Palace de Beauté, New York, 1990"
+     class="exhibit-image">
+     
 **Year:** 1990  
 **Date:** July 6, 1990  
 **Venue:** Palace de Beauté  
