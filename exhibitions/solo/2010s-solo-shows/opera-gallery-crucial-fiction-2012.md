@@ -71,21 +71,29 @@
 ## Sources
 
 - Hypebeast  
-  https://hypebeast.com/2012/10/ron-english-crucial-fiction-exhibition-opera-gallery
+  [https://hypebeast.com/2012/10/ron-english-crucial-fiction-exhibition-opera-gallery](https://hypebeast.com/2012/10/ron-english-crucial-fiction-exhibition-opera-gallery)
+
 - Brooklyn Street Art  
-  https://www.brooklynstreetart.com/2012/10/24/opera-gallery-presents-ron-english-crucial-fiction-manhattan-nyc/
+  [https://www.brooklynstreetart.com/2012/10/24/opera-gallery-presents-ron-english-crucial-fiction-manhattan-nyc/](https://www.brooklynstreetart.com/2012/10/24/opera-gallery-presents-ron-english-crucial-fiction-manhattan-nyc/)
+
 - Artnet  
-  https://www.artnet.fr/galeries/galerie-jacob-paulett/artiste-ron-english
+  [https://www.artnet.fr/galeries/galerie-jacob-paulett/artiste-ron-english](https://www.artnet.fr/galeries/galerie-jacob-paulett/artiste-ron-english)
+
 - Brooklyn Street Art (tag)  
-  https://www.brooklynstreetart.com/tag/opera-gallery/
+  [https://www.brooklynstreetart.com/tag/opera-gallery/](https://www.brooklynstreetart.com/tag/opera-gallery/)
+
 - Kidrobot  
-  https://www.kidrobot.com/blogs/news/ron-english-crucial-fiction-at-opera-gallery
+  [https://www.kidrobot.com/blogs/news/ron-english-crucial-fiction-at-opera-gallery](https://www.kidrobot.com/blogs/news/ron-english-crucial-fiction-at-opera-gallery)
+
 - Laughing Squid  
-  https://laughingsquid.com/crucial-fiction-ron-english-solo-art-exhibition/
+  [https://laughingsquid.com/crucial-fiction-ron-english-solo-art-exhibition/](https://laughingsquid.com/crucial-fiction-ron-english-solo-art-exhibition/)
+
 - FAD Magazine  
-  https://fadmagazine.com/2012/11/09/gosee-ron-english-crucial-fiction-at-opera-gallery-nyc/
+  [https://fadmagazine.com/2012/11/09/gosee-ron-english-crucial-fiction-at-opera-gallery-nyc/](https://fadmagazine.com/2012/11/09/gosee-ron-english-crucial-fiction-at-opera-gallery-nyc/)
+
 - Brooklyn Street Art (duplicate coverage)  
-  https://www.brooklynstreetart.com/2012/10/31/opera-gallery-presents-ron-english-crucial-fiction-manhattan-nyc/
+  [https://www.brooklynstreetart.com/2012/10/31/opera-gallery-presents-ron-english-crucial-fiction-manhattan-nyc/](https://www.brooklynstreetart.com/2012/10/31/opera-gallery-presents-ron-english-crucial-fiction-manhattan-nyc/)
+
 
 ---
 
