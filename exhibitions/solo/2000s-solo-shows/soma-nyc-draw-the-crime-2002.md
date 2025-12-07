@@ -76,7 +76,8 @@ The show opened on **October 3** with a 7–11 pm reception and presented a body
 ## Sources
 
 - Graffiti / street art history listing (2002 archive, includes *Draw the Crime – The Subversions of Ron English* at Soma NYC):  
-  https://ftp.icm.edu.pl/packages/graffiti.old/index/history2002.html  
+  [https://ftp.icm.edu.pl/packages/graffiti.old/index/history2002.html](https://ftp.icm.edu.pl/packages/graffiti.old/index/history2002.html)
+
 
 ---
 
