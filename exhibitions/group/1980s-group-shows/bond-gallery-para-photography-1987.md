@@ -46,11 +46,15 @@
 
 ### **Seven-artist mixed-media photography exhibition**
 
-<img src="../../images/Exhibitions/Group/Para-photography-1 copy.jpg"
+<img src="../../../images/Exhibitions/Group/Para-photography-1 copy.jpg"
      alt="Para Photography at Bond Gallery, New York, 1987"
      class="exhibit-image">
      
-<img src="../../images/Exhibitions/Group/Para-photography-2 copy.jpg"
+<img src="../../../images/Exhibitions/Group/Para-photography-2 copy.jpg"
+     alt="Para Photography at Bond Gallery, New York, 1987"
+     class="exhibit-image">
+
+<img src="../../../images/Exhibitions/Group/simon.jpg"
      alt="Para Photography at Bond Gallery, New York, 1987"
      class="exhibit-image">
      
