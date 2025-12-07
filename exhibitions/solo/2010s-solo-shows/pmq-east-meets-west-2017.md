@@ -63,15 +63,19 @@ Hong Kong solo exhibition at **The Qube, PMQ**, presenting POPaganda billboards,
 ## Sources
 
 - PMQ  
-  https://www.pmq.org.hk/event/east-meets-west-solo-exhibition-by-ron-english/
+  [https://www.pmq.org.hk/event/east-meets-west-solo-exhibition-by-ron-english/](https://www.pmq.org.hk/event/east-meets-west-solo-exhibition-by-ron-english/)
+
 - Hypebeast  
-  https://hypebeast.com/2017/5/ron-english-east-meets-west-interview
+  [https://hypebeast.com/2017/5/ron-english-east-meets-west-interview](https://hypebeast.com/2017/5/ron-english-east-meets-west-interview)
+
 - GPen  
-  https://gpen.com/blogs/news/ron-english-pop-up-on-melrose
+  [https://gpen.com/blogs/news/ron-english-pop-up-on-melrose](https://gpen.com/blogs/news/ron-english-pop-up-on-melrose)
+
 - Tatler Asia  
-  https://www.tatlerasia.com/lifestyle/arts/top-5-art-exhibitions-in-hong-kong-this-may
+  [https://www.tatlerasia.com/lifestyle/arts/top-5-art-exhibitions-in-hong-kong-this-may](https://www.tatlerasia.com/lifestyle/arts/top-5-art-exhibitions-in-hong-kong-this-may)
+
 - Hypebeast  
-  https://hypebeast.com/2017/5/ron-english-east-meets-west-exhibit-merchandise
+  [https://hypebeast.com/2017/5/ron-english-east-meets-west-exhibit-merchandise](https://hypebeast.com/2017/5/ron-english-east-meets-west-exhibit-merchandise)
 
 ---
 
