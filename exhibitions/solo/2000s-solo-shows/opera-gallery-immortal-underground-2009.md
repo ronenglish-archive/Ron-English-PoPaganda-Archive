@@ -72,16 +72,16 @@ Press coverage highlighted the dramatic presentation and strong attendance at th
 ## Sources
 
 - TrendHunter — *Ron English “Immortal Underground” subversive art exhibition*:  
-  https://www.trendhunter.com/trends/ron-english-immortal-underground
+  [https://www.trendhunter.com/trends/ron-english-immortal-underground](https://www.trendhunter.com/trends/ron-english-immortal-underground)
 
 - Arrested Motion — Opening night coverage:  
-  https://arrestedmotion.com/2009/11/openings-ron-english-immortal-underground-opera-gallery/
+  [https://arrestedmotion.com/2009/11/openings-ron-english-immortal-underground-opera-gallery/](https://arrestedmotion.com/2009/11/openings-ron-english-immortal-underground-opera-gallery/)
 
 - Getty Images (via Patrick McMullan) — Event photographs from opening night:  
-  https://www.gettyimages.ca/detail/news-photo/atmosphere-at-immortal-underground-by-ron-english-at-opera-news-photo/659838190
+  [https://www.gettyimages.ca/detail/news-photo/atmosphere-at-immortal-underground-by-ron-english-at-opera-news-photo/659838190](https://www.gettyimages.ca/detail/news-photo/atmosphere-at-immortal-underground-by-ron-english-at-opera-news-photo/659838190)
 
 - Patrick McMullan — Search results showing coverage of the event and attendees:  
-  https://www.patrickmcmullan.com/search/?q=ron%20english
+  [https://www.patrickmcmullan.com/search/?q=ron%20english](https://www.patrickmcmullan.com/search/?q=ron%20english)
 
 ---
 
