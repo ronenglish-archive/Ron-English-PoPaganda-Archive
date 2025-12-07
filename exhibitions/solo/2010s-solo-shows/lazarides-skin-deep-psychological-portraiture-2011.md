@@ -67,13 +67,17 @@ Exhibition of **skull-portrait hybrids** exploring psychological portraiture and
 ## Sources
 
 - Vandalog  
-  https://blog.vandalog.com/2011/06/12/ron-english-and-everfresh/
+  [https://blog.vandalog.com/2011/06/12/ron-english-and-everfresh/](https://blog.vandalog.com/2011/06/12/ron-english-and-everfresh/)
+
 - Arrested Motion  
-  https://arrestedmotion.com/category/low-brow/page/256/
+  [https://arrestedmotion.com/category/low-brow/page/256/](https://arrestedmotion.com/category/low-brow/page/256/)
+
 - My Collection Hub  
-  https://www.mycollectionhub.com/artwork/5631
+  [https://www.mycollectionhub.com/artwork/5631](https://www.mycollectionhub.com/artwork/5631)
+
 - Artnet  
-  https://www.artnet.fr/galeries/galerie-jacob-paulett/artiste-ron-english
+  [https://www.artnet.fr/galeries/galerie-jacob-paulett/artiste-ron-english](https://www.artnet.fr/galeries/galerie-jacob-paulett/artiste-ron-english)
+
 
 ---
 
