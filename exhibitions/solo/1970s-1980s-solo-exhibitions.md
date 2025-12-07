@@ -61,6 +61,6 @@
 | <a href="1970s-1980s-solo-shows/fotogalerie-prinsengracht-356-1988.html"><img src="../../images/Exhibitions/Solo/fotogalerie-Amsterdam-1988-1.jpg" alt="Ron English solo exhibition, Fotogalerie Prinsengracht 356, 1988" class="mural-thumb"></a> | <a id="fotogalerie-prinsengracht-356-1988-row"></a>1988 | 11 August – 3 September 1988 | Fotogalerie Prinsengracht 356 | *Ron English* |
 | <span id="midtown-y-photography-gallery-ron-english-1988-row"></span><a href="1970s-1980s-solo-shows/midtown-y-photography-gallery-ron-english-1988.html"><img src="../../images/Exhibitions/Solo/Midtown-Y-Photo copy.jpg" alt="Photographs by Ron English at The Midtown Y Photography Gallery, New York, 1988" class="mural-thumb"></a> | 1988 | May 19 – June 26, 1988 | The Midtown Y Photography Gallery | *Photographs by Ron English* |
 | <a href="1970s-1980s-solo-shows/ok-harris-ron-english-1989.html"><img src="../../images/Exhibitions/Solo/trompe-l'oeil-ok-harris-1989-1.jpg" alt="Ron English solo exhibition, OK Harris Works of Art, 1989" class="mural-thumb"></a> | <a id="ok-harris-ron-english-1989-row"></a>1989 | March 4–25, 1989 | OK Harris Works of Art | *Ron English* |
-| <span id="fashion-moda-omniscient-abandon-1987-row"></span><a href="1980s-group-exhibitions/fashion-moda-omniscient-abandon-1987.html"><img src="../../images/Exhibitions/Group/Omniscent-abandon-2.jpg" alt="Omniscient Abandon at Fashion Moda, NYC, 1987–1988" class="mural-thumb"></a> | 1987–1988 | December 12, 1987 – January 15, 1988 | Fashion Moda | *Omniscient Abandon* |
+
 
 
