@@ -80,19 +80,22 @@
 Opening exhibition for Corey Helford Gallery’s new downtown Los Angeles space, unveiling English’s **“NeoNature”** universe: hybrid species, evolutionary mutations, and allegorical animal identities functioning as pop-parable about environmental future and human intervention.
 
 ---
-
 ## Sources
 
 - Mutual Art  
-  https://www.mutualart.com/Exhibition/Ron-English--NeoNature/19AAB4E70E0CF6EF
+  [https://www.mutualart.com/Exhibition/Ron-English--NeoNature/19AAB4E70E0CF6EF](https://www.mutualart.com/Exhibition/Ron-English--NeoNature/19AAB4E70E0CF6EF)
+
 - Corey Helford  
-  https://coreyhelfordgallery.com/shows/ron-english/info-press/
+  [https://coreyhelfordgallery.com/shows/ron-english/info-press/](https://coreyhelfordgallery.com/shows/ron-english/info-press/)
+
 - Corey Helford Shows index  
-  https://coreyhelfordgallery.com/shows/
+  [https://coreyhelfordgallery.com/shows/](https://coreyhelfordgallery.com/shows/)
+
 - Hypebeast  
-  https://hypebeast.com/2015/12/ron-english-neonature-corey-helford-gallery
+  [https://hypebeast.com/2015/12/ron-english-neonature-corey-helford-gallery](https://hypebeast.com/2015/12/ron-english-neonature-corey-helford-gallery)
+
 - Hi-Fructose  
-  https://hifructose.com/2015/12/10/ron-englishs-neonature-opens-at-corey-helford-gallery/
+  [https://hifructose.com/2015/12/10/ron-englishs-neonature-opens-at-corey-helford-gallery/](https://hifructose.com/2015/12/10/ron-englishs-neonature-opens-at-corey-helford-gallery/)
 
 ---
 
