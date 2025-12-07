@@ -66,9 +66,7 @@ The release attracted interest as part of the cultural conversation around the 2
 
 ## Sources
 
-- Ron English’s “Abama” original at Opera Gallery — preview & event details (Arrested Motion) :contentReference[oaicite:2]{index=2}  
-- Artwork reference “Abraham Obama” (2008) — listing + details (Collecteurs) :contentReference[oaicite:3]{index=3}  
-- Context & cultural impact of “Abraham Obama” — coverage of the work and its political/pop-culture resonance (Today in Art) :contentReference[oaicite:4]{index=4}
+- Showcard (ephemeraO
 
 ---
 
