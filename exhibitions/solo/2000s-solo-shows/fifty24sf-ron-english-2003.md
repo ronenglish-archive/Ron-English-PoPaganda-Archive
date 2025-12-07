@@ -121,14 +121,13 @@ The material featured in the FIFTY24SF archive points to English’s remixes of 
      class="exhibit-image">
 
    
-     
 ## Sources
 
 - FIFTY24SF Gallery — Archived exhibitions featuring Ron English:  
-  https://www.fifty24sf.com/archive?category=RON+ENGLISH  
+  [https://www.fifty24sf.com/archive?category=RON+ENGLISH](https://www.fifty24sf.com/archive?category=RON+ENGLISH)
 
 - FIFTY24SF Gallery — Exhibitions Archive:  
-  https://www.fifty24sf.com/
+  [https://www.fifty24sf.com/](https://www.fifty24sf.com/)
 
 ---
 
