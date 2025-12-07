@@ -68,57 +68,6 @@ The material featured in the FIFTY24SF archive points to English’s remixes of 
      alt="Ron English — FIFTY24SF Gallery Solo Exhibition, 2003"
      class="exhibit-image">
      
- <img src="../../../images/Exhibitions/Solo/fifty24sf-ron-english-2003-3.webp"
-     alt="Ron English — FIFTY24SF Gallery Solo Exhibition, 2003"
-     class="exhibit-image">
-
-<img src="../../../images/Exhibitions/Solo/fifty24sf-ron-english-2003-4.webp"
-     alt="Ron English — FIFTY24SF Gallery Solo Exhibition, 2003"
-     class="exhibit-image">
-     
- <img src="../../../images/Exhibitions/Solo/fifty24sf-ron-english-2003-5.webp"
-     alt="Ron English — FIFTY24SF Gallery Solo Exhibition, 2003"
-     class="exhibit-image">
-
-<img src="../../../images/Exhibitions/Solo/fifty24sf-ron-english-2003-6.webp"
-     alt="Ron English — FIFTY24SF Gallery Solo Exhibition, 2003"
-     class="exhibit-image">
-     
- <img src="../../../images/Exhibitions/Solo/fifty24sf-ron-english-2003-7.webp"
-     alt="Ron English — FIFTY24SF Gallery Solo Exhibition, 2003"
-     class="exhibit-image">
-
-<img src="../../../images/Exhibitions/Solo/fifty24sf-ron-english-2003-8.webp"
-     alt="Ron English — FIFTY24SF Gallery Solo Exhibition, 2003"
-     class="exhibit-image">
-     
- <img src="../../../images/Exhibitions/Solo/fifty24sf-ron-english-2003-9.webp"
-     alt="Ron English — FIFTY24SF Gallery Solo Exhibition, 2003"
-     class="exhibit-image">
-
-<img src="../../../images/Exhibitions/Solo/fifty24sf-ron-english-2003-10.webp"
-     alt="Ron English — FIFTY24SF Gallery Solo Exhibition, 2003"
-     class="exhibit-image">
-     
- <img src="../../../images/Exhibitions/Solo/fifty24sf-ron-english-2003-11.webp"
-     alt="Ron English — FIFTY24SF Gallery Solo Exhibition, 2003"
-     class="exhibit-image">
-
-<img src="../../../images/Exhibitions/Solo/fifty24sf-ron-english-2003-12.webp"
-     alt="Ron English — FIFTY24SF Gallery Solo Exhibition, 2003"
-     class="exhibit-image">
-     
- <img src="../../../images/Exhibitions/Solo/fifty24sf-ron-english-2003-13.webp"
-     alt="Ron English — FIFTY24SF Gallery Solo Exhibition, 2003"
-     class="exhibit-image">
-
-<img src="../../../images/Exhibitions/Solo/fifty24sf-ron-english-2003-14.webp"
-     alt="Ron English — FIFTY24SF Gallery Solo Exhibition, 2003"
-     class="exhibit-image">
-     
- <img src="../../../images/Exhibitions/Solo/fifty24sf-ron-english-2003-15.webp"
-     alt="Ron English — FIFTY24SF Gallery Solo Exhibition, 2003"
-     class="exhibit-image">
 
    
 ## Sources
