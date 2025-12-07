@@ -67,15 +67,20 @@ At **X on Main**, English unveiled **his first new photographic series in 25 yea
 ## Sources
 
 - Vandalog  
-  https://blog.vandalog.com/2013/06/ron-english-extravaganza-in-beacon-ny/
+  [https://blog.vandalog.com/2013/06/ron-english-extravaganza-in-beacon-ny/](https://blog.vandalog.com/2013/06/ron-english-extravaganza-in-beacon-ny/)
+
 - Record Online  
-  https://recordonline.com
+  [https://recordonline.com](https://recordonline.com)
+
 - X on Main  
-  https://www.xonmain.com
+  [https://www.xonmain.com](https://www.xonmain.com)
+
 - Record Online calendar  
-  https://www.recordonline.com/story/entertainment/local/2013/06/13/go-arts-entertainment-calendars-june/45722573007/
+  [https://www.recordonline.com/story/entertainment/local/2013/06/13/go-arts-entertainment-calendars-june/45722573007/](https://www.recordonline.com/story/entertainment/local/2013/06/13/go-arts-entertainment-calendars-june/45722573007/)
+
 - Facebook  
-  https://www.facebook.com/xonmainbeacon/
+  [https://www.facebook.com/xonmainbeacon/](https://www.facebook.com/xonmainbeacon/)
+
 
 ---
 
