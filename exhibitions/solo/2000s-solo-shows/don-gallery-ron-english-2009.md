@@ -69,16 +69,17 @@ Coverage emphasized the way English’s work translated into the Italian contemp
 ## Sources
 
 - Hypebeast — *Ron English @ The Don Gallery – First Solo Show in Italy*:  
-  https://hypebeast.com/2009/7/ron-english-the-don-gallery-first-solo-show-in-italy  
+  [https://hypebeast.com/2009/7/ron-english-the-don-gallery-first-solo-show-in-italy](https://hypebeast.com/2009/7/ron-english-the-don-gallery-first-solo-show-in-italy)
 
 - Hypebeast — *Ron English Exhibition @ The Don Gallery Milan*:  
-  https://hypebeast.com/2009/6/ron-english-exhibition-the-don-gallery-milan  
+  [https://hypebeast.com/2009/6/ron-english-exhibition-the-don-gallery-milan](https://hypebeast.com/2009/6/ron-english-exhibition-the-don-gallery-milan)
 
 - Arrested Motion — *Highlights: Recommended Openings for This Weekend* (includes The Don Gallery show):  
-  https://arrestedmotion.com/2009/07/highlights-recommended-openings-for-this-weekend/  
+  [https://arrestedmotion.com/2009/07/highlights-recommended-openings-for-this-weekend/](https://arrestedmotion.com/2009/07/highlights-recommended-openings-for-this-weekend/)
 
 - Artchival forum — *Ron English @ The Don Gallery – Milan (7/9/09)*:  
-  https://artchival.proboards.com/thread/2312  
+  [https://artchival.proboards.com/thread/2312](https://artchival.proboards.com/thread/2312)
+
 
 ---
 
