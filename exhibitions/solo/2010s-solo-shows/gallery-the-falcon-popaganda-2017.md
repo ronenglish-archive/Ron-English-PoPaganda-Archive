@@ -60,11 +60,13 @@ Exhibition featuring framed photos and **circus-style POPaganda banners** from *
 ## Sources
 
 - WRRV / The Falcon  
-  https://wrrv.com/events-poughkeepsie/marlboro-gallerythefalcon-reception-ron-englishs-popaganda/06-january-2018-the-falcon/
+  [https://wrrv.com/events-poughkeepsie/marlboro-gallerythefalcon-reception-ron-englishs-popaganda/06-january-2018-the-falcon/](https://wrrv.com/events-poughkeepsie/marlboro-gallerythefalcon-reception-ron-englishs-popaganda/06-january-2018-the-falcon/)
+
 - Record Online  
-  https://www.recordonline.com/story/entertainment/local/2018/01/25/exhibits-amp-galleries/15784597007/
+  [https://www.recordonline.com/story/entertainment/local/2018/01/25/exhibits-amp-galleries/15784597007/](https://www.recordonline.com/story/entertainment/local/2018/01/25/exhibits-amp-galleries/15784597007/)
+
 - Record Online (preview)  
-  https://www.recordonline.com/story/entertainment/local/2017/10/26/bars-amp-clubs/17932334007/
+  [https://www.recordonline.com/story/entertainment/local/2017/10/26/bars-amp-clubs/17932334007/](https://www.recordonline.com/story/entertainment/local/2017/10/26/bars-amp-clubs/17932334007/)
 
 ---
 
