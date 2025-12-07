@@ -59,19 +59,19 @@ Solo exhibition at Allouche Gallery in Los Angeles presenting new paintings and 
 ## Sources
 
 - Allouche Gallery — Exhibition  
-  https://www.allouchegallery.com/exhibition/ron-english/
+  [https://www.allouchegallery.com/exhibition/ron-english/](https://www.allouchegallery.com/exhibition/ron-english/)
 
 - Artillery Magazine — Event  
-  https://artillerymag.com/events/translations-ron-english/
+  [https://artillerymag.com/events/translations-ron-english/](https://artillerymag.com/events/translations-ron-english/)
 
 - Artsy — Exhibition Page  
-  https://www.artsy.net/show/allouche-gallery-translations  
+  [https://www.artsy.net/show/allouche-gallery-translations](https://www.artsy.net/show/allouche-gallery-translations)
 
 - Artsy — Info  
-  https://www.artsy.net/show/allouche-gallery-translations/info  
+  [https://www.artsy.net/show/allouche-gallery-translations/info](https://www.artsy.net/show/allouche-gallery-translations/info)
 
 - MutualArt — Artist Page  
-  https://www.mutualart.com/Artist/Ron-English/D2860FD527C9F0B2/Biography  
+  [https://www.mutualart.com/Artist/Ron-English/D2860FD527C9F0B2/Biography](https://www.mutualart.com/Artist/Ron-English/D2860FD527C9F0B2/Biography)
 
 ---
 
