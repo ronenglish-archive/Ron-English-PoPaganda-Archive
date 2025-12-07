@@ -77,19 +77,19 @@ This multi-city tour underscored English’s international reach and cultivated 
 ## Sources
 
 - Vinyl Pulse — Announcement of POPaganda Asia Tour launch:  
-  https://www.vinylpulse.com/2008/12/ron-englishs-popaganda-asia-tour.html  
+  [https://www.vinylpulse.com/2008/12/ron-englishs-popaganda-asia-tour.html](https://www.vinylpulse.com/2008/12/ron-englishs-popaganda-asia-tour.html)
 
 - Business Traveller — Coverage of the Hong Kong opening:  
-  https://www.businesstraveller.com/news/2009/01/12/a-show-to-tickle-pop-art-enthusiasts/  
+  [https://www.businesstraveller.com/news/2009/01/12/a-show-to-tickle-pop-art-enthusiasts/](https://www.businesstraveller.com/news/2009/01/12/a-show-to-tickle-pop-art-enthusiasts/)
 
 - Vinyl Pulse — Manila stop coverage (*Abraham Obama* feature):  
-  https://www.vinylpulse.com/2009/01/ron-englishs-abraham-obama-fresh-0110.html  
+  [https://www.vinylpulse.com/2009/01/ron-englishs-abraham-obama-fresh-0110.html](https://www.vinylpulse.com/2009/01/ron-englishs-abraham-obama-fresh-0110.html)
 
 - YouTube — POPaganda Asia Tour Opening at Delay No Mall:  
-  https://www.youtube.com/watch?v=FjKmGNcqaNM  
+  [https://www.youtube.com/watch?v=FjKmGNcqaNM](https://www.youtube.com/watch?v=FjKmGNcqaNM)
 
 - Trampt — *MC Supersized Camo (Shanghai edition)*:  
-  https://www.trampt.com/item/mc-supersized-camo-shanghai-ron-english-mc-supersized-Yex7sg1rlAA1jX  
+  [https://www.trampt.com/item/mc-supersized-camo-shanghai-ron-english-mc-supersized-Yex7sg1rlAA1jX](https://www.trampt.com/item/mc-supersized-camo-shanghai-ron-english-mc-supersized-Yex7sg1rlAA1jX)
 
 ---
 
