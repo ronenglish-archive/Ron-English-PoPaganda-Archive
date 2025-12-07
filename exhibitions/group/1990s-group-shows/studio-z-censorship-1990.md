@@ -21,11 +21,11 @@
 # *Censorship*  
 ### Studio Z hair salon, Hoboken (1990)
 
-<img src="../images/Exhibitions/Group/censorship 1.jpg"
+<img src="../../../images/Exhibitions/Group/censorship 1.jpg"
      alt="Censorship at Studio Z, Hoboken, 1990"
      class="exhibit-image">
      
-<img src="../images/Exhibitions/Group/censorship 2.jpg"
+<img src="../../../images/Exhibitions/Group/censorship 2.jpg"
      alt="Censorship at Studio Z, Hoboken, 1990"
      class="exhibit-image">
      
