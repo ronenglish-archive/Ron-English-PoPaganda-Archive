@@ -65,17 +65,18 @@ Presented as a conceptual “record store,” the project installed vinyl artwor
 ## Sources
 
 - Ethan Cohen Fine Arts  
-  https://www.ecfa.com/exhibitions/113-public-pool-presents-vinyl-chord-a-revolutionary-record-brooklyn-ny/  
+  [https://www.ecfa.com/exhibitions/113-public-pool-presents-vinyl-chord-a-revolutionary-record-brooklyn-ny/](https://www.ecfa.com/exhibitions/113-public-pool-presents-vinyl-chord-a-revolutionary-record-brooklyn-ny/)
 
 - Public Pool  
-  https://www.publicpool.nyc/vinyl-chord-a-revolutionary-record-store  
-  https://www.publicpool.nyc/exhibitions  
+  [https://www.publicpool.nyc/vinyl-chord-a-revolutionary-record-store](https://www.publicpool.nyc/vinyl-chord-a-revolutionary-record-store)  
+  [https://www.publicpool.nyc/exhibitions](https://www.publicpool.nyc/exhibitions)
 
 - Artforum ArtGuide  
-  https://artguide.artforum.com/artguide/public-pool-23483/vinyl-chord-a-revolutionary-record-store-222519  
+  [https://artguide.artforum.com/artguide/public-pool-23483/vinyl-chord-a-revolutionary-record-store-222519](https://artguide.artforum.com/artguide/public-pool-23483/vinyl-chord-a-revolutionary-record-store-222519)
 
 - StreetArtNews  
-  https://streetartnews.net/2023/09/coverage-ron-english-presents-vinyl-chord-a-revolutionary-record-store-at-public-pool-gallery-brooklyn-nyc.html  
+  [https://streetartnews.net/2023/09/coverage-ron-english-presents-vinyl-chord-a-revolutionary-record-store-at-public-pool-gallery-brooklyn-nyc.html](https://streetartnews.net/2023/09/coverage-ron-english-presents-vinyl-chord-a-revolutionary-record-store-at-public-pool-gallery-brooklyn-nyc.html)
+
 
 ---
 
