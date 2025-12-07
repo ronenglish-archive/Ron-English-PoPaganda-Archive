@@ -52,8 +52,7 @@ The building at 142 West 26th Street is a pre-war Chelsea loft structure dating 
 ## Sources
 
 - Invitation card: *Sheer Magniloquent Pas* (grand opening of Sheer Magniloquent Pas, the evening art space in Chelsea, featuring the art of Ron English, New Year’s Eve, Dec. 31, 6:30–9:00 p.m., Sheer Magniloquent Pas Gallery, 142 W. 26th St, New York City; card crediting Baird Jones and listing phone number SMP 212-929-2010).  
-- Building context: 142 W. 26th Street, Chelsea, New York City (pre-war loft building used for residential and creative spaces).  
-- Biographical context: Baird Jones, New York nightlife and art-show promoter active from the early 1980s until his death in 2008.
+
 
 
 ➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#<anchor-id-for-this-row>)
