@@ -46,11 +46,11 @@
 
 ### **“The Ghosts of Kostabi” — studio assistants exhibition organized by Ron English**
 
-<img src="../../images/Exhibitions/Group/Ghosts-of-Kostabi.jpg"
+<img src="../../../images/Exhibitions/Group/Ghosts-of-Kostabi.jpg"
      alt="Staff Infection at Tunnel Gallery, New York, 1988"
      class="exhibit-image">
      
-<img src="../../images/Exhibitions/Group/Ghosts-of-Kostabi-2 copy.jpg"
+<img src="../../../images/Exhibitions/Group/Ghosts-of-Kostabi-2 copy.jpg"
      alt="Staff Infection at Tunnel Gallery, New York, 1988"
      class="exhibit-image">
      
