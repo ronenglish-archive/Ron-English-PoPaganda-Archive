@@ -48,7 +48,7 @@
      alt="2042: Art at the Speed of Life at Limelight, New York, 1988"
      class="exhibit-image">
      
-<img src="../../../images/Exhibitions/Group/Art-at-the-Speed-of-Life-1"
+<img src="../../../images/Exhibitions/Group/Art-at-the-Speed-of-Life-1.jpg"
      alt="2042: Art at the Speed of Life at Limelight, New York, 1988"
      class="exhibit-image">
      
