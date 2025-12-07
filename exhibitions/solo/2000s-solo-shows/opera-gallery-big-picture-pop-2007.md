@@ -73,16 +73,16 @@ The exhibition ran through late December and aligned English with a global roste
 ## Sources
 
 - Laughing Squid — *Ron English at Opera Gallery in NYC*:  
-  https://laughingsquid.com/ron-english-at-opera-gallery-in-nyc/  
+  [https://laughingsquid.com/ron-english-at-opera-gallery-in-nyc/](https://laughingsquid.com/ron-english-at-opera-gallery-in-nyc/)
 
 - Hypebeast — coverage of *Big Picture Pop*:  
-  https://hypebeast.com/2007/12/ubiq-presern  
+  [https://hypebeast.com/2007/12/ubiq-presern](https://hypebeast.com/2007/12/ubiq-presern)
 
 - Kayos Productions — artist/production clients list referencing the show:  
-  https://www.kayosproductions.com/clients  
+  [https://www.kayosproductions.com/clients](https://www.kayosproductions.com/clients)
 
 - Artnet — Ron English exhibition history:  
-  https://www.artnet.fr/galeries/galerie-jacob-paulett/artiste-ron-english/
+  [https://www.artnet.fr/galeries/galerie-jacob-paulett/artiste-ron-english/](https://www.artnet.fr/galeries/galerie-jacob-paulett/artiste-ron-english/)
 
 ---
 
