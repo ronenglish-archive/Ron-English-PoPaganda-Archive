@@ -67,13 +67,17 @@ Original **drawings, studies, and toy-related process material**, focusing on th
 ## Sources
 
 - Vandalog  
-  https://blog.vandalog.com/2013/06/ron-english-extravaganza-in-beacon-ny/
+  [https://blog.vandalog.com/2013/06/ron-english-extravaganza-in-beacon-ny/](https://blog.vandalog.com/2013/06/ron-english-extravaganza-in-beacon-ny/)
+
 - Clutter Magazine  
-  https://www.cluttermagazine.com/news/2013/05/ron-english-presents-thought-factory-coming-clutter-gallery-june
+  [https://www.cluttermagazine.com/news/2013/05/ron-english-presents-thought-factory-coming-clutter-gallery-june](https://www.cluttermagazine.com/news/2013/05/ron-english-presents-thought-factory-coming-clutter-gallery-june)
+
 - Vinyl Pulse  
-  https://www.vinylpulse.com/2013/06/ron-english-thought-factory-68.html
+  [https://www.vinylpulse.com/2013/06/ron-english-thought-factory-68.html](https://www.vinylpulse.com/2013/06/ron-english-thought-factory-68.html)
+
 - Clutter Magazine shop  
-  https://www.cluttermagazine.com/shop/product/heart-skull-one-transparent-blue
+  [https://www.cluttermagazine.com/shop/product/heart-skull-one-transparent-blue](https://www.cluttermagazine.com/shop/product/heart-skull-one-transparent-blue)
+
 
 ---
 
