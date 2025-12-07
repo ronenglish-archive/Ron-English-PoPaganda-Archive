@@ -80,11 +80,14 @@ Solo exhibition in Allouche Gallery’s Meatpacking District space featuring eig
 ## Sources
 
 - Allouche Gallery  
-  https://www.allouchegallery.com/exhibition/ron-english-guernica/
+  [https://www.allouchegallery.com/exhibition/ron-english-guernica/](https://www.allouchegallery.com/exhibition/ron-english-guernica/)
+
 - Hypebeast  
-  https://hypebeast.com/2016/9/ron-english-guernica-allouche-gallery-new-york-city
+  [https://hypebeast.com/2016/9/ron-english-guernica-allouche-gallery-new-york-city](https://hypebeast.com/2016/9/ron-english-guernica-allouche-gallery-new-york-city)
+
 - Untapped Cities  
-  https://untappedcities.com/picassos-guernica-brought-back-to-life-by-artist-ron-english-at-allouche-gallery-nyc/
+  [https://untappedcities.com/picassos-guernica-brought-back-to-life-by-artist-ron-english-at-allouche-gallery-nyc/](https://untappedcities.com/picassos-guernica-brought-back-to-life-by-artist-ron-english-at-allouche-gallery-nyc/)
+
 
 ---
 
