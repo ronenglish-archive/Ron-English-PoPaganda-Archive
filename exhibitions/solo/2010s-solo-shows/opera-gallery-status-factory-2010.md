@@ -71,17 +71,23 @@ Immersive pop-up “factory” installation in a **SoHo warehouse during Fashion
 ## Sources
 
 - Arrested Motion  
-  https://arrestedmotion.com/2010/08/preview-ron-english-status-factory-opera-gallery/
+  [https://arrestedmotion.com/2010/08/preview-ron-english-status-factory-opera-gallery/](https://arrestedmotion.com/2010/08/preview-ron-english-status-factory-opera-gallery/)
+
 - Kidrobot Blog  
-  https://blog.kidrobot.com/ron-englishs-status-factory-opens-at-opera-gallery-in-new-york/
+  [https://blog.kidrobot.com/ron-englishs-status-factory-opens-at-opera-gallery-in-new-york/](https://blog.kidrobot.com/ron-englishs-status-factory-opens-at-opera-gallery-in-new-york/)
+
 - Hypebeast  
-  https://hypebeast.com/2010/9/status-factory-by-ron-english-exhibition-nyc-recap
+  [https://hypebeast.com/2010/9/status-factory-by-ron-english-exhibition-nyc-recap](https://hypebeast.com/2010/9/status-factory-by-ron-english-exhibition-nyc-recap)
+
 - Vandalog  
-  https://blog.vandalog.com/2010/09/13/ron-english-pop-up-factory-at-opera-gallery/
+  [https://blog.vandalog.com/2010/09/13/ron-english-pop-up-factory-at-opera-gallery/](https://blog.vandalog.com/2010/09/13/ron-english-pop-up-factory-at-opera-gallery/)
+
 - Flickr documentation  
-  https://www.flickr.com/photos/wallyg/5115935147/
+  [https://www.flickr.com/photos/wallyg/5115935147/](https://www.flickr.com/photos/wallyg/5115935147/)
+
 - Vandalog  
-  https://blog.vandalog.com/2010/09/13/ron-english-pop-up-factory-at-opera-gallery/
+  [https://blog.vandalog.com/2010/09/13/ron-english-pop-up-factory-at-opera-gallery/](https://blog.vandalog.com/2010/09/13/ron-english-pop-up-factory-at-opera-gallery/)
+
 
 ---
 
