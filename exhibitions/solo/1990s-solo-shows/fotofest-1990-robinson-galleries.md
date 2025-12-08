@@ -62,18 +62,24 @@ class="exhibit-image">
 
 ---
 
-## Overview
+## Exhibition Overview
 
-This solo exhibition at **Thomas V. Robinson / Robinson Galleries** formed part of **FotoFest ’90**, Houston’s city-wide photography biennial. The show focused on Ron English’s photographic practice, including his **composite photographic constructions** and works from the **“American Sideshows”** series.
+Ron English presented a photographic exhibition at **Thomas V. Robinson / Robinson Galleries**, located at **3733 Westheimer, No. 7, Houston, Texas**, during FotoFest 1990.<sup>1</sup> The exhibition opened on **Sunday, February 11, 1990**, from **1:00 p.m. to 6:00 p.m.**, with the artist present.<sup>1</sup> The gallery’s public hours were listed as Tuesday through Saturday, 10:00 a.m. to 5:30 p.m.<sup>1</sup>
 
-The works pushed documentary photography toward staged spectacle, blurring the line between straight photographic record and constructed illusion. Within the broader FotoFest context, English’s contribution stood out for its engagement with American roadside culture, billboards and carnivalesque environments that would later become central to his Popaganda universe.
+A feature in *Houston: The Magazine for Business* (February 1990) reports that the exhibition was part of Houston’s FotoFest programming.<sup>2</sup> According to the article, English’s photographs incorporated actual people, hand-drawn cardboard figures, and flattened spatial elements, and the exhibition included his series **“American Sideshows.”** The same article notes that the exhibition was on view from **February 11 to March 3, 1990** at Robinson Galleries.<sup>2</sup>
+
+A *Houston Post* listing dated **February 4, 1990** reproduces English’s 1989 C-print **“Out of the Frying Pan”** and identifies Robinson Galleries as the venue where the work was exhibited.<sup>3</sup>
 
 ---
 
-## Sources
+## References
 
-- *Houston Magazine for Business*, Feb. 1990, p. 33 — “For art’s sake: A lot to look at in area museums and galleries” (listing the FotoFest-related solo show at Thomas V. Robinson Galleries).  
-- Invitation card: *Ron English* — Thomas V. Robinson Galleries, FotoFest ’90 (11 Feb – 3 Mar 1990).  
+1. **Robinson Galleries Exhibition Announcement**, Thomas V. Robinson / Robinson Galleries, Houston, Texas. Showcard for *Ron English* exhibition, opening February 11, 1990, 1:00–6:00 p.m. (Archival document; no public URL.)
+
+2. **Daugherty, Margaret. “For art’s sake.”** *Houston: The Magazine for Business*, February 1990, pp. 33. Coverage of FotoFest ’90 exhibitions including Ron English at Robinson Galleries. (Archival magazine scan; no public URL.)
+
+3. **“Ron English’s *Out of the Frying Pan* is at Robinson Galleries.”** *The Houston Post*, Sunday, February 4, 1990, H-17. (Archival newspaper clipping; no public URL.)
+
 
 ---
 
