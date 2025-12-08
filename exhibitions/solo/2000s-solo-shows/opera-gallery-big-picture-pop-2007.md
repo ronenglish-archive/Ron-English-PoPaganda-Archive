@@ -59,27 +59,23 @@
 **Title:** *Big Picture Pop*
 
 ---
+### 2007 — *Big Picture Pop*
+**Dates:** November 29 – December 31, 2007  
+**Venue:** Opera Gallery  
+**Location:** New York, NY, USA
 
-## Overview
+*Big Picture Pop* showcased Ron English’s large-scale pop-surrealist paintings and new reinterpretations of canonical works. Contemporary online coverage confirmed the opening at Opera Gallery on November 29 and described the exhibition as a major return to New York, highlighting English’s fusion of pop iconography, political satire, and art-historical quotation.¹²³⁴
 
-*Big Picture Pop* presented Ron English’s large-scale canvases and sculptural works at **Opera Gallery’s SoHo location** during the 2007 holiday season. This exhibition highlighted English’s mastery of oversized pop-icon imagery — including reengineered advertising mascots, hybrid cultural figures, and high-saturation visual satire.
+**Sources:**  
+1. Laughing Squid — *Big Picture Pop, Ron English at Opera Gallery in New York*:  
+   <https://laughingsquid.com/ron-english-at-opera-gallery-in-nyc/>  
+2. Hypebeast listing for Ron English (contemporary to the exhibition period):  
+   <https://hypebeast.com/tags/ron-english/page/12?after=1208852927>  
+3. Pinterest record referencing *Big Picture Pop* promotional imagery:  
+   <https://co.pinterest.com/pin/555842778990915670/>  
+4. Laughing Squid (duplicate article confirming venue and dates):  
+   <https://laughingsquid.com/ron-english-at-opera-gallery-in-nyc/>
 
-Press coverage from the time noted strong turnout and enthusiasm, as the show arrived at a moment when Pop Surrealism and designer-toy culture were expanding rapidly in New York. English’s work bridged fine art and pop culture, echoing his billboard interventions while delivering polished, gallery-ready compositions.
-
-The exhibition ran through late December and aligned English with a global roster of contemporary artists represented by Opera Gallery.
-
----
-
-## Sources
-
-- Laughing Squid — *Ron English at Opera Gallery in NYC*:  
-  [https://laughingsquid.com/ron-english-at-opera-gallery-in-nyc/](https://laughingsquid.com/ron-english-at-opera-gallery-in-nyc/)
-
-- Hypebeast — coverage of *Big Picture Pop*:  
-  [https://hypebeast.com/2007/12/ubiq-presern](https://hypebeast.com/2007/12/ubiq-presern)
-
-- Artnet — Ron English exhibition history:  
-  [https://www.artnet.fr/galeries/galerie-jacob-paulett/artiste-ron-english/](https://www.artnet.fr/galeries/galerie-jacob-paulett/artiste-ron-english/)
 
 ---
 
