@@ -60,18 +60,21 @@
 **Title:** *Modernism for a New Millennium*
 
 ---
+## Modernism for a New Millennium — Sam Cintron Gallery, Jersey City (January 27 – February 27, 2000)
 
-## Overview
+Ron English’s exhibition **_Modernism for a New Millennium_** was held at the **Sam Cintron Gallery** in Jersey City, New Jersey, from **January 27 to February 27, 2000**. The show card provides the gallery address as **520 Jersey Avenue** and notes an opening reception on **Thursday, January 27, from 6:30–9:30 p.m.**.<sup>1</sup>
 
-*Modernism for a New Millennium* introduced Ron English’s early-2000s work inside a vast **25,000-square-foot** space at Sam Cintron Gallery. The exhibition blended new paintings with well-known pieces from the late 1990s, placing English’s pop-iconography critiques within a raw industrial setting.
+Coverage in the *Jersey Journal* by **Karen Mahabir** describes English’s first solo show in Jersey City as featuring “over a dozen oil paintings,” including reinterpretations of American cultural imagery and personalized versions of twentieth-century masterpieces.<sup>2</sup> The article refers to works such as **_Culture Wars_**, a revisionist version of Picasso’s *Guernica* incorporating Disney characters to emphasize English’s anti-advertising themes.<sup>2</sup>
 
-The opening reception reportedly drew **around a thousand visitors**, filling the warehouse-like gallery. English’s work formed the core of the show, including his **youth-inspired Batman series** and paintings such as **_Weeping Women_**. The display framed English as an artist bridging late-20th-century modernism with a new millennium shaped by media saturation and cultural remixing.
+Two images reproduced in the article show English standing before his painting **_English 101_**, and a detail of **_Play It Again, Sam_**, which appeared in the exhibition.<sup>2</sup> The show card additionally lists **_Weeping Women_** (1996, oil on canvas, 66 × 52 in.) as a work associated with the show.<sup>1</sup>
 
 ---
 
-## Sources
+### Sources
 
-- showcard (ephemera)
+1. *Modernism for a New Millennium* showcard, Sam Cintron Gallery, January 27 – February 27, 2000.  
+2. Karen Mahabir, “Been done (that’s point),” *Jersey Journal*, exhibition article and images; archival clipping provided, no public URL.
+
 
 ---
 
