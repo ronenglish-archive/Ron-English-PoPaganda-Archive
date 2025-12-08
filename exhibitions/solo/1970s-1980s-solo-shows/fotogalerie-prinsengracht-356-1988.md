@@ -42,15 +42,22 @@
 
 ![Ron English solo exhibition – Fotogalerie Prinsengracht 356, 1988](../../../images/Exhibitions/Solo/fotogalerie-Amsterdam-1988-1.jpg)
 
-## Notes
+## Exhibition Overview
 
-Early European solo exhibition focused on Ron English’s photographic work at Fotogalerie Prinsengracht 356. The showcard emphasizes his use of “straight” photography: images printed without darkroom manipulation, but built from elaborate three-dimensional tableaux staged in front of the camera.  
+Ron English presented a photographic exhibition at Fotogalerie **2¼ × 4½**, located at Prinsengracht 356 in Amsterdam, in August 1988.<sup>1</sup> The exhibition ran from **11 August to 3 September 1988**, with a public opening on **Saturday, 13 August, from 17:00 to 19:00**.<sup>2</sup>
 
-The exhibition pushes at the border between documentary and constructed reality, previewing later POPaganda strategies in which advertising, spectacle and everyday environments are restaged as carefully composed scenes.
+According to the exhibition announcement, English explored two aspects of photography: the capacity to record reality and the capacity to create illusions. The announcement notes that each photograph resulted from combining these possibilities and that English did not use darkroom manipulation, describing the work as “straight” photography.<sup>2</sup>
 
-## Sources
+A 1988 notice in *FOTO* magazine confirms that Fotogalerie 2¼ × 4½ presented work by Ron English that year as part of its exhibition program.<sup>3</sup> The gallery at Prinsengracht 356 is independently documented as an active photography venue operating under the name **2½ bij 4½ Fotogalerie**.<sup>1</sup>
 
-- Exhibition showcard: *Ron English* — Fotogalerie Prinsengracht 356, Amsterdam, 11 Aug – 3 Sep 1988.
+---
+
+## References
+
+1. [2½ bij 4½ Fotogalerie – Prinsengracht 356, Amsterdam (Artist-info gallery listing)](https://www.artist-info.com/gallery/2-1-2-bij-4-1-2-Fotogalerie)  
+2. *Ron English Exhibition Showcard*, Fotogalerie 2¼ × 4½, Prinsengracht 356, Amsterdam. *11 August – 3 September 1988; opening 13 August 17:00–19:00.* (Archival document; no public URL.)  
+3. “2¼x4½, Amsterdam.” *FOTO* No. 5/88 (1988). Doetinchem: Uitgeverij C. Misset. (Archival print source.)
+ 
 
 [⬅ Back to 1970s–1980s solo exhibitions](../1970s-1980s-solo-exhibitions.html#fotogalerie-prinsengracht-356-1988-row)
 
