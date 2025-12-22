@@ -41,7 +41,7 @@
 ![Dubai mural – view 2](../images/Murals/Dubai-2016-2.jpg)
 ![Dubai mural – view 3](../images/Murals/dubaiM1.jpg)
 ![Dubai mural – view 4](../images/Murals/dubaiM2.jpg)
-![Dubai mural – view 5](../images/Murals/dubaiM3.jpg)
+
 ## Description
 
 In March 2016, Ron English created a large-scale mural at **City Walk** as part of *Dubai Walls*, the first major outdoor street-art initiative in the Middle East.  
