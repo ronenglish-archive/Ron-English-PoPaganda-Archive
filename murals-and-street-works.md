@@ -38,6 +38,7 @@
 
 | Image | Year | Location | Mural title |
 |:-----:|:----:|:--------:|:-----------:|
+| [![Prophet Bar thumbnail](images/Murals/prophetbar1986.jpg)](murals/prophetbar1986.html) | <a id="prophet-bar-1986-row"></a>1986 | Dallas, Texas | Prophet Bar Mural |
 | [![Mendez Mural thumbnail](images/Murals/chicomendez.jpg)](murals/chicomendez.html) | <a id="chico-mendez-1988-row"></a>1988 | 513 East 11th Street, New York, US | Chico Mendes Memorial Mural |
 | [![Fashion Moda 1988 thumbnail](images/Murals/Fashion-Moda.jpg)](murals/fashion-moda-1988.html) | <a id="fashion-moda-1988-row"></a>1988 | Fashion Moda, South Bronx, New York, US | Fashion Moda façade mural |
 | [![Berlin Wall 1989 thumbnail](images/Murals/Berlin-Wall-1.jpg)](murals/berlin-wall-1989.html) | <a id="berlin-wall-1989-row"></a>1989 | Berlin Wall, Checkpoint Charlie, West Berlin, West Germany | Checkpoint Charlie mural (“Peace on Earth”) |
