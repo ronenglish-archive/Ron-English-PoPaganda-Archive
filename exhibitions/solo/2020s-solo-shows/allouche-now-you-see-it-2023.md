@@ -23,6 +23,7 @@
     box-shadow:0 0 8px rgba(255,150,213,0.7);
     transform:translateY(-1px);
   }
+
   .exhibit-image {
     max-width:360px;
     width:100%;
@@ -31,10 +32,26 @@
     display:block;
     border:1px solid #ccc;
   }
+
+  /* Gallery grid */
+  .exhibit-gallery {
+    margin: 40px 0;
+  }
+  .exhibit-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 16px;
+  }
+  .exhibit-grid img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border: 1px solid #ccc;
+    background: #fff;
+  }
 </style>
 
-
-# *Now You See It*  
+# *Now You See It*
 ### Allouche Gallery, New York (2023)
 
 ### **Solo Exhibition**
@@ -55,7 +72,6 @@
      alt="Ron English — Now You See It, Allouche Gallery, New York, 2023"
      class="exhibit-image">
 
-     
 **Year:** 2023  
 **Dates:** May 20, 2023 – July 4, 2023  
 **Venue:** Allouche Gallery  
@@ -70,34 +86,68 @@ Solo exhibition at **Allouche Gallery** presenting recent paintings, installatio
 
 ---
 
-## Sources
+## Images from the Exhibition
 
-- Allouche Gallery  
-  [https://www.allouchegallery.com/exhibition/ron-english-now-you-see-it/](https://www.allouchegallery.com/exhibition/ron-english-now-you-see-it/)
-
-- Exhibition catalogue (PDF)  
-  [https://www.allouchegallery.com/wp-content/uploads/2023/06/Ron-English-Now-You-See-it-Catalogue.pdf](https://www.allouchegallery.com/wp-content/uploads/2023/06/Ron-English-Now-You-See-it-Catalogue.pdf)
-
-- Instagram  
-  [https://www.instagram.com/p/CsT8CM7OgKP/](https://www.instagram.com/p/CsT8CM7OgKP/)  
-  [https://www.instagram.com/p/Cso2hkluDYm/](https://www.instagram.com/p/Cso2hkluDYm/)
-
-- GothamToGo  
-  [https://gothamtogo.com/ron-english-now-you-see-it-to-open-at-allouche-gallery-nyc/](https://gothamtogo.com/ron-english-now-you-see-it-to-open-at-allouche-gallery-nyc/)
-
-- Brooklyn Street Art  
-  [https://www.brooklynstreetart.com/2023/05/11/ron-english-now-you-see-it-during-spring-art-fair-blitz/](https://www.brooklynstreetart.com/2023/05/11/ron-english-now-you-see-it-during-spring-art-fair-blitz/)
-
-- League OTO  
-  [https://www.leagueoto.com/news/2023/5/17/ron-english-now-you-see-it-at-allouche-gallery](https://www.leagueoto.com/news/2023/5/17/ron-english-now-you-see-it-at-allouche-gallery)
-
-- MutualArt  
-  [https://www.mutualart.com/Exhibition/Ron-English--Now-You-See-It/76062DAFC5A3BE15](https://www.mutualart.com/Exhibition/Ron-English--Now-You-See-It/76062DAFC5A3BE15)  
-  [https://www.mutualart.com/Artist/Ron-English/D2860FD527C9F0B2/Biography](https://www.mutualart.com/Artist/Ron-English/D2860FD527C9F0B2/Biography)
-
+<div class="exhibit-gallery">
+  <div class="exhibit-grid">
+    <img src="../../../images/Exhibitions/Solo/nowyouseeit1.jpg" alt="Now You See It — image 1">
+    <img src="../../../images/Exhibitions/Solo/nowyouseeit2.jpg" alt="Now You See It — image 2">
+    <img src="../../../images/Exhibitions/Solo/nowyouseeit3.jpg" alt="Now You See It — image 3">
+    <img src="../../../images/Exhibitions/Solo/nowyouseeit4.jpg" alt="Now You See It — image 4">
+    <img src="../../../images/Exhibitions/Solo/nowyouseeit5.jpg" alt="Now You See It — image 5">
+    <img src="../../../images/Exhibitions/Solo/nowyouseeit6.jpg" alt="Now You See It — image 6">
+    <img src="../../../images/Exhibitions/Solo/nowyouseeit7.jpg" alt="Now You See It — image 7">
+    <img src="../../../images/Exhibitions/Solo/nowyouseeit8.jpg" alt="Now You See It — image 8">
+    <img src="../../../images/Exhibitions/Solo/nowyouseeit9.jpg" alt="Now You See It — image 9">
+    <img src="../../../images/Exhibitions/Solo/nowyouseeit10.jpg" alt="Now You See It — image 10">
+    <img src="../../../images/Exhibitions/Solo/nowyouseeit11.jpg" alt="Now You See It — image 11">
+    <img src="../../../images/Exhibitions/Solo/nowyouseeit12.jpg" alt="Now You See It — image 12">
+    <img src="../../../images/Exhibitions/Solo/nowyouseeit13.jpg" alt="Now You See It — image 13">
+    <img src="../../../images/Exhibitions/Solo/nowyouseeit14.jpg" alt="Now You See It — image 14">
+    <img src="../../../images/Exhibitions/Solo/nowyouseeit15.jpg" alt="Now You See It — image 15">
+    <img src="../../../images/Exhibitions/Solo/nowyouseeit16.jpg" alt="Now You See It — image 16">
+    <img src="../../../images/Exhibitions/Solo/nowyouseeit17.jpg" alt="Now You See It — image 17">
+    <img src="../../../images/Exhibitions/Solo/nowyouseeit18.jpg" alt="Now You See It — image 18">
+    <img src="../../../images/Exhibitions/Solo/nowyouseeit19.jpg" alt="Now You See It — image 19">
+    <img src="../../../images/Exhibitions/Solo/nowyouseeit20.jpg" alt="Now You See It — image 20">
+    <img src="../../../images/Exhibitions/Solo/nowyouseeit21.jpg" alt="Now You See It — image 21">
+    <img src="../../../images/Exhibitions/Solo/nowyouseeit23.jpg" alt="Now You See It — image 23">
+    <img src="../../../images/Exhibitions/Solo/nowyouseeit24.jpg" alt="Now You See It — image 24">
+    <img src="../../../images/Exhibitions/Solo/nowyouseeit25.jpg" alt="Now You See It — image 25">
+    <img src="../../../images/Exhibitions/Solo/nowyouseeit26.jpg" alt="Now You See It — image 26">
+    <img src="../../../images/Exhibitions/Solo/nowyouseeit27.jpg" alt="Now You See It — image 27">
+  </div>
+</div>
 
 ---
 
-## Back to list  
+## Sources
+
+- Allouche Gallery  
+  https://www.allouchegallery.com/exhibition/ron-english-now-you-see-it/
+
+- Exhibition catalogue (PDF)  
+  https://www.allouchegallery.com/wp-content/uploads/2023/06/Ron-English-Now-You-See-it-Catalogue.pdf
+
+- Instagram  
+  https://www.instagram.com/p/CsT8CM7OgKP/  
+  https://www.instagram.com/p/Cso2hkluDYm/
+
+- GothamToGo  
+  https://gothamtogo.com/ron-english-now-you-see-it-to-open-at-allouche-gallery-nyc/
+
+- Brooklyn Street Art  
+  https://www.brooklynstreetart.com/2023/05/11/ron-english-now-you-see-it-during-spring-art-fair-blitz/
+
+- League OTO  
+  https://www.leagueoto.com/news/2023/5/17/ron-english-now-you-see-it-at-allouche-gallery
+
+- MutualArt  
+  https://www.mutualart.com/Exhibition/Ron-English--Now-You-See-It/76062DAFC5A3BE15  
+  https://www.mutualart.com/Artist/Ron-English/D2860FD527C9F0B2/Biography
+
+---
+
+## Back to list
 
 ➡️ [Return to 2020s Solo Exhibitions](../2020s-solo-exhibitions.html#allouche-now-you-see-it-2023-row)
