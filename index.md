@@ -246,28 +246,23 @@
     <!-- 4 SECTION CARDS -->
     <div class="card-grid" aria-label="PoPaganda archive sections">
 
-
-
       <!-- Exhibitions -->
-<section class="section-card">
-  <div class="card-media">
-    <img src="images/entry-exhibitions.jpg" alt="Exhibitions section image" />
-  </div>
-  <div class="card-body">
-    <h2 class="card-title">Exhibitions</h2>
-    <p class="card-desc">
-      Solo and group exhibitions documented and organized by decade.
-    </p>
+      <section class="section-card">
+        <div class="card-media">
+          <img src="images/entry-exhibitions.jpg" alt="Exhibitions section image" />
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">Exhibitions</h2>
+          <p class="card-desc">
+            Solo and group exhibitions documented and organized by decade.
+          </p>
 
-    <div class="action-row">
-      <a class="action-link" href="exhibitions/">
-        <span class="action-dot"></span>
-        Enter exhibitions
-      </a>
-    </div>
-  </div>
-</section>
-
+          <div class="action-row">
+            <a class="action-link" href="exhibitions/">
+              <span class="action-dot"></span>
+              Enter exhibitions
+            </a>
+          </div>
         </div>
       </section>
 
