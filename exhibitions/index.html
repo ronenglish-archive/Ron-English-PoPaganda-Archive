@@ -5,203 +5,193 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>PoPaganda Archive — Exhibitions</title>
   <meta name="description" content="Ron English PoPaganda Archive — exhibitions documentation and navigation." />
+
   <style>
-  :root{
-    --bg:#ffffff;
-    --panel:#ffffff;
-    --panel2:#ffffff;
-    --text:#111111;
-    --muted:#555555;
-    --line:#e6e6e6;
-    --btn:#e5e0ff;
-    --btnHover:#d9d2ff;
-    --shadow:0 10px 30px rgba(0,0,0,.06);
-    --radius:16px;
-    --max:1100px;
-    --sans: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, "Noto Sans", "Liberation Sans", sans-serif;
-  }
+    :root{
+      --bg:#ffffff;
+      --panel:#ffffff;
+      --text:#111111;
+      --muted:#555555;
+      --line:#e6e6e6;
+      --btn:#e5e0ff;
+      --btnHover:#d9d2ff;
+      --shadow:0 10px 30px rgba(0,0,0,.06);
+      --radius:16px;
+      --max:1100px;
+      --sans: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, "Noto Sans", "Liberation Sans", sans-serif;
+    }
 
-  html,body{height:100%}
+    html,body{height:100%}
 
-  body{
-    margin:0;
-    font-family:var(--sans);
-    background:var(--bg);
-    color:var(--text);
-  }
+    body{
+      margin:0;
+      font-family:var(--sans);
+      background:var(--bg);
+      color:var(--text);
+    }
 
-  a{color:inherit}
+    a{color:inherit}
 
-  .wrap{
-    max-width:var(--max);
-    margin:0 auto;
-    padding:28px 18px 64px;
-  }
+    .wrap{
+      max-width:var(--max);
+      margin:0 auto;
+      padding:28px 18px 64px;
+    }
 
-  .topbar{
-    display:flex;
-    gap:12px;
-    align-items:center;
-    justify-content:space-between;
-    padding:10px 0 22px;
-    border-bottom:1px solid var(--line);
-    margin-bottom:22px;
-  }
+    .topbar{
+      display:flex;
+      gap:12px;
+      align-items:center;
+      justify-content:space-between;
+      padding:10px 0 22px;
+      border-bottom:1px solid var(--line);
+      margin-bottom:22px;
+    }
 
-  .crumbs{
-    font-size:13px;
-    color:var(--muted);
-    display:flex;
-    gap:8px;
-    align-items:center;
-    flex-wrap:wrap;
-  }
+    .crumbs{
+      font-size:13px;
+      color:var(--muted);
+      display:flex;
+      gap:8px;
+      align-items:center;
+      flex-wrap:wrap;
+    }
 
-  .crumbs a{
-    color:var(--muted);
-    text-decoration:none;
-  }
+    .crumbs a{
+      color:var(--muted);
+      text-decoration:none;
+    }
 
-  .crumbs a:hover{
-    text-decoration:underline;
-  }
+    .crumbs a:hover{
+      text-decoration:underline;
+    }
 
-  .title{
-    margin:18px 0 10px;
-    font-size:34px;
-    line-height:1.15;
-  }
+    .title{
+      margin:18px 0 10px;
+      font-size:34px;
+      line-height:1.15;
+    }
 
-  .subtitle{
-    margin:0 0 22px;
-    color:var(--muted);
-    max-width:72ch;
-    line-height:1.5;
-    font-size:15px;
-  }
+    .subtitle{
+      margin:0 0 22px;
+      color:var(--muted);
+      max-width:72ch;
+      line-height:1.5;
+      font-size:15px;
+    }
 
-  .grid{
-    display:grid;
-    grid-template-columns:repeat(12,1fr);
-    gap:18px;
-  }
+    .grid{
+      display:grid;
+      grid-template-columns:repeat(12,1fr);
+      gap:18px;
+    }
 
-  .card{
-    grid-column:span 6;
-    background:var(--panel);
-    border:1px solid var(--line);
-    border-radius:var(--radius);
-    box-shadow:var(--shadow);
-    overflow:hidden;
-    display:flex;
-    flex-direction:column;
-    min-height:360px;
-  }
+    .card{
+      grid-column:span 6;
+      background:var(--panel);
+      border:1px solid var(--line);
+      border-radius:var(--radius);
+      box-shadow:var(--shadow);
+      overflow:hidden;
+      display:flex;
+      flex-direction:column;
+      min-height:360px;
+    }
 
-  @media (max-width:900px){
-    .card{grid-column:span 12;}
-  }
+    @media (max-width:900px){
+      .card{grid-column:span 12;}
+    }
 
-  .media{
-    width:100%;
-    aspect-ratio:1/1;
-    background:#f2f2f2;
-    border-bottom:1px solid var(--line);
-    display:flex;
-    align-items:center;
-    justify-content:center;
-    overflow:hidden;
-  }
+    .media{
+      width:100%;
+      aspect-ratio:1/1;
+      background:#f2f2f2;
+      border-bottom:1px solid var(--line);
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      overflow:hidden;
+    }
 
-  .media img{
-    width:100%;
-    height:100%;
-    object-fit:cover;
-    display:block;
-  }
+    .media img{
+      width:100%;
+      height:100%;
+      object-fit:cover;
+      display:block;
+    }
 
-  .media .placeholder{
-    color:#888;
-    font-size:13px;
-    border:1px dashed #ccc;
-    padding:10px 12px;
-    border-radius:999px;
-  }
+    .media .placeholder{
+      color:#888;
+      font-size:13px;
+      border:1px dashed #ccc;
+      padding:10px 12px;
+      border-radius:999px;
+    }
 
-  .content{
-    padding:16px 16px 18px;
-    display:flex;
-    flex-direction:column;
-    gap:10px;
-    flex:1;
-  }
+    .content{
+      padding:16px 16px 18px;
+      display:flex;
+      flex-direction:column;
+      gap:10px;
+      flex:1;
+    }
 
-  .h{
-    font-size:18px;
-    margin:0;
-  }
+    .h{
+      font-size:18px;
+      margin:0;
+    }
 
-  .p{
-    margin:0;
-    color:var(--muted);
-    font-size:14px;
-    line-height:1.45;
-    max-width:70ch;
-  }
+    .p{
+      margin:0;
+      color:var(--muted);
+      font-size:14px;
+      line-height:1.45;
+      max-width:70ch;
+    }
 
-  .meta{
-    margin-top:auto;
-    padding-top:10px;
-    border-top:1px solid var(--line);
-    display:flex;
-    align-items:center;
-    justify-content:space-between;
-    gap:12px;
-    flex-wrap:wrap;
-  }
+    .meta{
+      margin-top:auto;
+      padding-top:10px;
+      border-top:1px solid var(--line);
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:12px;
+      flex-wrap:wrap;
+    }
 
-  .tag{
-    font-size:12px;
-    color:#444;
-    background:#f2f2f2;
-    border:1px solid var(--line);
-    padding:6px 10px;
-    border-radius:999px;
-    white-space:nowrap;
-  }
+    .tag{
+      font-size:12px;
+      color:#444;
+      background:#f2f2f2;
+      border:1px solid var(--line);
+      padding:6px 10px;
+      border-radius:999px;
+      white-space:nowrap;
+    }
 
-  .cta{
-    text-decoration:none;
-    display:inline-flex;
-    align-items:center;
-    justify-content:center;
-    gap:8px;
-    background:var(--btn);
-    border:1px solid #c7b4ff;
-    padding:10px 14px;
-    border-radius:999px;
-    font-size:13px;
-    font-weight:700;
-    transition:transform .12s ease, box-shadow .12s ease, background .12s ease;
-    white-space:nowrap;
-  }
+    .cta{
+      text-decoration:none;
+      display:inline-flex;
+      align-items:center;
+      justify-content:center;
+      gap:8px;
+      background:var(--btn);
+      border:1px solid #c7b4ff;
+      padding:10px 14px;
+      border-radius:999px;
+      font-size:13px;
+      font-weight:700;
+      transition:transform .12s ease, box-shadow .12s ease, background .12s ease;
+      white-space:nowrap;
+    }
 
-  .cta:hover{
-    background:var(--btnHover);
-    transform:scale(1.03);
-    box-shadow:0 0 18px rgba(176,120,255,.35);
-  }
-
-  .note{
-    margin-top:18px;
-    border-top:1px solid var(--line);
-    padding-top:14px;
-    color:#666;
-    font-size:12px;
-    line-height:1.5;
-  }
-</style>
-
+    .cta:hover{
+      background:var(--btnHover);
+      transform:scale(1.03);
+      box-shadow:0 0 18px rgba(176,120,255,.35);
+    }
+  </style>
 </head>
 
 <body>
@@ -226,19 +216,21 @@
       <!-- SOLO -->
       <section class="card">
         <div class="media">
-          <!-- Replace with a square thumbnail path when ready -->
-          <!-- <img src="../../images/PoPaganda/Exhibitions/solo-square.jpg" alt="Solo exhibitions thumbnail"> -->
+          <!-- Upload later to: /images/exhibitions/solo-square.jpg -->
+          <!-- Then replace the placeholder by uncommenting the img tag below -->
+          <!-- <img src="../images/exhibitions/solo-square.jpg" alt="Solo exhibitions thumbnail"> -->
           <div class="placeholder">SQUARE THUMBNAIL</div>
         </div>
+
         <div class="content">
           <h2 class="h">Solo Exhibitions</h2>
           <p class="p">
-            Dedicated pages for one-artist exhibitions, organized for clean browsing and future expansion
-            (by decade, year, venue, or city).
+            One-artist exhibitions, organized for clean browsing and future expansion (by decade, year, venue, or city).
           </p>
+
           <div class="meta">
-            <span class="tag">Primary category</span>
-            <a class="cta" href="./solo/index.html" aria-label="Browse solo exhibitions">
+            <span class="tag">Solo</span>
+            <a class="cta" href="./solo/" aria-label="Browse solo exhibitions">
               Browse Solo →
             </a>
           </div>
@@ -248,43 +240,26 @@
       <!-- GROUP -->
       <section class="card">
         <div class="media">
-          <!-- Replace with a square thumbnail path when ready -->
-          <!-- <img src="../../images/PoPaganda/Exhibitions/group-square.jpg" alt="Group exhibitions thumbnail"> -->
+          <!-- Upload later to: /images/exhibitions/group-square.jpg -->
+          <!-- Then replace the placeholder by uncommenting the img tag below -->
+          <!-- <img src="../images/exhibitions/group-square.jpg" alt="Group exhibitions thumbnail"> -->
           <div class="placeholder">SQUARE THUMBNAIL</div>
         </div>
+
         <div class="content">
           <h2 class="h">Group Exhibitions</h2>
           <p class="p">
-            Dedicated pages for multi-artist exhibitions. Use this for shared shows, festivals,
-            and curated group contexts where Ron English appears among others.
+            Multi-artist exhibitions, organized by decade and show records where Ron English appears among others.
           </p>
+
           <div class="meta">
-            <span class="tag">Primary category</span>
-            <a class="cta" href="./group/index.html" aria-label="Browse group exhibitions">
+            <span class="tag">Group</span>
+            <a class="cta" href="./group/" aria-label="Browse group exhibitions">
               Browse Group →
             </a>
           </div>
         </div>
       </section>
-    </div>
-
-    <div class="twoCards">
-      <div class="mini">
-        <div class="left">
-          <div class="h">How this section stays clean</div>
-          <p class="p">Pills link to landing pages. Landing pages link to indexes. Indexes link to records.</p>
-        </div>
-      </div>
-      <div class="mini">
-        <div class="left">
-          <div class="h">Add images later</div>
-          <p class="p">Square thumbnails are optional. If missing, the page still looks intentional.</p>
-        </div>
-      </div>
-    </div>
-
-    <div class="footer">
-      PoPaganda Archive — Exhibitions landing page. GitHub Pages compatible (plain HTML/CSS).
     </div>
   </div>
 </body>
