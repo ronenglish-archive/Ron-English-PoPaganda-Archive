@@ -8,47 +8,69 @@
 
   <style>
     :root{
-      --bg:#0b0c0f;
-      --panel:#12141a;
-      --panel2:#0f1116;
-      --text:#f2f3f5;
-      --muted:#b7bcc6;
-      --line:rgba(255,255,255,.10);
-      --btn:#1a1d25;
-      --btnHover:#232838;
-      --shadow:0 10px 30px rgba(0,0,0,.35);
+      --bg:#ffffff;
+      --panel:#ffffff;
+      --text:#111111;
+      --muted:#555555;
+      --line:#e6e6e6;
+      --btn:#e5e0ff;
+      --btnHover:#d9d2ff;
+      --shadow:0 10px 30px rgba(0,0,0,.06);
       --radius:16px;
       --max:1100px;
       --sans: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, "Noto Sans", "Liberation Sans", sans-serif;
     }
+
     html,body{height:100%}
     body{
       margin:0;
       font-family:var(--sans);
-      background:linear-gradient(180deg, var(--bg), #07080a 60%, #050607);
+      background:var(--bg);
       color:var(--text);
     }
+
     a{color:inherit}
-    .wrap{max-width:var(--max); margin:0 auto; padding:28px 18px 64px;}
+
+    .wrap{
+      max-width:var(--max);
+      margin:0 auto;
+      padding:28px 18px 64px;
+    }
+
     .topbar{
-      display:flex; gap:12px; align-items:center; justify-content:space-between;
+      display:flex;
+      gap:12px;
+      align-items:center;
+      justify-content:space-between;
       padding:10px 0 22px;
       border-bottom:1px solid var(--line);
       margin-bottom:22px;
     }
+
     .crumbs{
-      font-size:13px; color:var(--muted);
-      display:flex; gap:8px; align-items:center; flex-wrap:wrap;
+      font-size:13px;
+      color:var(--muted);
+      display:flex;
+      gap:8px;
+      align-items:center;
+      flex-wrap:wrap;
     }
-    .crumbs a{color:var(--muted); text-decoration:none}
-    .crumbs a:hover{color:var(--text); text-decoration:underline}
+
+    .crumbs a{
+      color:var(--muted);
+      text-decoration:none;
+    }
+
+    .crumbs a:hover{
+      text-decoration:underline;
+    }
 
     .title{
       margin:18px 0 10px;
       font-size:34px;
-      letter-spacing:.2px;
       line-height:1.15;
     }
+
     .subtitle{
       margin:0 0 22px;
       color:var(--muted);
@@ -59,45 +81,48 @@
 
     .grid{
       display:grid;
-      grid-template-columns: repeat(12, 1fr);
-      gap:14px;
+      grid-template-columns:repeat(12,1fr);
+      gap:18px;
     }
+
     .card{
-      grid-column: span 6;
-      background:linear-gradient(180deg, var(--panel), var(--panel2));
+      grid-column:span 6;
+      background:var(--panel);
       border:1px solid var(--line);
       border-radius:var(--radius);
       box-shadow:var(--shadow);
       overflow:hidden;
       display:flex;
       flex-direction:column;
-      min-height: 360px;
+      min-height:360px;
     }
-    @media (max-width: 900px){
-      .card{grid-column: span 12;}
+
+    @media (max-width:900px){
+      .card{grid-column:span 12;}
     }
 
     .media{
       width:100%;
-      aspect-ratio: 1 / 1;
-      background:#0a0b0e;
+      aspect-ratio:1/1;
+      background:#f2f2f2;
       border-bottom:1px solid var(--line);
       display:flex;
       align-items:center;
       justify-content:center;
       overflow:hidden;
     }
+
     .media img{
       width:100%;
       height:100%;
       object-fit:cover;
       display:block;
     }
+
     .media .placeholder{
-      color:rgba(255,255,255,.35);
+      color:#888;
       font-size:13px;
-      letter-spacing:.4px;
-      border:1px dashed rgba(255,255,255,.18);
+      border:1px dashed #ccc;
       padding:10px 12px;
       border-radius:999px;
     }
@@ -109,11 +134,12 @@
       gap:10px;
       flex:1;
     }
+
     .h{
       font-size:18px;
       margin:0;
-      letter-spacing:.2px;
     }
+
     .p{
       margin:0;
       color:var(--muted);
@@ -125,22 +151,24 @@
     .meta{
       margin-top:auto;
       padding-top:10px;
-      border-top:1px solid rgba(255,255,255,.08);
+      border-top:1px solid var(--line);
       display:flex;
       align-items:center;
       justify-content:space-between;
       gap:12px;
       flex-wrap:wrap;
     }
+
     .tag{
       font-size:12px;
-      color:rgba(255,255,255,.70);
-      background:rgba(255,255,255,.06);
-      border:1px solid rgba(255,255,255,.10);
+      color:#444;
+      background:#f2f2f2;
+      border:1px solid var(--line);
       padding:6px 10px;
       border-radius:999px;
       white-space:nowrap;
     }
+
     .cta{
       text-decoration:none;
       display:inline-flex;
@@ -148,27 +176,19 @@
       justify-content:center;
       gap:8px;
       background:var(--btn);
-      border:1px solid rgba(255,255,255,.14);
-      padding:10px 12px;
-      border-radius:12px;
+      border:1px solid #c7b4ff;
+      padding:10px 14px;
+      border-radius:999px;
       font-size:13px;
-      letter-spacing:.2px;
-      transition:transform .12s ease, background .12s ease, border-color .12s ease;
+      font-weight:700;
+      transition:transform .12s ease, box-shadow .12s ease, background .12s ease;
       white-space:nowrap;
     }
+
     .cta:hover{
       background:var(--btnHover);
-      border-color:rgba(255,255,255,.22);
-      transform: translateY(-1px);
-    }
-
-    .note{
-      margin-top:18px;
-      border-top:1px solid var(--line);
-      padding-top:14px;
-      color:rgba(255,255,255,.50);
-      font-size:12px;
-      line-height:1.5;
+      transform:scale(1.03);
+      box-shadow:0 0 18px rgba(176,120,255,.35);
     }
   </style>
 </head>
@@ -185,59 +205,49 @@
 
     <h1 class="title">Public Appearances and Events</h1>
     <p class="subtitle">
-      Talks, signings, screenings, festivals, tours, and other time-based appearances. This section points to
-      existing pages so URLs stay stable while the archive becomes more structured.
+      Talks, signings, screenings, fairs, festivals, tours, and other time-based appearances.
+      Use the sections below to browse the event categories.
     </p>
 
     <div class="grid">
-      <!-- Talks -->
       <section class="card">
         <div class="media">
-          <!-- Optional: add a square thumbnail inside /images and update the path -->
-          <!-- <img src="../images/entry-talks.jpg" alt="Talks and lectures thumbnail" /> -->
+          <!-- Optional later: ../images/events/talks-square.jpg -->
           <div class="placeholder">SQUARE THUMBNAIL</div>
         </div>
         <div class="content">
           <h2 class="h">Public Talks, Lectures and Book Signings</h2>
-          <p class="p">
-            Speaking engagements, lectures, interviews in public settings, and book signings.
-          </p>
+          <p class="p">Speaking engagements and book-related appearances.</p>
           <div class="meta">
-            <span class="tag">Appearances</span>
+            <span class="tag">Talks</span>
             <a class="cta" href="../public-talks-lectures-book-signings.html">Browse Talks →</a>
           </div>
         </div>
       </section>
 
-      <!-- Film -->
       <section class="card">
         <div class="media">
-          <!-- <img src="../images/entry-film.jpg" alt="Film screenings thumbnail" /> -->
+          <!-- Optional later: ../images/events/film-square.jpg -->
           <div class="placeholder">SQUARE THUMBNAIL</div>
         </div>
         <div class="content">
           <h2 class="h">Film Screenings and Film-Related Events</h2>
-          <p class="p">
-            Screenings, festival programs, Q&amp;As, and other film-related appearances or documentation.
-          </p>
+          <p class="p">Screenings, festival programs, Q&amp;As, and film-related documentation.</p>
           <div class="meta">
-            <span class="tag">Screenings</span>
+            <span class="tag">Film</span>
             <a class="cta" href="../film-screenings-festivals-film-events.html">Browse Film →</a>
           </div>
         </div>
       </section>
 
-      <!-- Special -->
       <section class="card">
         <div class="media">
-          <!-- <img src="../images/entry-special.jpg" alt="Special events thumbnail" /> -->
+          <!-- Optional later: ../images/events/special-square.jpg -->
           <div class="placeholder">SQUARE THUMBNAIL</div>
         </div>
         <div class="content">
           <h2 class="h">Special Events, Parties and Tours</h2>
-          <p class="p">
-            Openings, parties, tours, and other special appearances that don’t fit cleanly under talks or film.
-          </p>
+          <p class="p">Openings, parties, tours, and other special appearances.</p>
           <div class="meta">
             <span class="tag">Special</span>
             <a class="cta" href="../special-events-parties-tours.html">Browse Special →</a>
@@ -245,28 +255,20 @@
         </div>
       </section>
 
-      <!-- Fairs -->
       <section class="card">
         <div class="media">
-          <!-- <img src="../images/entry-fairs.jpg" alt="Fairs and festivals thumbnail" /> -->
+          <!-- Optional later: ../images/events/fairs-square.jpg -->
           <div class="placeholder">SQUARE THUMBNAIL</div>
         </div>
         <div class="content">
           <h2 class="h">Art Fairs, Conventions and Festivals</h2>
-          <p class="p">
-            Time-based participation in fairs, conventions, and festivals. Use this when the primary story is presence and programming.
-          </p>
+          <p class="p">Time-based participation in fairs, conventions, and festivals.</p>
           <div class="meta">
-            <span class="tag">Fairs / festivals</span>
+            <span class="tag">Fairs</span>
             <a class="cta" href="../art-fairs-conventions-festivals.html">Browse Fairs →</a>
           </div>
         </div>
       </section>
-    </div>
-
-    <div class="note">
-      If any of these destination pages do not exist yet, the link will 404 until you create the file.
-      If your fairs page uses a different filename, tell me the exact name and I’ll update this to match.
     </div>
   </div>
 </body>
