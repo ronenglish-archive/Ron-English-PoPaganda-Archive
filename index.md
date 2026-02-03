@@ -262,14 +262,26 @@
             </a>
           </div>
 
-          <div class="sub-row">
-            <a class="sub-link" href="exhibitions/solo-exhibitions.html">
-              <span class="sub-dot"></span> Solo
-            </a>
-            <a class="sub-link" href="exhibitions/group-exhibitions.html">
-              <span class="sub-dot"></span> Group
-            </a>
-          </div>
+      <!-- Exhibitions -->
+<section class="section-card">
+  <div class="card-media">
+    <img src="images/entry-exhibitions.jpg" alt="Exhibitions section image" />
+  </div>
+  <div class="card-body">
+    <h2 class="card-title">Exhibitions</h2>
+    <p class="card-desc">
+      Solo and group exhibitions documented and organized by decade.
+    </p>
+
+    <div class="action-row">
+      <a class="action-link" href="exhibitions/">
+        <span class="action-dot"></span>
+        Enter exhibitions
+      </a>
+    </div>
+  </div>
+</section>
+
         </div>
       </section>
 
