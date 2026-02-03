@@ -6,188 +6,202 @@
   <title>PoPaganda Archive — Exhibitions</title>
   <meta name="description" content="Ron English PoPaganda Archive — exhibitions documentation and navigation." />
   <style>
-    :root{
-      --bg:#0b0c0f;
-      --panel:#12141a;
-      --panel2:#0f1116;
-      --text:#f2f3f5;
-      --muted:#b7bcc6;
-      --line:rgba(255,255,255,.10);
-      --accent:#e9ecef;
-      --btn:#1a1d25;
-      --btnHover:#232838;
-      --shadow:0 10px 30px rgba(0,0,0,.35);
-      --radius:16px;
-      --radius2:14px;
-      --max:1100px;
-      --sans: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, "Noto Sans", "Liberation Sans", sans-serif;
-    }
-    html,body{height:100%}
-    body{
-      margin:0;
-      font-family:var(--sans);
-      background:linear-gradient(180deg, var(--bg), #07080a 60%, #050607);
-      color:var(--text);
-    }
-    a{color:inherit}
-    .wrap{max-width:var(--max); margin:0 auto; padding:28px 18px 64px;}
-    .topbar{
-      display:flex; gap:12px; align-items:center; justify-content:space-between;
-      padding:10px 0 22px;
-      border-bottom:1px solid var(--line);
-      margin-bottom:22px;
-    }
-    .crumbs{
-      font-size:13px; color:var(--muted);
-      display:flex; gap:8px; align-items:center; flex-wrap:wrap;
-    }
-    .crumbs a{color:var(--muted); text-decoration:none}
-    .crumbs a:hover{color:var(--text); text-decoration:underline}
-    .title{
-      margin:18px 0 10px;
-      font-size:34px;
-      letter-spacing:.2px;
-      line-height:1.15;
-    }
-    .subtitle{
-      margin:0 0 22px;
-      color:var(--muted);
-      max-width:70ch;
-      line-height:1.5;
-      font-size:15px;
-    }
-    .grid{
-      display:grid;
-      grid-template-columns: repeat(12, 1fr);
-      gap:14px;
-    }
-    .card{
-      grid-column: span 6;
-      background:linear-gradient(180deg, var(--panel), var(--panel2));
-      border:1px solid var(--line);
-      border-radius:var(--radius);
-      box-shadow:var(--shadow);
-      overflow:hidden;
-      display:flex;
-      flex-direction:column;
-      min-height: 360px;
-    }
-    @media (max-width: 900px){
-      .card{grid-column: span 12;}
-    }
-    .media{
-      width:100%;
-      aspect-ratio: 1 / 1;
-      background:#0a0b0e;
-      border-bottom:1px solid var(--line);
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      overflow:hidden;
-    }
-    .media img{
-      width:100%;
-      height:100%;
-      object-fit:cover;
-      display:block;
-    }
-    .media .placeholder{
-      color:rgba(255,255,255,.35);
-      font-size:13px;
-      letter-spacing:.4px;
-      border:1px dashed rgba(255,255,255,.18);
-      padding:10px 12px;
-      border-radius:999px;
-    }
-    .content{
-      padding:16px 16px 18px;
-      display:flex;
-      flex-direction:column;
-      gap:10px;
-      flex:1;
-    }
-    .h{
-      font-size:18px;
-      margin:0;
-      letter-spacing:.2px;
-    }
-    .p{
-      margin:0;
-      color:var(--muted);
-      font-size:14px;
-      line-height:1.45;
-      max-width:70ch;
-    }
-    .meta{
-      margin-top:auto;
-      padding-top:10px;
-      border-top:1px solid rgba(255,255,255,.08);
-      display:flex;
-      align-items:center;
-      justify-content:space-between;
-      gap:12px;
-      flex-wrap:wrap;
-    }
-    .tag{
-      font-size:12px;
-      color:rgba(255,255,255,.70);
-      background:rgba(255,255,255,.06);
-      border:1px solid rgba(255,255,255,.10);
-      padding:6px 10px;
-      border-radius:999px;
-      white-space:nowrap;
-    }
-    .cta{
-      text-decoration:none;
-      display:inline-flex;
-      align-items:center;
-      justify-content:center;
-      gap:8px;
-      background:var(--btn);
-      border:1px solid rgba(255,255,255,.14);
-      padding:10px 12px;
-      border-radius:12px;
-      font-size:13px;
-      letter-spacing:.2px;
-      transition:transform .12s ease, background .12s ease, border-color .12s ease;
-      white-space:nowrap;
-    }
-    .cta:hover{
-      background:var(--btnHover);
-      border-color:rgba(255,255,255,.22);
-      transform: translateY(-1px);
-    }
-    .footer{
-      margin-top:26px;
-      color:rgba(255,255,255,.45);
-      font-size:12px;
-      border-top:1px solid var(--line);
-      padding-top:16px;
-      line-height:1.5;
-    }
-    .twoCards{
-      margin-top:14px;
-      display:grid;
-      grid-template-columns: 1fr 1fr;
-      gap:14px;
-    }
-    @media (max-width: 900px){
-      .twoCards{grid-template-columns: 1fr;}
-    }
-    .mini{
-      background:rgba(255,255,255,.04);
-      border:1px solid rgba(255,255,255,.10);
-      border-radius:var(--radius2);
-      padding:14px 14px 14px;
-      display:flex;
-      align-items:flex-start;
-      justify-content:space-between;
-      gap:12px;
-    }
-    .mini .left{display:flex; flex-direction:column; gap:6px;}
-    .mini .h{font-size:15px}
-    .mini .p{font-size:13px}
-  </style>
+  :root{
+    --bg:#ffffff;
+    --panel:#ffffff;
+    --panel2:#ffffff;
+    --text:#111111;
+    --muted:#555555;
+    --line:#e6e6e6;
+    --btn:#e5e0ff;
+    --btnHover:#d9d2ff;
+    --shadow:0 10px 30px rgba(0,0,0,.06);
+    --radius:16px;
+    --max:1100px;
+    --sans: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  }
+
+  html,body{height:100%}
+
+  body{
+    margin:0;
+    font-family:var(--sans);
+    background:var(--bg);
+    color:var(--text);
+  }
+
+  a{color:inherit}
+
+  .wrap{
+    max-width:var(--max);
+    margin:0 auto;
+    padding:28px 18px 64px;
+  }
+
+  .topbar{
+    display:flex;
+    gap:12px;
+    align-items:center;
+    justify-content:space-between;
+    padding:10px 0 22px;
+    border-bottom:1px solid var(--line);
+    margin-bottom:22px;
+  }
+
+  .crumbs{
+    font-size:13px;
+    color:var(--muted);
+    display:flex;
+    gap:8px;
+    align-items:center;
+    flex-wrap:wrap;
+  }
+
+  .crumbs a{
+    color:var(--muted);
+    text-decoration:none;
+  }
+
+  .crumbs a:hover{
+    text-decoration:underline;
+  }
+
+  .title{
+    margin:18px 0 10px;
+    font-size:34px;
+    line-height:1.15;
+  }
+
+  .subtitle{
+    margin:0 0 22px;
+    color:var(--muted);
+    max-width:72ch;
+    line-height:1.5;
+    font-size:15px;
+  }
+
+  .grid{
+    display:grid;
+    grid-template-columns:repeat(12,1fr);
+    gap:18px;
+  }
+
+  .card{
+    grid-column:span 6;
+    background:var(--panel);
+    border:1px solid var(--line);
+    border-radius:var(--radius);
+    box-shadow:var(--shadow);
+    overflow:hidden;
+    display:flex;
+    flex-direction:column;
+    min-height:360px;
+  }
+
+  @media (max-width:900px){
+    .card{grid-column:span 12;}
+  }
+
+  .media{
+    width:100%;
+    aspect-ratio:1/1;
+    background:#f2f2f2;
+    border-bottom:1px solid var(--line);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    overflow:hidden;
+  }
+
+  .media img{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    display:block;
+  }
+
+  .media .placeholder{
+    color:#888;
+    font-size:13px;
+    border:1px dashed #ccc;
+    padding:10px 12px;
+    border-radius:999px;
+  }
+
+  .content{
+    padding:16px 16px 18px;
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+    flex:1;
+  }
+
+  .h{
+    font-size:18px;
+    margin:0;
+  }
+
+  .p{
+    margin:0;
+    color:var(--muted);
+    font-size:14px;
+    line-height:1.45;
+    max-width:70ch;
+  }
+
+  .meta{
+    margin-top:auto;
+    padding-top:10px;
+    border-top:1px solid var(--line);
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:12px;
+    flex-wrap:wrap;
+  }
+
+  .tag{
+    font-size:12px;
+    color:#444;
+    background:#f2f2f2;
+    border:1px solid var(--line);
+    padding:6px 10px;
+    border-radius:999px;
+    white-space:nowrap;
+  }
+
+  .cta{
+    text-decoration:none;
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    gap:8px;
+    background:var(--btn);
+    border:1px solid #c7b4ff;
+    padding:10px 14px;
+    border-radius:999px;
+    font-size:13px;
+    font-weight:700;
+    transition:transform .12s ease, box-shadow .12s ease, background .12s ease;
+    white-space:nowrap;
+  }
+
+  .cta:hover{
+    background:var(--btnHover);
+    transform:scale(1.03);
+    box-shadow:0 0 18px rgba(176,120,255,.35);
+  }
+
+  .note{
+    margin-top:18px;
+    border-top:1px solid var(--line);
+    padding-top:14px;
+    color:#666;
+    font-size:12px;
+    line-height:1.5;
+  }
+</style>
+
 </head>
 
 <body>
